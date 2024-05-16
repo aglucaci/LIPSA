@@ -1,0 +1,141 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 1
+Job stats:
+job                      count
+---------------------  -------
+GatherLineages               1
+ParseGARD                    1
+all                          1
+cln                          1
+cluster_to_fasta             1
+iqtree                       1
+recombination                1
+remove_duplicates_msa        1
+strike_ambigs_msa            1
+tn93_cluster                 1
+total                       10
+
+Select jobs to execute...
+
+[Thu Feb 29 11:25:34 2024]
+rule cln:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    jobid: 8
+    reason: Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: GENE=GnathostomataBCL6.RD.SA
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 8 with external jobid 'Submitted batch job 11156857'.
+[Thu Feb 29 11:25:54 2024]
+Finished job 8.
+1 of 10 steps (10%) done
+Select jobs to execute...
+
+[Thu Feb 29 11:25:54 2024]
+rule strike_ambigs_msa:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.cln.fa
+    jobid: 13
+    reason: Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 13 with external jobid 'Submitted batch job 11156858'.
+[Thu Feb 29 11:26:14 2024]
+Finished job 13.
+2 of 10 steps (20%) done
+Select jobs to execute...
+
+[Thu Feb 29 11:26:14 2024]
+rule remove_duplicates_msa:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    jobid: 12
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 12 with external jobid 'Submitted batch job 11156859'.
+[Thu Feb 29 11:26:24 2024]
+Finished job 12.
+3 of 10 steps (30%) done
+Select jobs to execute...
+
+[Thu Feb 29 11:26:24 2024]
+rule iqtree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    jobid: 11
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 11 with external jobid 'Submitted batch job 11156860'.
+[Thu Feb 29 11:26:34 2024]
+Error in rule iqtree:
+    jobid: 11
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    shell:
+        iqtree -s /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa -T AUTO -B 1000
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+    cluster_jobid: Submitted batch job 11156860
+
+Error executing rule iqtree on cluster (jobid: 11, external: Submitted batch job 11156860, jobscript: /athena/melnicklab/users/scratch/agl4001/AOC/.snakemake/tmp.fz1k924f/snakejob.iqtree.11.sh). For error details see the cluster log and the log files of the involved rule(s).
+Select jobs to execute...
+
+[Thu Feb 29 11:26:34 2024]
+rule tn93_cluster:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    jobid: 14
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 14 with external jobid 'Submitted batch job 11156861'.
+[Thu Feb 29 11:26:44 2024]
+Finished job 14.
+4 of 10 steps (40%) done
+Select jobs to execute...
+
+[Thu Feb 29 11:26:44 2024]
+rule cluster_to_fasta:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    jobid: 15
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 15 with external jobid 'Submitted batch job 11156862'.
+[Thu Feb 29 11:26:54 2024]
+Finished job 15.
+5 of 10 steps (50%) done
+Select jobs to execute...
+
+[Thu Feb 29 11:26:54 2024]
+rule recombination:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard
+    jobid: 16
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 16 with external jobid 'Submitted batch job 11156863'.
+[Thu Feb 29 11:27:04 2024]
+Error in rule recombination:
+    jobid: 16
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard
+    shell:
+        mpirun -np 16 HYPHYMPI GARD --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta --rv GDD --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+    cluster_jobid: Submitted batch job 11156863
+
+Error executing rule recombination on cluster (jobid: 16, external: Submitted batch job 11156863, jobscript: /athena/melnicklab/users/scratch/agl4001/AOC/.snakemake/tmp.fz1k924f/snakejob.recombination.16.sh). For error details see the cluster log and the log files of the involved rule(s).
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-02-29T112532.082353.snakemake.log

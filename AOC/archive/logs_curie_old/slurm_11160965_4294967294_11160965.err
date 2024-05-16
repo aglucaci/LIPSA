@@ -1,0 +1,17 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Tue Mar 19 11:44:26 2024]
+rule macse_trim:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.trim.fa, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.aa.trim.fa
+    jobid: 0
+    reason: Forced execution
+    wildcards: GENE=GnathostomataBCL6.SA
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+slurmstepd: error: *** JOB 11160965 ON node138 CANCELLED AT 2024-03-19T12:42:20 ***

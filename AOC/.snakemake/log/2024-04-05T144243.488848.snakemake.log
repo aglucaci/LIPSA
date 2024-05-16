@@ -1,0 +1,40 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+FEL             7
+all             1
+fasttree        7
+tn93            3
+total          18
+
+Select jobs to execute...
+
+[Fri Apr  5 14:42:44 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    jobid: 9
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+Waiting at most 300 seconds for missing files.
+MissingOutputException in rule fasttree in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile_Recombinants, line 126:
+Job 9  completed successfully, but some output files are missing. Missing files after 300 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+Select jobs to execute...
+
+[Fri Apr  5 14:47:52 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    jobid: 14
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+Waiting at most 300 seconds for missing files.

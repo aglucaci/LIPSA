@@ -1,0 +1,43 @@
+
+Analysis Description
+--------------------
+Examine whether or not a codon alignment is better fit by models which
+permit multiple instantaneous substitutions. v0.2 adds a separate rate
+for codon-island triple-hit rates
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Citation__: Submitted; preprint at hyphy.org/resources/fmm.pdf
+
+- __Written by__: Sergei L Kosakovsky Pond, Sadie Wisotsky and Alexander Lucaci
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 1.0
+
+
+>code => Universal
+/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile
+/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile
+
+>Loaded a multiple sequence alignment with **548** sequences, **1496** codons, and **1** partitions from `/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta`
+The number of omega rate classes to include in the model (permissible range = [1,10], default value = 3, integer): 
+>rates => 3
+
+>triple-islands => Yes
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+
+>kill-zero-lengths => Yes
+
+### Deleted 12 zero-length internal branches: `Node16, Node192, Node193, Node20, Node238, Node279, Node295, Node321, Node812, Node846, Node847, Node861`
+* Log(L) = -210265.85, AIC-c = 422734.68 (1101 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 22.874
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -190226.87, AIC-c = 382648.68 (1096 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site) 26.593
+* non-synonymous/synonymous rate ratio for *test* =   0.1154
+
+### Fitting Standard MG94

@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 32
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Thu Mar 21 11:32:37 2024]
+rule recombination:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard
+    jobid: 0
+    reason: Forced execution
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/scratchLocal/agl4001_11161853
+
+mpirun: Error: unknown option "--NP"
+Type 'mpirun --help' for usage.
+[Thu Mar 21 11:32:38 2024]
+Error in rule recombination:
+    jobid: 0
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard
+    shell:
+        mpirun --NP 32 HYPHYMPI GARD --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta --rv GDD --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message

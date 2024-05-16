@@ -1,0 +1,83 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+FEL             7
+all             1
+fasttree        7
+tn93            7
+total          22
+
+Select jobs to execute...
+
+[Fri Apr  5 14:42:19 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.dst
+    jobid: 2
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:42:19 2024]
+Finished job 2.
+1 of 22 steps (5%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:42:19 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.dst
+    jobid: 3
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:42:20 2024]
+Finished job 3.
+2 of 22 steps (9%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:42:20 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.dst
+    jobid: 5
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:42:20 2024]
+Finished job 5.
+3 of 22 steps (14%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:42:20 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.dst
+    jobid: 7
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:42:20 2024]
+Finished job 7.
+4 of 22 steps (18%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:42:20 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    jobid: 9
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+RuleException in rule fasttree in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile_Recombinants, line 126:
+AttributeError: 'InputFiles' object has no attribute 'input', when formatting the following:
+FastTree -nt {input.input} > output.tree

@@ -1,0 +1,80 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 8
+Job stats:
+job                 count
+----------------  -------
+ParseGARD               1
+all                     1
+cluster_to_fasta        1
+recombination           1
+tn93_cluster            1
+total                   5
+
+Select jobs to execute...
+
+[Fri Mar 29 10:14:43 2024]
+rule tn93_cluster:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    jobid: 7
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json; Code has changed since last execution
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 7 with external jobid 'Submitted batch job 11164117'.
+[Fri Mar 29 10:15:02 2024]
+Finished job 7.
+1 of 5 steps (20%) done
+Select jobs to execute...
+
+[Fri Mar 29 10:15:02 2024]
+rule cluster_to_fasta:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    jobid: 8
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 8 with external jobid 'Submitted batch job 11164118'.
+[Fri Mar 29 10:15:12 2024]
+Finished job 8.
+2 of 5 steps (40%) done
+Select jobs to execute...
+
+[Fri Mar 29 10:15:12 2024]
+rule recombination:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard
+    jobid: 9
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.GARD.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 9 with external jobid 'Submitted batch job 11164119'.
+[Sat Mar 30 10:02:08 2024]
+Finished job 9.
+3 of 5 steps (60%) done
+Select jobs to execute...
+
+[Sat Mar 30 10:02:08 2024]
+rule ParseGARD:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    jobid: 10
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 10 with external jobid 'Submitted batch job 11164306'.
+[Sat Mar 30 10:02:18 2024]
+Error in rule ParseGARD:
+    jobid: 10
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    cluster_jobid: Submitted batch job 11164306
+
+Error executing rule ParseGARD on cluster (jobid: 10, external: Submitted batch job 11164306, jobscript: /athena/melnicklab/users/scratch/agl4001/AOC/.snakemake/tmp.v1x7m6_e/snakejob.ParseGARD.10.sh). For error details see the cluster log and the log files of the involved rule(s).
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-29T101419.730848.snakemake.log

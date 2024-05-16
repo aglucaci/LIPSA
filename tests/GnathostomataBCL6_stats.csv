@@ -1,0 +1,552 @@
+seqName;initialSeqLength;nbKeep;nbTrim;nbInformativeTrim;percentHomologExcludingExtremities;percentHomologIncludingExtremities;keptSequences
+NM_001706.5 Homo sapiens BCL6 transcription repressor (BCL6), transcript variant 1, mRNA;2118;2118;0;0;1.0;1.0;true
+NM_009744.5 Mus musculus B cell leukemia/lymphoma 6 (Bcl6), transcript variant 1, mRNA;2121;2121;0;0;1.0;1.0;true
+NM_001107084.1 Rattus norvegicus BCL6, transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_021476813.1 PREDICTED: Danio rerio B-cell CLL/lymphoma 6a (zinc finger protein 51) (bcl6a), transcript variant X1, mRNA;2244;2244;0;0;1.0;1.0;true
+NM_001012930.1 Gallus gallus B-cell CLL/lymphoma 6 (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_001158812.6 PREDICTED: Pan troglodytes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+NM_001195404.1 Canis lupus familiaris BCL6 transcription repressor (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+NM_001206450.1 Bos taurus B cell CLL/lymphoma 6 (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+NM_001261326.2 Macaca mulatta BCL6 transcription repressor (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_029827596.1 PREDICTED: Takifugu rubripes BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2244;2244;0;0;1.0;1.0;true
+XM_001499782.5 PREDICTED: Equus caballus B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_007669034.3 PREDICTED: Ornithorhynchus anatinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2136;2136;0;0;1.0;1.0;true
+NM_001122806.1 Xenopus tropicalis BCL6, transcription repressor (bcl6), mRNA;2106;2106;0;0;1.0;1.0;true
+NM_001315701.1 Sus scrofa BCL6 transcription repressor (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_030279945.3 PREDICTED: Taeniopygia guttata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2187;2187;0;0;1.0;1.0;true
+NM_001159790.1 Pongo abelii BCL6 transcription repressor (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_002716500.3 PREDICTED: Oryctolagus cuniculus BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_002758173.4 PREDICTED: Callithrix jacchus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_002914804.4 PREDICTED: Ailuropoda melanoleuca BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_010716758.3 PREDICTED: Meleagris gallopavo BCL6 transcription repressor (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_003229395.2 PREDICTED: Anolis carolinensis B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_003256638.4 PREDICTED: Nomascus leucogenys BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_003412912.3 PREDICTED: Loxodonta africana B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_005451217.4 PREDICTED: Oreochromis niloticus B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_003477082.4 PREDICTED: Cavia porcellus B cell CLL/lymphoma 6 (Bcl6), transcript variant X2, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_007642519.4 PREDICTED: Cricetulus griseus BCL6 transcription repressor (Bcl6), transcript variant X4, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_003792711.3 PREDICTED: Otolemur garnettii B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_003824955.5 PREDICTED: Pan paniscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_021934975.2 PREDICTED: Papio anubis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_003927003.3 PREDICTED: Saimiri boliviensis boliviensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_003991804.5 PREDICTED: Felis catus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004003049.6 PREDICTED: Ovis aries BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004038190.4 PREDICTED: Gorilla gorilla gorilla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_020702639.2 PREDICTED: Oryzias latipes B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_004278482.4 PREDICTED: Orcinus orca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004329316.3 PREDICTED: Tursiops truncatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004382238.2 PREDICTED: Trichechus manatus latirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004413428.1 PREDICTED: Odobenus rosmarus divergens B-cell CLL/lymphoma 6 (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004424584.2 PREDICTED: Ceratotherium simum simum B-cell CLL/lymphoma 6 (LOC101400063), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_012528483.3 PREDICTED: Dasypus novemcinctus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004552837.5 PREDICTED: Maylandia zebra B cell CLL/lymphoma 6 (bcl6), transcript variant X2, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_004577776.3 PREDICTED: Ochotona princeps BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004603016.2 PREDICTED: Sorex araneus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_023700946.1 PREDICTED: Octodon degus B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004654283.2 PREDICTED: Jaculus jaculus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_004675085.2 PREDICTED: Condylura cristata B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004713406.2 PREDICTED: Echinops telfairi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2109;2109;0;0;1.0;1.0;true
+XM_004745232.3 PREDICTED: Mustela putorius furo BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_004834799.3 PREDICTED: Heterocephalus glaber B-cell CLL/lymphoma 6 (Bcl6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_027464090.2 PREDICTED: Anas platyrhynchos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005051112.2 PREDICTED: Ficedula albicollis B-cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005071603.4 PREDICTED: Mesocricetus auratus BCL6 transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_031043007.2 PREDICTED: Melopsittacus undulatus BCL6 transcription repressor (LOC101872939), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_013299395.3 PREDICTED: Falco peregrinus BCL6 transcription repressor (BCL6), transcript variant X4, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_042843888.1 PREDICTED: Chrysemys picta bellii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2373;2178;195;195;0.957;0.917;true
+XM_005330983.3 PREDICTED: Ictidomys tridecemlineatus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_005344763.2 PREDICTED: Microtus ochrogaster B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_005383244.2 PREDICTED: Chinchilla lanigera B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_005418963.1 PREDICTED: Geospiza fortis BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_014283621.3 PREDICTED: Falco cherrug BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005484910.3 PREDICTED: Zonotrichia albicollis B cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005513218.2 PREDICTED: Columba livia B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005524990.2 PREDICTED: Pseudopodoces humilis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_005545439.3 PREDICTED: Macaca fascicularis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_005675136.3 PREDICTED: Capra hircus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_005727170.1 PREDICTED: Pundamilia nyererei B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_023339719.1 PREDICTED: Xiphophorus maculatus B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_005876266.2 PREDICTED: Myotis brandtii B-cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_005899653.2 PREDICTED: Bos mutus B-cell CLL/lymphoma 6 (BCL6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_005919733.3 PREDICTED: Haplochromis burtoni BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_005992451.2 PREDICTED: Latimeria chalumnae B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_006022414.3 PREDICTED: Alligator sinensis B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_006068967.3 PREDICTED: Bubalus bubalis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006084784.3 PREDICTED: Myotis lucifugus B cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_006122212.3 PREDICTED: Pelodiscus sinensis B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_006156730.3 PREDICTED: Tupaia chinensis BCL6, transcription repressor (BCL6), transcript variant X5, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006188853.3 PREDICTED: Camelus ferus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006200974.3 PREDICTED: Vicugna pacos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;1950;1950;0;0;1.0;1.0;true
+XM_019499053.2 PREDICTED: Alligator mississippiensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_015361246.1 PREDICTED: Lepisosteus oculatus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2187;2187;0;0;1.0;1.0;true
+XM_006737223.2 PREDICTED: Leptonychotes weddellii BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006765857.2 PREDICTED: Myotis davidii B-cell CLL/lymphoma 6 (BCL6), transcript variant X4, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_006790415.2 PREDICTED: Neolamprologus brichardi BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2190;2190;0;0;1.0;1.0;true
+XM_006871885.1 PREDICTED: Chrysochloris asiatica B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006925831.3 PREDICTED: Pteropus alecto B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_006985077.2 PREDICTED: Peromyscus maniculatus bairdii BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_027820257.3 PREDICTED: Chelonia mydas BCL6 transcription repressor (BCL6), transcript variant X3, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_007083564.2 PREDICTED: Panthera tigris BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_028492096.1 PREDICTED: Physeter catodon BCL6 transcription repressor (BCL6), mRNA;657;0;657;657;0.0;0.0;false
+XM_007195227.3 PREDICTED: Balaenoptera acutorostrata BCL6 transcription repressor (BCL6), transcript variant X3, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_007253672.3 PREDICTED: Astyanax mexicanus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2247;2247;0;0;1.0;1.0;true
+XM_007443483.3 PREDICTED: Python bivittatus B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA;2463;2091;372;372;1.0;0.848;true
+XM_007448427.1 PREDICTED: Lipotes vexillifer B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2184;2121;63;63;1.0;0.971;true
+XM_007532729.3 PREDICTED: Erinaceus europaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_016681390.1 PREDICTED: Poecilia formosa B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2232;2232;0;0;1.0;1.0;true
+XM_042339305.1 PREDICTED: Callorhinchus milii BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2100;1968;132;132;0.937;0.937;true
+XM_007935999.1 PREDICTED: Orycteropus afer afer BCL6 transcription repressor (BCL6), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_008009504.2 PREDICTED: Chlorocebus sabaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_008058479.1 PREDICTED: Carlito syrichta B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2061;2061;0;0;1.0;1.0;true
+XM_008151582.3 PREDICTED: Eptesicus fuscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_008277532.1 PREDICTED: Stegastes partitus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2151;2151;0;0;1.0;1.0;true
+XM_025054239.1 PREDICTED: Cynoglossus semilaevis B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2145;2145;0;0;1.0;1.0;true
+XM_008407674.2 PREDICTED: Poecilia reticulata B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_030456630.1 PREDICTED: Calypte anna BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_008529681.1 PREDICTED: Equus przewalskii B-cell CLL/lymphoma 6 (BCL6), mRNA;2067;2067;0;0;1.0;1.0;true
+XM_008580059.1 PREDICTED: Galeopterus variegatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_008644564.2 PREDICTED: Corvus brachyrhynchos B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_008705170.2 PREDICTED: Ursus maritimus BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_008839673.3 PREDICTED: Nannospalax galili BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_018075001.2 PREDICTED: Manacus vitellinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_008947051.1 PREDICTED: Merops nubicus B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009074077.1 PREDICTED: Acanthisitta chloris B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009089135.4 PREDICTED: Serinus canaria BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009282362.1 PREDICTED: Aptenodytes forsteri B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009323587.1 PREDICTED: Pygoscelis adeliae B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009468446.1 PREDICTED: Nipponia nippon B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009481748.1 PREDICTED: Pelecanus crispus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054074606.1 PREDICTED: Cuculus canorus BCL6 transcription repressor (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_035891225.1 PREDICTED: Egretta garzetta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009682141.1 PREDICTED: Struthio camelus australis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_059822429.1 PREDICTED: Gavia stellata BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009871847.1 PREDICTED: Apaloderma vittatum B-cell CLL/lymphoma 6 (BCL6), mRNA;2130;2130;0;0;1.0;1.0;true
+XM_009883356.1 PREDICTED: Charadrius vociferus B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054166360.1 PREDICTED: Dryobates pubescens BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009916919.1 PREDICTED: Haliaeetus albicilla B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2208;2127;81;81;1.0;0.963;true
+XM_009931663.1 PREDICTED: Opisthocomus hoazin B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009955720.1 PREDICTED: Leptosomus discolor B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_042795784.1 PREDICTED: Tyto alba BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009989835.1 PREDICTED: Tauraco erythrolophus B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_009999825.1 PREDICTED: Chaetura pelagica B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010022513.1 PREDICTED: Nestor notabilis B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010078249.1 PREDICTED: Pterocles gutturalis B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010126623.1 PREDICTED: Chlamydotis macqueenii B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010137261.1 PREDICTED: Buceros rhinoceros silvestris B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010152391.1 PREDICTED: Eurypyga helias B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010177271.1 PREDICTED: Antrostomus carolinensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_010178553.1 PREDICTED: Mesitornis unicolor B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010200133.1 PREDICTED: Colius striatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010224385.1 PREDICTED: Tinamus guttatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_010287479.1 PREDICTED: Phaethon lepturus B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010307076.1 PREDICTED: Balearica regulorum gibbericeps B-cell CLL/lymphoma 6 (BCL6), mRNA;2163;2034;129;129;0.94;0.94;true
+XM_039556923.1 PREDICTED: Corvus cornix cornix BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010573059.1 PREDICTED: Haliaeetus leucocephalus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_010624136.3 PREDICTED: Fukomys damarensis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_019275343.2 PREDICTED: Larimichthys crocea BCL6, transcription repressor (bcl6), mRNA;2142;2142;0;0;1.0;1.0;true
+XM_010793958.1 PREDICTED: Notothenia coriiceps B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2136;2136;0;0;1.0;1.0;true
+XM_010853923.1 PREDICTED: Bison bison bison B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_020048703.3 PREDICTED: Esox lucius BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2283;2283;0;0;1.0;1.0;true
+XM_010959232.2 PREDICTED: Camelus bactrianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_010976122.2 PREDICTED: Camelus dromedarius BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_011381764.2 PREDICTED: Pteropus vampyrus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_011723157.1 PREDICTED: Macaca nemestrina B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_011961599.1 PREDICTED: Colobus angolensis palliatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2286;2127;159;159;1.0;0.93;true
+XM_011999881.1 PREDICTED: Mandrillus leucophaeus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_012036866.1 PREDICTED: Cercocebus atys B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_012470870.2 PREDICTED: Aotus nancymaae B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_012641605.1 PREDICTED: Propithecus coquereli B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_012789614.2 PREDICTED: Microcebus murinus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_013019440.1 PREDICTED: Dipodomys ordii B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_013195024.2 PREDICTED: Anser cygnoides BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_014022352.1 PREDICTED: Austrofundulus limnaeus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2214;2214;0;0;1.0;1.0;true
+XM_014074904.1 PREDICTED: Thamnophis sirtalis B-cell CLL/lymphoma 6 (BCL6), mRNA;2190;1986;204;204;0.906;0.906;true
+XM_014149659.2 PREDICTED: Salmo salar BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2265;2265;0;0;1.0;1.0;true
+XM_014843366.2 PREDICTED: Equus asinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_014871676.1 PREDICTED: Sturnus vulgaris B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_014946016.1 PREDICTED: Calidris pugnax B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_014974497.1 PREDICTED: Poecilia mexicana B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_015035952.1 PREDICTED: Poecilia latipinna B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2232;2232;0;0;1.0;1.0;true
+XM_027061206.2 PREDICTED: Acinonyx jubatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_015380994.1 PREDICTED: Cyprinodon variegatus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2253;2253;0;0;1.0;1.0;true
+XM_015415233.1 PREDICTED: Gekko japonicus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_015499981.2 PREDICTED: Marmota marmota marmota BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_015638187.2 PREDICTED: Parus major BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_029286451.1 PREDICTED: Protobothrops mucrosquamatus BCL6 transcription repressor (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_015871823.2 PREDICTED: Coturnix japonica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_015962367.2 PREDICTED: Nothobranchius furzeri BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_016136294.2 PREDICTED: Rousettus aegyptiacus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_016200065.1 PREDICTED: Miniopterus natalensis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_016279547.1 PREDICTED: Sinocyclocheilus grahami B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2253;2253;0;0;1.0;1.0;true
+XM_016497228.1 PREDICTED: Sinocyclocheilus anshuiensis B-cell lymphoma 6 protein-like (LOC107696747), mRNA;1758;1758;0;0;1.0;1.0;true
+XM_017423539.3 PREDICTED: Kryptolebias marmoratus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2220;2220;0;0;1.0;1.0;true
+XM_017479519.3 PREDICTED: Ictalurus punctatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_017549580.2 PREDICTED: Cebus imitator BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_017652474.2 PREDICTED: Manis javanica BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_017698025.2 PREDICTED: Pygocentrus nattereri BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2232;2232;0;0;1.0;1.0;true
+XM_017810751.1 PREDICTED: Lepidothrix coronata B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_017873414.1 PREDICTED: Rhinopithecus bieti B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_018576401.1 PREDICTED: Nanorana parkeri B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2148;2148;0;0;1.0;1.0;true
+XM_018757236.2 PREDICTED: Scleropages formosus B-cell lymphoma 6 protein homolog (LOC108937356), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_042758254.1 PREDICTED: Cyprinus carpio BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2247;2247;0;0;1.0;1.0;true
+XM_019463479.2 PREDICTED: Panthera pardus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_019503469.1 PREDICTED: Gavialis gangeticus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_019532901.1 PREDICTED: Crocodylus porosus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2019;2019;0;0;1.0;1.0;true
+XM_019623501.1 PREDICTED: Hipposideros armiger B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_019897175.1 PREDICTED: Hippocampus comes B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_019958254.1 PREDICTED: Bos indicus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_020080689.1 PREDICTED: Paralichthys olivaceus B-cell CLL/lymphoma 6 (bcl6), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_020186340.1 PREDICTED: Castor canadensis B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_020610089.1 PREDICTED: Monopterus albus B-cell CLL/lymphoma 6 (bcl6), mRNA;2142;2142;0;0;1.0;1.0;true
+XM_020632593.2 PREDICTED: Labrus bergylta BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2151;2151;0;0;1.0;1.0;true
+XM_020815801.1 PREDICTED: Pogona vitticeps B-cell CLL/lymphoma 6 (BCL6), mRNA;2139;2013;126;126;0.941;0.941;true
+XM_020870057.1 PREDICTED: Odocoileus virginianus texanus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_020989033.1 PREDICTED: Phascolarctos cinereus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_021185003.1 PREDICTED: Mus caroli BCL6 transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_021209834.2 PREDICTED: Mus pahari BCL6 transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_021395682.1 PREDICTED: Numida meleagris B-cell CLL/lymphoma 6 (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_021536835.2 PREDICTED: Lonchura striata domestica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2187;2187;0;0;1.0;1.0;true
+XM_036981292.1 PREDICTED: Oncorhynchus mykiss BCL6A transcription repressor a (bcl6aa), mRNA;2169;2169;0;0;1.0;1.0;true
+XM_021635127.2 PREDICTED: Meriones unguiculatus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_021692738.1 PREDICTED: Neomonachus schauinslandi BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_022509924.1 PREDICTED: Enhydra lutris kenyoni B-cell CLL/lymphoma 6 (LOC111151749), mRNA;2118;2118;0;0;1.0;1.0;true
+XM_022569851.2 PREDICTED: Delphinapterus leucas BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_022759406.1 PREDICTED: Seriola dumerili B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2151;2151;0;0;1.0;1.0;true
+XM_023214729.3 PREDICTED: Piliocolobus tephrosceles BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_035947167.2 PREDICTED: Amphiprion ocellaris BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_023425969.1 PREDICTED: Seriola lalandi dorsalis B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2259;2259;0;0;1.0;1.0;true
+XM_023948655.1 PREDICTED: Cyanistes caeruleus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_024202388.3 PREDICTED: Terrapene carolina triunguis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_024279113.2 PREDICTED: Oryzias melastigma BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2244;2244;0;0;1.0;1.0;true
+XM_024564607.3 PREDICTED: Desmodus rotundus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_024767173.1 PREDICTED: Neophocaena asiaeorientalis asiaeorientalis B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_025376066.1 PREDICTED: Theropithecus gelada B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_025425325.3 PREDICTED: Canis lupus dingo BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_025876825.1 PREDICTED: Callorhinus ursinus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2235;2130;105;105;0.953;0.953;true
+XM_025913303.1 PREDICTED: Puma concolor B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_026007351.1 PREDICTED: Vulpes vulpes B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_026045158.1 PREDICTED: Nothoprocta perdicaria B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_026070890.1 PREDICTED: Apteryx rowi B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_026093522.1 PREDICTED: Dromaius novaehollandiae B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_026158664.1 PREDICTED: Astatotilapia calliptera B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_026213780.1 PREDICTED: Carassius auratus B-cell lymphoma 6 protein homolog (LOC113050614), transcript variant X1, mRNA;2142;2142;0;0;1.0;1.0;true
+XM_026304847.1 PREDICTED: Mastacembelus armatus BCL6 transcription repressor (bcl6), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_026345503.1 PREDICTED: Anabas testudineus BCL6A transcription repressor a (bcl6aa), mRNA;2133;2133;0;0;1.0;1.0;true
+XM_026389338.1 PREDICTED: Urocitellus parryii B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_026496652.4 PREDICTED: Ursus arctos BCL6 transcription repressor (BCL6), transcript variant X3, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_026722355.1 PREDICTED: Pseudonaja textilis B cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA;1953;1953;0;0;1.0;1.0;true
+XM_026854934.1 PREDICTED: Athene cunicularia B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_026923309.3 PREDICTED: Pangasianodon hypophthalmus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_027007709.2 PREDICTED: Electrophorus electricus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2151;2151;0;0;1.0;1.0;true
+XM_027109106.1 PREDICTED: Lagenorhynchus obliquidens BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_027146647.2 PREDICTED: Tachysurus fulvidraco BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_027538429.1 PREDICTED: Bos indicus x Bos taurus BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_027586844.2 PREDICTED: Zalophus californianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2235;2130;105;105;0.953;0.953;true
+XM_027647270.1 PREDICTED: Corapipo altera BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_027685552.1 PREDICTED: Neopelma chrysocephalum BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_027848751.1 PREDICTED: Vombatus ursinus BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_027884016.1 PREDICTED: Empidonax traillii BCL6, transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_027951450.1 PREDICTED: Marmota flaviventris BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_028027665.1 PREDICTED: Xiphophorus couchianus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_028100879.1 PREDICTED: Eumetopias jubatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2235;2130;105;105;0.953;0.953;true
+XM_028404182.1 PREDICTED: Parambassis ranga BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2184;2121;63;63;1.0;0.971;true
+XM_028445322.1 PREDICTED: Gouania willdenowi BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_028505290.2 PREDICTED: Phyllostomus discolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_028587511.1 PREDICTED: Perca flavescens BCL6 transcription repressor (bcl6), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_028731855.1 PREDICTED: Podarcis muralis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_028783879.1 PREDICTED: Grammomys surdaster BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_028795022.2 PREDICTED: Erpetoichthys calabaricus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2169;2169;0;0;1.0;1.0;true
+XM_029001835.1 PREDICTED: Denticeps clupeoides BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2148;2148;0;0;1.0;1.0;true
+XM_029148402.3 PREDICTED: Betta splendens BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2223;2223;0;0;1.0;1.0;true
+XM_029214429.1 PREDICTED: Monodon monoceros BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_029429357.1 PREDICTED: Cottoperca gobio B-cell lymphoma 6 protein-like (LOC115006819), transcript variant X4, mRNA;2199;2199;0;0;1.0;1.0;true
+XM_029500813.1 PREDICTED: Echeneis naucrates BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_029615870.1 PREDICTED: Rhinatrema bivittatum BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_029653911.1 PREDICTED: Oncorhynchus nerka BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_029695388.1 PREDICTED: Salmo trutta BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2295;2295;0;0;1.0;1.0;true
+XM_029939648.1 PREDICTED: Suricata suricatta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_030028623.2 PREDICTED: Aquila chrysaetos chrysaetos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_030048854.1 PREDICTED: Myripristis murdjan BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_030082705.1 PREDICTED: Salarias fasciatus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_030131541.1 PREDICTED: Sphaeramia orbicularis BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_030217229.1 PREDICTED: Microcaecilia unicolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2160;2160;0;0;1.0;1.0;true
+XM_030434266.1 PREDICTED: Sparus aurata BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_030493774.1 PREDICTED: Strigops habroptila BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_030575506.1 PREDICTED: Gopherus evgoodei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_030791273.1 PREDICTED: Chanos chanos BCL6 transcription repressor (bcl6), mRNA;2139;2139;0;0;1.0;1.0;true
+XM_030860993.2 PREDICTED: Globicephala melas BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_030954612.1 PREDICTED: Camarhynchus parvulus BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_031311789.2 PREDICTED: Sander lucioperca BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_031363528.1 PREDICTED: Mastomys coucha BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_031603433.1 PREDICTED: Phasianus colchicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_039607473.1 PREDICTED: Oreochromis aureus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2226;2226;0;0;1.0;1.0;true
+XM_031873022.1 PREDICTED: Anarrhichthys ocellatus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_032119623.1 PREDICTED: Corvus moneduloides BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_032171886.2 PREDICTED: Hylobates moloch BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_032193365.1 PREDICTED: Aythya fuligula BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_032298276.1 PREDICTED: Sapajus apella BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_032337960.1 PREDICTED: Mustela erminea BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_032406925.1 PREDICTED: Phoca vitulina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_032526238.1 PREDICTED: Etheostoma spectabile BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2220;2220;0;0;1.0;1.0;true
+XM_032572011.1 PREDICTED: Xiphophorus hellerii BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_032629847.1 PREDICTED: Phocoena sinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_032697882.1 PREDICTED: Chiroxiphia lanceolata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_032777303.1 PREDICTED: Chelonoidis abingdonii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_032875618.1 PREDICTED: Lontra canadensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_033031677.1 PREDICTED: Amblyraja radiata BCL6 transcription repressor (bcl6), transcript variant X1, mRNA;2025;1329;696;696;0.683;0.656;true
+XM_033068987.1 PREDICTED: Catharus ustulatus BCL6 transcription repressor (BCL6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_033123804.1 PREDICTED: Rhinolophus ferrumequinum BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_033150913.1 PREDICTED: Lacerta agilis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_033213029.1 PREDICTED: Trachypithecus francoisi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_033622129.1 PREDICTED: Epinephelus lanceolatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_033958273.1 PREDICTED: Geotrypetes seraphini BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_033991953.2 PREDICTED: Periophthalmus magnuspinnatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2166;2166;0;0;1.0;1.0;true
+XM_034080580.1 PREDICTED: Pseudochaenichthys georgianus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_034140934.1 PREDICTED: Trematomus bernacchii BCL6A transcription repressor a (bcl6aa), mRNA;2136;2136;0;0;1.0;1.0;true
+XM_034180673.1 PREDICTED: Thalassophryne amazonica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2145;2145;0;0;1.0;1.0;true
+XM_034235585.1 PREDICTED: Gymnodraco acuticeps BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2220;2220;0;0;1.0;1.0;true
+XM_060684758.1 PREDICTED: Pantherophis guttatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2262;2127;135;135;1.0;0.94;true
+XM_034515149.1 PREDICTED: Arvicanthis niloticus BCL6 transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_034530412.1 PREDICTED: Cyclopterus lumpus BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA;2250;2250;0;0;1.0;1.0;true
+XM_034583216.1 PREDICTED: Hippoglossus hippoglossus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_034677856.1 PREDICTED: Notolabrus celidotus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_034781618.1 PREDICTED: Trachemys scripta elegans BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2172;2172;0;0;1.0;1.0;true
+XM_034880412.1 PREDICTED: Etheostoma cragini BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_034999803.1 PREDICTED: Mirounga leonina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_060274244.1 PREDICTED: Zootoca vivipara BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_035176387.2 PREDICTED: Hippoglossus stenolepis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_035334598.1 PREDICTED: Oxyura jamaicensis BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_035415838.1 PREDICTED: Anguilla anguilla BCL6A transcription repressor a (bcl6aa), mRNA;2157;2157;0;0;1.0;1.0;true
+XM_035544604.2 PREDICTED: Cygnus atratus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_035647013.2 PREDICTED: Scophthalmus maximus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_035652989.1 PREDICTED: Morone saxatilis BCL6A transcription repressor a (bcl6aa), transcript variant X4, mRNA;2247;2247;0;0;1.0;1.0;true
+XM_052475645.1 PREDICTED: Oncorhynchus keta BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2286;2286;0;0;1.0;1.0;true
+XM_036109792.1 PREDICTED: Halichoerus grypus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_036203807.1 PREDICTED: Onychomys torridus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_036242425.1 PREDICTED: Molossus molossus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_036351216.1 PREDICTED: Myotis myotis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_036388890.2 PREDICTED: Molothrus ater BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_036448692.1 PREDICTED: Pipistrellus kuhlii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_036522339.1 PREDICTED: Megalops cyprinoides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2154;2154;0;0;1.0;1.0;true
+XM_036570367.1 PREDICTED: Colossoma macropomum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_036755366.1 PREDICTED: Trichosurus vulpecula BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_036849782.1 PREDICTED: Balaenoptera musculus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_036875318.2 PREDICTED: Manis pentadactyla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_037037637.1 PREDICTED: Sturnira hondurensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_037115499.1 PREDICTED: Acanthopagrus latus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2166;2166;0;0;1.0;1.0;true
+XM_037131729.2 PREDICTED: Artibeus jamaicensis BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_037250622.1 PREDICTED: Syngnathus acus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_037407134.1 PREDICTED: Falco rusticolus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_037469814.1 PREDICTED: Pungitius pungitius BCL6A transcription repressor a (bcl6aa), transcript variant X4, mRNA;2352;2217;135;135;1.0;0.942;true
+XM_037525268.2 PREDICTED: Talpa occidentalis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_037674999.1 PREDICTED: Nematolebias whitei BCL6A transcription repressor a (bcl6aa), mRNA;2190;2190;0;0;1.0;1.0;true
+XM_037770787.1 PREDICTED: Sebastes umbrosus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2196;2196;0;0;1.0;1.0;true
+XM_037838516.1 PREDICTED: Choloepus didactylus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_038145677.1 PREDICTED: Motacilla alba alba BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_038304087.1 PREDICTED: Cyprinodon tularosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2295;2196;99;99;1.0;0.956;true
+XM_038345209.2 PREDICTED: Arvicola amphibius BCL6 transcription repressor (Bcl6), transcript variant X2, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_038416794.2 PREDICTED: Dermochelys coriacea BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_038716679.1 PREDICTED: Micropterus salmoides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2205;2205;0;0;1.0;1.0;true
+XM_038749215.1 PREDICTED: Tachyglossus aculeatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2133;2133;0;0;1.0;1.0;true
+XM_038815678.1 PREDICTED: Scyliorhinus canicula BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2211;2145;66;66;1.0;0.97;true
+XM_039000725.1 PREDICTED: Salvelinus namaycush BCL6A transcription repressor a (bcl6aa), mRNA;2172;2172;0;0;1.0;1.0;true
+XM_039234207.1 PREDICTED: Hyaena hyaena BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_039318485.1 PREDICTED: Crotalus tigris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_039378036.1 PREDICTED: Pipra filicauda BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_039488777.1 PREDICTED: Mauremys reevesii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_039691472.1 PREDICTED: Pimephales promelas BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2250;2250;0;0;1.0;1.0;true
+XM_039713359.1 PREDICTED: Passer montanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_039765770.1 PREDICTED: Polypterus senegalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2169;2169;0;0;1.0;1.0;true
+XM_039811640.1 PREDICTED: Perca fluviatilis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_039850884.1 PREDICTED: Pteropus giganteus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_040040073.1 PREDICTED: Simochromis diagramma BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2223;2223;0;0;1.0;1.0;true
+XM_040074327.2 PREDICTED: Hirundo rustica BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_040129279.1 PREDICTED: Xiphias gladius BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA;2256;2256;0;0;1.0;1.0;true
+XM_040183618.1 PREDICTED: Gasterosteus aculeatus aculeatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2232;2232;0;0;1.0;1.0;true
+XM_040253023.1 PREDICTED: Oryx dammah BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_040349588.1 PREDICTED: Rana temporaria BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2094;2094;0;0;1.0;1.0;true
+XM_040481069.1 PREDICTED: Puma yagouaroundi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_040567745.1 PREDICTED: Cygnus olor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_040613383.1 PREDICTED: Falco naumanni BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_041003094.1 PREDICTED: Ochotona curzoniae BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_041041034.1 PREDICTED: Toxotes jaculatrix BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_041182794.1 PREDICTED: Carcharodon carcharias BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2145;2145;0;0;1.0;1.0;true
+XM_041405962.1 PREDICTED: Onychostruthus taczanowskii BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_041467891.1 PREDICTED: Pyrgilauda ruficollis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_041678159.1 PREDICTED: Microtus oregoni BCL6 transcription repressor (Bcl6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_041731472.1 PREDICTED: Vulpes lagopus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_041790435.1 PREDICTED: Cheilinus undulatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2181;2181;0;0;1.0;1.0;true
+XM_041935236.1 PREDICTED: Chelmon rostratus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2166;2166;0;0;1.0;1.0;true
+XM_042006857.1 PREDICTED: Melanotaenia boesemani BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2274;2199;75;75;1.0;0.967;true
+XM_042042139.1 PREDICTED: Corvus kubaryi BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_042111704.1 PREDICTED: Alosa sapidissima BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2307;2307;0;0;1.0;1.0;true
+XM_042417511.1 PREDICTED: Thunnus maccoyii BCL6A transcription repressor a (bcl6aa), mRNA;2148;2148;0;0;1.0;1.0;true
+XM_042457139.1 PREDICTED: Sceloporus undulatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2133;2133;0;0;1.0;1.0;true
+XM_042515074.1 PREDICTED: Plectropomus leopardus BCL6A transcription repressor a (bcl6aa), mRNA;2175;2175;0;0;1.0;1.0;true
+XM_042667752.1 PREDICTED: Dipodomys spectabilis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_042705578.1 PREDICTED: Clupea harengus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2262;2262;0;0;1.0;1.0;true
+XM_042820822.1 PREDICTED: Centrocercus urophasianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_042878288.1 PREDICTED: Lagopus leucura BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_042903826.1 PREDICTED: Panthera leo BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_043241667.1 PREDICTED: Puntigrus tetrazona BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA;2250;2250;0;0;1.0;1.0;true
+XM_043473441.1 PREDICTED: Cervus canadensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_043594620.1 PREDICTED: Prionailurus bengalensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2277;2127;150;150;1.0;0.934;true
+XM_043873947.1 PREDICTED: Cervus elaphus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_043991526.1 PREDICTED: Dromiciops gliroides BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_044044387.1 PREDICTED: Solea senegalensis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_044070217.1 PREDICTED: Protopterus annectens BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2160;2160;0;0;1.0;1.0;true
+XM_044128810.1 PREDICTED: Gambusia affinis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_044198226.1 PREDICTED: Siniperca chuatsi BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2244;2244;0;0;1.0;1.0;true
+XM_044273165.1 PREDICTED: Bufo gargarizans BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2088;2088;0;0;1.0;1.0;true
+XM_044361721.1 PREDICTED: Thunnus albacares BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_044456244.1 PREDICTED: Varanus komodoensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_045030121.1 PREDICTED: Mauremys mutica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_045502625.1 PREDICTED: Leopardus geoffroyi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2277;2142;135;135;1.0;0.94;true
+XM_045539900.1 PREDICTED: Lemur catta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_045811243.1 PREDICTED: Ursus americanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_045850820.1 PREDICTED: Phyllostomus hastatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_045903165.2 PREDICTED: Mirounga angustirostris BCL6 transcription repressor (BCL6), transcript variant X2, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_046002133.1 PREDICTED: Meles meles BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_046050376.1 PREDICTED: Micropterus dolomieu BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA;2205;2205;0;0;1.0;1.0;true
+XM_046299688.1 PREDICTED: Oncorhynchus gorbuscha BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2271;2271;0;0;1.0;1.0;true
+XM_046392362.1 PREDICTED: Scatophagus argus BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA;2205;2205;0;0;1.0;1.0;true
+XM_046462512.1 PREDICTED: Marmota monax BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_046659336.1 PREDICTED: Equus quagga BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_046848385.1 PREDICTED: Silurus meridionalis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_047036870.1 PREDICTED: Hypomesus transpacificus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2292;2292;0;0;1.0;1.0;true
+XM_047098983.1 PREDICTED: Lynx rufus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_047375583.1 PREDICTED: Girardinichthys multiradiatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2274;2181;93;93;1.0;0.959;true
+XM_047563569.1 PREDICTED: Sciurus carolinensis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_047586399.1 PREDICTED: Mugil cephalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2229;2229;0;0;1.0;1.0;true
+XM_047732607.1 PREDICTED: Lutra lutra BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_047788609.1 PREDICTED: Phacochoerus africanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_047875148.1 PREDICTED: Prionailurus viverrinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_048199717.1 PREDICTED: Megalobrama amblycephala BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA;2208;2208;0;0;1.0;1.0;true
+XM_048252264.1 PREDICTED: Alosa alosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2316;2316;0;0;1.0;1.0;true
+XM_048314554.1 PREDICTED: Corvus hawaiiensis BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_048346972.1 PREDICTED: Perognathus longimembris pacificus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_048453887.1 PREDICTED: Myodes glareolus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_048506981.1 PREDICTED: Sphaerodactylus townsendi BCL6 transcription repressor (BCL6), mRNA;2115;1962;153;153;1.0;0.927;true
+XM_048542781.2 PREDICTED: Stegostoma tigrinum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2142;2142;0;0;1.0;1.0;true
+XM_048865495.1 PREDICTED: Caretta caretta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_048954607.1 PREDICTED: Lagopus muta BCL6 transcription repressor (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_048976243.1 PREDICTED: Brienomyrus brachyistius BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;1983;1923;60;60;1.0;0.969;true
+XM_049587020.1 PREDICTED: Epinephelus fuscoguttatus BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA;2205;2205;0;0;1.0;1.0;true
+XM_049629509.1 PREDICTED: Panthera uncia BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_049722959.1 PREDICTED: Syngnathus scovelli BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_049775702.1 PREDICTED: Suncus etruscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2112;2112;0;0;1.0;1.0;true
+XM_049802984.1 PREDICTED: Accipiter gentilis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_049894629.1 PREDICTED: Elephas maximus indicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_050054764.1 PREDICTED: Epinephelus moara BCL6A transcription repressor a (bcl6aa), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_050159982.1 PREDICTED: Microtus fortis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_050308140.1 PREDICTED: Myiozetetes cayanensis BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_050779283.1 PREDICTED: Macaca thibetana thibetana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_050902608.1 PREDICTED: Gymnogyps californianus BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_050964772.1 PREDICTED: Gopherus flavomarginatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_051112285.1 PREDICTED: Labeo rohita BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2247;2247;0;0;1.0;1.0;true
+XM_051150785.1 PREDICTED: Acomys russatus BCL6 transcription repressor (Bcl6), mRNA;2121;2121;0;0;1.0;1.0;true
+XM_051191223.1 PREDICTED: Phodopus roborovskii BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_051376820.1 PREDICTED: Dicentrarchus labrax BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2205;2205;0;0;1.0;1.0;true
+XM_051626233.1 PREDICTED: Apus apus BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_051782320.1 PREDICTED: Manacus candei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_051896324.1 PREDICTED: Ctenopharyngodon idella BCL6A transcription repressor a (bcl6aa), mRNA;2154;2154;0;0;1.0;1.0;true
+XM_051991661.1 PREDICTED: Antechinus flavipes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_052073038.1 PREDICTED: Hippocampus zosterae BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2130;2130;0;0;1.0;1.0;true
+XM_052158026.1 PREDICTED: Apodemus sylvaticus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_052635660.1 PREDICTED: Budorcas taxicolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_052685957.1 PREDICTED: Tympanuchus pallidicinctus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_052753863.1 PREDICTED: Peromyscus californicus insignis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_052803858.1 PREDICTED: Harpia harpyja BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_053306846.1 PREDICTED: Hemicordylus capensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2253;2118;135;135;1.0;0.94;true
+XM_053321982.1 PREDICTED: Scomber japonicus BCL6A transcription repressor a (bcl6aa), mRNA;2148;2148;0;0;1.0;1.0;true
+XM_053387358.1 PREDICTED: Podarcis raffonei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2163;2163;0;0;1.0;1.0;true
+XM_053429717.1 PREDICTED: Pleuronectes platessa BCL6A transcription repressor a (bcl6aa), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_053458529.1 PREDICTED: Spea bombifrons BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2079;2079;0;0;1.0;1.0;true
+XM_053499186.1 PREDICTED: Clarias gariepinus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_053564888.1 PREDICTED: Nycticebus coucang BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_053636661.1 PREDICTED: Ictalurus furcatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_053710254.1 PREDICTED: Bombina bombina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2103;2103;0;0;1.0;1.0;true
+XM_053852931.1 PREDICTED: Synchiropus splendidus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_053951484.1 PREDICTED: Vidua chalybeata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_053986147.1 PREDICTED: Vidua macroura BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054040602.1 PREDICTED: Malaclemys terrapin pileata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054205175.1 PREDICTED: Rissa tridactyla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054282450.1 PREDICTED: Melozone crissalis BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054385798.1 PREDICTED: Indicator indicator BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054481183.1 PREDICTED: Pongo pygmaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_054585099.1 PREDICTED: Pteronotus parnellii mesoamericanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_054602583.1 PREDICTED: Anoplopoma fimbria BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2154;2154;0;0;1.0;1.0;true
+XM_054639394.1 PREDICTED: Agelaius phoeniceus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2427;2145;282;282;1.0;0.883;true
+XM_054788841.1 PREDICTED: Dunckerocampus dactyliophorus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2220;2220;0;0;1.0;1.0;true
+XM_054835382.1 PREDICTED: Grus americana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_054983645.1 PREDICTED: Eublepharis macularius BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_055047447.1 PREDICTED: Poeciliopsis prolifica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_055213452.1 PREDICTED: Misgurnus anguillicaudatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2157;2157;0;0;1.0;1.0;true
+XM_055307710.1 PREDICTED: Nyctereutes procyonoides BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_055408310.1 PREDICTED: Moschus berezovskii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_055568758.1 PREDICTED: Bubalus kerabau BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_055625015.1 PREDICTED: Psammomys obesus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_055941137.1 PREDICTED: Salvelinus fontinalis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2274;2274;0;0;1.0;1.0;true
+XM_056121328.1 PREDICTED: Sorex fumeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_056246329.1 PREDICTED: Rhinichthys klamathensis goyatoka BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2250;2250;0;0;1.0;1.0;true
+XM_056276452.1 PREDICTED: Lampris incognitus BCL6A transcription repressor a (bcl6aa), mRNA;2139;2139;0;0;1.0;1.0;true
+XM_056379452.1 PREDICTED: Seriola aureovittata BCL6A transcription repressor a (bcl6aa), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_056415031.1 PREDICTED: Pseudoliparis swirei BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2121;2121;0;0;1.0;1.0;true
+XM_056459925.1 PREDICTED: Danio aesculapii BCL6A transcription repressor a (bcl6aa), mRNA;2154;2154;0;0;1.0;1.0;true
+XM_056498280.1 PREDICTED: Oenanthe melanoleuca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_056565461.1 PREDICTED: Hyla sarda BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2097;2097;0;0;1.0;1.0;true
+XM_056604436.1 PREDICTED: Gadus chalcogrammus BCL6A transcription repressor a (bcl6aa), mRNA;2295;2295;0;0;1.0;1.0;true
+XM_056751259.1 PREDICTED: Triplophysa dalaica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2133;2133;0;0;1.0;1.0;true
+XM_056807464.1 PREDICTED: Monodelphis domestica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2133;2133;0;0;1.0;1.0;true
+XM_056849568.1 PREDICTED: Euleptes europaea BCL6 transcription repressor (BCL6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_057038435.1 PREDICTED: Takifugu flavidus BCL6A transcription repressor a (bcl6aa), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_057326794.1 PREDICTED: Triplophysa rosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;1815;1815;0;0;1.0;1.0;true
+XM_057376607.1 PREDICTED: Malurus melanocephalus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_057427437.1 PREDICTED: Pezoporus wallicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_057738157.1 PREDICTED: Hippopotamus amphibius kiboko BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_057764440.1 PREDICTED: Chionomys nivalis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_057840455.1 PREDICTED: Corythoichthys intestinalis BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA;2214;2214;0;0;1.0;1.0;true
+XM_058030994.1 PREDICTED: Melospiza georgiana BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_058073789.1 PREDICTED: Doryrhamphus excisus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2220;2220;0;0;1.0;1.0;true
+XM_058187891.1 PREDICTED: Ahaetulla prasina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2115;2115;0;0;1.0;1.0;true
+XM_058403332.1 PREDICTED: Hemibagrus wyckioides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_058556134.1 PREDICTED: Diceros bicornis minor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_058639134.1 PREDICTED: Solea solea BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2196;2196;0;0;1.0;1.0;true
+XM_058730815.1 PREDICTED: Neofelis nebulosa BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_058779601.1 PREDICTED: Onychostoma macrolepis BCL6A transcription repressor a (bcl6aa), transcript variant X6, mRNA;2211;2211;0;0;1.0;1.0;true
+XM_058811834.1 PREDICTED: Ammospiza caudacuta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_058844538.1 PREDICTED: Poecile atricapillus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_059064959.1 PREDICTED: Kogia breviceps BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_059163169.1 PREDICTED: Mustela lutreola BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_059277119.1 PREDICTED: Peromyscus eremicus BCL6 transcription repressor (Bcl6), mRNA;2124;2124;0;0;1.0;1.0;true
+XM_059341785.1 PREDICTED: Centropristis striata BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2238;2238;0;0;1.0;1.0;true
+XM_059391303.1 PREDICTED: Mustela nigripes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_059479432.1 PREDICTED: Ammospiza nelsoni BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_059687342.1 PREDICTED: Myotis daubentonii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2175;1962;213;213;1.0;0.902;true
+XM_059855518.1 PREDICTED: Haemorhous mexicanus BCL6 transcription repressor (BCL6), mRNA;2127;2127;0;0;1.0;1.0;true
+XM_059920748.1 PREDICTED: Balaenoptera ricei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_059991227.1 PREDICTED: Hypanus sabinus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2055;1290;765;765;0.627;0.627;true
+XM_060010954.1 PREDICTED: Delphinus delphis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2331;2121;210;210;1.0;0.909;true
+XM_060066571.1 PREDICTED: Gadus macrocephalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2307;2307;0;0;1.0;1.0;true
+XM_060099280.1 PREDICTED: Mesoplodon densirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_060150261.1 PREDICTED: Lagenorhynchus albirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_060242853.1 PREDICTED: Heteronotia binoei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_060639507.1 PREDICTED: Panthera onca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_060767272.1 PREDICTED: Anolis sagrei ordinatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_060834664.1 PREDICTED: Hemiscyllium ocellatum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2145;2049;96;96;0.955;0.955;true
+XM_060867726.1 PREDICTED: Tachysurus vachellii BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2124;2124;0;0;1.0;1.0;true
+XM_060919809.1 PREDICTED: Neoarius graeffei BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2145;2145;0;0;1.0;1.0;true
+XM_061030527.1 PREDICTED: Labrus mixtus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2241;2241;0;0;1.0;1.0;true
+XM_061078455.1 PREDICTED: Limanda limanda BCL6A transcription repressor a (bcl6aa), mRNA;2151;2151;0;0;1.0;1.0;true
+XM_061166802.1 PREDICTED: Dama dama BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_061194358.1 PREDICTED: Eubalaena glacialis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_061240896.1 PREDICTED: Conger conger BCL6A transcription repressor a (bcl6aa), mRNA;2139;2139;0;0;1.0;1.0;true
+XM_061297092.1 PREDICTED: Syngnathus typhle BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2157;2157;0;0;1.0;1.0;true
+XM_061348839.1 PREDICTED: Neopsephotus bourkii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_061413260.1 PREDICTED: Bos javanicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2118;2118;0;0;1.0;1.0;true
+XM_061452184.1 PREDICTED: Pezoporus flaviventris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2127;2127;0;0;1.0;1.0;true
+XM_061637605.1 PREDICTED: Rhineura floridana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA;2133;2133;0;0;1.0;1.0;true
+XM_061683818.1 PREDICTED: Phycodurus eques BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2211;2211;0;0;1.0;1.0;true
+XM_061737589.1 PREDICTED: Cololabis saira BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2235;2235;0;0;1.0;1.0;true
+XM_061780154.1 PREDICTED: Phyllopteryx taeniolatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA;2211;2211;0;0;1.0;1.0;true
+XM_061825896.1 PREDICTED: Syngnathoides biaculeatus BCL6A transcription repressor a (bcl6aa), mRNA;2130;2130;0;0;1.0;1.0;true

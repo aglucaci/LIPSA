@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Thu Feb 29 13:16:32 2024]
+rule cln:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    jobid: 0
+    reason: Forced execution
+    wildcards: GENE=GnathostomataBCL6.RD.SA
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/scratchLocal/agl4001_11156316
+
+[Thu Feb 29 13:16:37 2024]
+Finished job 0.
+1 of 1 steps (100%) done

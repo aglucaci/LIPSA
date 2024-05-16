@@ -1,0 +1,27 @@
+# User settings for data files and gene label
+
+# Primate ACE2
+#Nucleotide: ACE2_refseq_transcript.fasta
+#Protein: ACE2_refseq_protein.fasta
+#CSV: ACE2_orthologs.csv
+#Label: PrimateACE2
+
+# User settings for NCBI Entrez
+#Email: "test@test.com
+
+# User settings for data files and gene label
+
+# Gnathostomata BCL6
+Nucleotide: BCL6_refseq_transcript.fasta
+Protein: BCL6_refseq_protein.fasta
+CSV: BCL6_orthologs.csv
+Label: GnathostomataBCL6
+
+# User settings for NCBI Entrez
+Email: "agl4001@med.cornell.edu"
+
+
+
+
+
+

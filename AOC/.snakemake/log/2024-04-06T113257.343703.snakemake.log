@@ -1,0 +1,428 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+BUSTEDS          7
+BUSTEDSMH        7
+MEME             7
+all              1
+total           22
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS-MH.json
+    jobid: 39
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS.json
+    jobid: 23
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.MEME.json
+    jobid: 31
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS-MH.json
+    jobid: 42
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+[Sat Apr  6 11:32:58 2024]
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 23
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Error in rule MEME:
+    jobid: 31
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 42
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+Error in rule BUSTEDSMH:
+    jobid: 39
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.MEME.json
+    jobid: 30
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.MEME.json
+    jobid: 35
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS.json
+    jobid: 28
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.MEME.json
+    jobid: 32
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 30
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS.json
+    jobid: 22
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 35
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 32
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 28
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS.json
+    jobid: 24
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 22
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS-MH.json
+    jobid: 36
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.MEME.json
+    jobid: 34
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS.json
+    jobid: 26
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 24
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS-MH.json
+    jobid: 41
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 36
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 34
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 26
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS-MH.json
+    jobid: 37
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS-MH.json
+    jobid: 38
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 41
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDSMH:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS-MH.json
+    jobid: 40
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS-MH.json
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS.json
+    jobid: 25
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 37
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.MEME.json
+    jobid: 33
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 38
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDSMH:
+    jobid: 40
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS-MH.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.BUSTEDS-MH.json --srv Yes --multiple-hits Double+Triple --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 25
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+
+[Sat Apr  6 11:32:58 2024]
+rule BUSTEDS:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS.json
+    jobid: 27
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS.json
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+Select jobs to execute...
+
+[Sat Apr  6 11:32:58 2024]
+rule MEME:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.MEME.json
+    jobid: 29
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.MEME.json
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 33
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule BUSTEDS:
+    jobid: 27
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS.json
+    shell:
+        mpirun -np 4 HYPHYMPI BUSTED --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.BUSTEDS.json --srv Yes --starting-points 10
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+[Sat Apr  6 11:32:58 2024]
+Error in rule MEME:
+    jobid: 29
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.MEME.json
+    shell:
+        mpirun -np 4 HYPHYMPI MEME --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.MEME.json
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-04-06T113257.343703.snakemake.log

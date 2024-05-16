@@ -1,0 +1,37 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+FEL             7
+all             1
+fasttree        7
+total          15
+
+Select jobs to execute...
+
+[Fri Apr  5 14:56:13 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    jobid: 9
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 14:56:26 2024]
+Finished job 9.
+1 of 15 steps (7%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:56:26 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json
+    jobid: 16
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+

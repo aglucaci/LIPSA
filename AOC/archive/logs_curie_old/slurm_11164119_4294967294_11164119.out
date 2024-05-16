@@ -1,0 +1,74 @@
+
+Analysis Description
+--------------------
+GARD : Genetic Algorithms for Recombination Detection. Implements a
+heuristic approach to screening alignments of sequences for
+recombination, by using the CHC genetic algorithm to search for
+phylogenetic incongruence among different partitions of the data. The
+number of partitions is determined using a step-up procedure, while the
+placement of breakpoints is searched for with the GA. The best fitting
+model (based on c-AIC) is returned; and additional post-hoc tests run to
+distinguish topological incongruence from rate-variation. v0.2 adds and
+spooling results to JSON after each breakpoint search conclusion
+
+- __Requirements__: A sequence alignment.
+
+- __Citation__: **Automated Phylogenetic Detection of Recombination Using a Genetic
+Algorithm**, _Mol Biol Evol 23(10), 1891–1901
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.2
+
+type: nucleotide
+rv: GDD
+>Maximum number of breakpoints to consider (permissible range = [1,100000], default value = 10000, integer): max-breakpoints: 10000
+>How many site rate classes to use (permissible range = [2,10], default value = 4, integer): rate-classes: 4
+mode: Normal
+>Loaded a nucleotide multiple sequence alignment with **12** sequences, **4488** sites (1613 of which are variable) from `/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta`
+>Minimum size of a partition is set to be 21 sites
+
+
+### Fitting the baseline (single-partition; no breakpoints) model
+* Log(L) = -22645.33, AIC-c = 45363.25 (36 estimated parameters)
+
+### Performing an exhaustive single breakpoint analysis
+Done with single breakpoint analysis.
+   Best single break point location: 493
+   c-AIC  = 45180.71679262252
+
+### Performing multi breakpoint analysis using a genetic algorithm
+Done with 2 breakpoint analysis.
+    Best break point locations: 493, 3215
+    c-AIC = 45081.28581677752
+Done with 3 breakpoint analysis.
+    Best break point locations: 495, 1348, 3200
+    c-AIC = 45019.9665941948
+Done with 4 breakpoint analysis.
+    Best break point locations: 495, 1348, 2846, 3200
+    c-AIC = 44972.35257339682
+Done with 5 breakpoint analysis.
+    Best break point locations: 493, 1348, 2833, 3208, 4025
+    c-AIC = 44942.59135518413
+Done with 6 breakpoint analysis.
+    Best break point locations: 494, 1347, 2832, 3208, 3278, 4028
+    c-AIC = 44933.0959462895
+Done with 7 breakpoint analysis.
+    Best break point locations: 495, 1358, 2083, 2832, 3208, 3296, 4019
+    c-AIC = 44934.45198506004
+
+
+
+# Loaded config yaml file
+# Loaded cluster json file
+# Using nucleotide data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_transcript.fasta
+# Using protein data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_protein.fasta
+# Using the analysis label: GnathostomataBCL6
+# Using the metadata from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_orthologs.csv
+# We are operating out of base directory: /athena/melnicklab/users/scratch/agl4001/AOC
+# We will create and store results in: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results' created
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6' created
+# Moving on to processing rules

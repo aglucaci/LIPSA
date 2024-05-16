@@ -1,0 +1,295 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+FEL             7
+all             1
+fasttree        7
+tn93            3
+total          18
+
+Select jobs to execute...
+
+[Fri Apr  5 14:49:44 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    jobid: 9
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:49:53 2024]
+Finished job 9.
+1 of 18 steps (6%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:49:53 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json
+    jobid: 16
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:49:53 2024]
+Error in rule FEL:
+    jobid: 16
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:49:53 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    jobid: 14
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:49:56 2024]
+Finished job 14.
+2 of 18 steps (11%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:49:56 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    jobid: 12
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:49:57 2024]
+Finished job 12.
+3 of 18 steps (17%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:49:57 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    jobid: 10
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:13 2024]
+Finished job 10.
+4 of 18 steps (22%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:13 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    jobid: 8
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:14 2024]
+Finished job 8.
+5 of 18 steps (28%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:14 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.dst
+    jobid: 6
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:14 2024]
+Finished job 6.
+6 of 18 steps (33%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:14 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json
+    jobid: 21
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:14 2024]
+Error in rule FEL:
+    jobid: 21
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:50:14 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.dst
+    jobid: 4
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:15 2024]
+Finished job 4.
+7 of 18 steps (39%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:15 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json
+    jobid: 19
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:15 2024]
+Error in rule FEL:
+    jobid: 19
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:50:15 2024]
+rule tn93:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.dst
+    jobid: 1
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.dst
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:15 2024]
+Finished job 1.
+8 of 18 steps (44%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:15 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json
+    jobid: 17
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:15 2024]
+Error in rule FEL:
+    jobid: 17
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:50:15 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json
+    jobid: 15
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:15 2024]
+Error in rule FEL:
+    jobid: 15
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:50:15 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    jobid: 11
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:20 2024]
+Finished job 11.
+9 of 18 steps (50%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:20 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    jobid: 13
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:26 2024]
+Finished job 13.
+10 of 18 steps (56%) done
+Select jobs to execute...
+
+[Fri Apr  5 14:50:26 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json
+    jobid: 20
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:26 2024]
+Error in rule FEL:
+    jobid: 20
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Select jobs to execute...
+
+[Fri Apr  5 14:50:26 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json
+    jobid: 18
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164820
+
+[Fri Apr  5 14:50:26 2024]
+Error in rule FEL:
+    jobid: 18
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json
+    shell:
+        mpirun -np 32 HYPHYMPI FEL --alignment /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas --tree /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile --output /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json --ci Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-04-05T144944.333170.snakemake.log

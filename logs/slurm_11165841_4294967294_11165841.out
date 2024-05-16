@@ -1,0 +1,75 @@
+
+Analysis Description
+--------------------
+Contrast-FEL (Fixed Effects Likelihood) investigates whether or not
+selective pressures differ between two or more sets of branches at a
+site. Site-specific synonymous (alpha) and non-synonymous (beta, one per
+branch set) substitution rates are estimated and then beta rates are
+tested for equality at each site. LRT and permutation tests ar used to
+assess significance at each site, and FDR is applied alignment wide to
+call sites with different selective profiles
+
+- __Additional information__: http://www.hyphy.org/methods/other/contrast-fel/
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree; only single partition
+data are supported
+
+- __Citation__: Mol Biol Evol (2021), (38)3 1184–1198
+
+- __Written by__: Sergei L Kosakovsky Pond and Steven Weaver
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.5
+
+
+>code => Universal
+/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled
+/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled
+
+>Loaded a multiple sequence alignment with **548** sequences, **1496** codons, and **1** partitions from `/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta`
+
+>branch-set => Elasmobranchii
+Error:
+'Elasmobranchii' is not a valid choice passed to 'Choose sets of branches to compare. If more than one set is chosen, pairwise comparisons will be carried out in addition to a group-level difference test.' ChoiceList using redirected stdin input or keyword arguments. Valid choices are
+	Internal branches, Terminal branches, Random set of branches, Unlabeled branches
+ in call to ChoiceList(testSet, "Choose sets of branches to compare. If more than one set is chosen, pairwise comparisons will be carried out in addition to a group-level difference test.", 0, NO_SKIP, selectTheseForTesting);
+
+Function call stack
+1 :  [namespace = boXvFCkM] ChoiceList(testSet, "Choose sets of branches to compare. If more than one set is chosen, pairwise comparisons will be carried out in addition to a group-level difference test.", 0, NO_SKIP, selectTheseForTesting);
+
+	Keyword arguments:
+		{
+		 "output":"/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.CFEL.json"
+		}
+-------
+2 :  [namespace = fel] selected_branches=Call(settings[utility.getGlobalValue("terms.settings.branch_selector")],partitions_and_trees);
+
+	Keyword arguments:
+		{
+		 "output":"/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.CFEL.json"
+		}
+-------
+3 :  [namespace = fel] load_file({utility.getGlobalValue("terms.prefix"):"fel",utility.getGlobalValue("terms.settings"):{utility.getGlobalValue("terms.settings.branch_selector"):"fel.select_branches"}});
+
+	Keyword arguments:
+		{
+		 "output":"/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.CFEL.json"
+		}
+-------
+4 :  namespace 
+
+Step 0.LoadFunctionLibrary("modules/shared-load-file.bf", /home/agl4001/mambaforge/envs/AOC2/share/hyphy/TemplateBatchFiles/SelectionAnalyses/);
+
+Step 1.load_file({utility.getGlobalValue("terms.prefix"):"fel",utility.getGlobalValue("terms.settings"):{utility.getGlobalValue("terms.settings.branch_selector"):"fel.select_branches"}});;
+
+	Keyword arguments:
+		{
+		 "output":"/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.CFEL.json"
+		}
+-------
+# We are operating out of base directory: /athena/melnicklab/users/scratch/agl4001/LIPSA
+# Output directory: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6
+# We will process selection analyses in 1 files
+# We will use the following clade labels: ['/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/Elasmobranchii.clade', '/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/Euteleostomi.clade', '/athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/Holocephali.clade']
+# Reference clade: Elasmobranchii

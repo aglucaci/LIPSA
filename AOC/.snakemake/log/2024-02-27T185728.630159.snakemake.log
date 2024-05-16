@@ -1,0 +1,3 @@
+IndexError in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile_Recombinants, line 58:
+list index out of range
+  File "/athena/melnicklab/users/scratch/agl4001/AOC/Snakefile_Recombinants", line 58, in <module>

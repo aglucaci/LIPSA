@@ -1,0 +1,4 @@
+FileExistsError in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile, line 99:
+[Errno 17] File exists: '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6'
+  File "/athena/melnicklab/users/scratch/agl4001/AOC/Snakefile", line 99, in <module>
+  File "/home/agl4001/mambaforge/envs/AOC/lib/python3.10/os.py", line 225, in makedirs

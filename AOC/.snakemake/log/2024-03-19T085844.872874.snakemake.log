@@ -1,0 +1,56 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 1
+Job stats:
+job               count
+--------------  -------
+GatherLineages        1
+ParseGARD             1
+all                   1
+cln                   2
+iqtree                1
+recombination         1
+total                 7
+
+Select jobs to execute...
+
+[Tue Mar 19 08:59:01 2024]
+rule iqtree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    jobid: 11
+    reason: Updated input files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 11 with external jobid 'Submitted batch job 11160947'.
+[Tue Mar 19 10:00:04 2024]
+Finished job 11.
+1 of 7 steps (14%) done
+Select jobs to execute...
+
+[Tue Mar 19 10:00:04 2024]
+rule cln:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.SA.codons.cln.fa
+    jobid: 5
+    reason: Set of input files has changed since last execution; Code has changed since last execution
+    wildcards: GENE=GnathostomataBCL6.SA
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 5 with external jobid 'Submitted batch job 11160949'.
+[Tue Mar 19 10:00:24 2024]
+Finished job 5.
+2 of 7 steps (29%) done
+Select jobs to execute...
+
+[Tue Mar 19 10:00:24 2024]
+rule GatherLineages:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_orthologs.csv, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6_Annotated.csv
+    jobid: 18
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 18 with external jobid 'Submitted batch job 11160950'.

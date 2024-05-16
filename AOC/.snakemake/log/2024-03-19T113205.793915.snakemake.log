@@ -1,0 +1,43 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 1
+Job stats:
+job                 count
+----------------  -------
+GatherLineages          1
+ParseGARD               1
+all                     1
+cln                     2
+cluster_to_fasta        1
+iqtree                  1
+recombination           1
+tn93_cluster            1
+total                   9
+
+Select jobs to execute...
+
+[Tue Mar 19 11:32:08 2024]
+rule tn93_cluster:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    jobid: 14
+    reason: Updated input files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 14 with external jobid 'Submitted batch job 11160957'.
+[Tue Mar 19 11:32:18 2024]
+Finished job 14.
+1 of 9 steps (11%) done
+Select jobs to execute...
+
+[Tue Mar 19 11:32:18 2024]
+rule iqtree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+    jobid: 11
+    reason: Forced execution
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=<TBD>
+
+Submitted job 11 with external jobid 'Submitted batch job 11160958'.

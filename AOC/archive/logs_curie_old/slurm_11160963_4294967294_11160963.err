@@ -1,0 +1,58 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Tue Mar 19 11:37:59 2024]
+rule tn93_cluster:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    jobid: 2
+    reason: Updated input files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+Read 547 sequences from input file 
+Will perform approximately 149331 pairwise distance calculations
+Progress: 
+Created 29 clusters
+[Tue Mar 19 11:37:59 2024]
+Finished job 2.
+1 of 3 steps (33%) done
+Select jobs to execute...
+
+[Tue Mar 19 11:37:59 2024]
+rule cluster_to_fasta:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    jobid: 1
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.json
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+[Tue Mar 19 11:37:59 2024]
+Finished job 1.
+2 of 3 steps (67%) done
+Select jobs to execute...
+
+[Tue Mar 19 11:37:59 2024]
+rule recombination:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.GARD.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.best-gard
+    jobid: 0
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+--------------------------------------------------------------------------
+WARNING: There is at least one non-excluded one OpenFabrics device found,
+but there are no active ports detected (or Open MPI was unable to use
+them).  This is most certainly not what you wanted.  Check your
+cables, subnet manager configuration, etc.  The openib BTL will be
+ignored for this job.
+
+  Local host: node138
+--------------------------------------------------------------------------
+[2K[GARD] Breakpoint          1 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          2 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          3 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          4 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          5 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          6 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          7 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          8 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint          9 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         10 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         11 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         12 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         13 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         14 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         15 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         16 of 1697. Best cAIC =   80964.2416 with no breakpoints.[2K[GARD] Breakpoint         17 of 1697. Best cAIC =   80952.5222 [delta =      11.7194] with breakpoint at site         77[2K[GARD] Breakpoint         18 of 1697. Best cAIC =   80929.1984 [delta =      35.0432] with breakpoint at site         96[2K[GARD] Breakpoint         19 of 1697. Best cAIC =   80917.2171 [delta =      47.0244] with breakpoint at site         97[2K[GARD] Breakpoint         20 of 1697. Best cAIC =   80892.7996 [delta =      71.4420] with breakpoint at site         98[2K[GARD] Breakpoint         21 of 1697. Best cAIC =   80879.6752 [delta =      84.5664] with breakpoint at site        120[2K[GARD] Breakpoint         22 of 1697. Best cAIC =   80866.9604 [delta =      97.2811] with breakpoint at site        121[2K[GARD] Breakpoint         23 of 1697. Best cAIC =   80860.9278 [delta =     103.3138] with breakpoint at site        122[2K[GARD] Breakpoint         24 of 1697. Best cAIC =   80860.9278 [delta =     103.3138] with breakpoint at site        122[2K[GARD] Breakpoint         25 of 1697. Best cAIC =   80848.5012 [delta =     115.7403] with breakpoint at site        148[2K[GARD] Breakpoint         26 of 1697. Best cAIC =   80848.5012 [delta =     115.7403] with breakpoint at site        148[2K[GARD] Breakpoint         27 of 1697. Best cAIC =   80848.5012 [delta =     115.7403] with breakpoint at site        148[2K[GARD] Breakpoint         28 of 1697. Best cAIC =   80848.5012 [delta =     115.7403] with breakpoint at site        148[2K[GARD] Breakpoint         29 of 1697. Best cAIC =   80848.5012 [delta =     115.7403] with breakpoint at site        148[2K[GARD] Breakpoint         30 of 1697. Best cAIC =   80846.6061 [delta =     117.6354] with breakpoint at site        178[2K[GARD] Breakpoint         31 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         32 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         33 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         34 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         35 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         36 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179[2K[GARD] Breakpoint         37 of 1697. Best cAIC =   80845.8465 [delta =     118.3951] with breakpoint at site        179slurmstepd: error: *** JOB 11160963 ON node138 CANCELLED AT 2024-03-19T11:40:07 ***

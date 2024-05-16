@@ -1,0 +1,800 @@
+IQ-TREE multicore version 2.1.2 COVID-edition for Linux 64-bit built Mar 30 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    node128.panda (AVX, 377 GB RAM)
+Command: iqtree -s /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa -T AUTO -B 1000
+Seed:    947940 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 21 11:28:08 2024
+Kernel:  AVX - auto-detect threads (32 CPU cores detected)
+
+Reading alignment file /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 6 sites contain only gaps or ambiguous characters.
+Alignment has 548 sequences with 4488 columns, 2543 distinct patterns
+1784 parsimony-informative, 587 singleton sites, 2117 constant sites
+                                                                                                                              Gap/Ambiguity  Composition  p-value
+   1  NM_001706_5_Homo_sapiens_BCL6_transcription_repressor_BCL6_transcript_variant_1_mRNA                                           52.81%    passed     66.59%
+   2  XM_001158812_6_PREDICTED_Pan_troglodytes_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    passed     64.01%
+   3  XM_003824955_5_PREDICTED_Pan_paniscus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    passed     64.01%
+   4  XM_004038190_4_PREDICTED_Gorilla_gorilla_gorilla_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.81%    passed     62.59%
+   5  XM_054481183_1_PREDICTED_Pongo_pygmaeus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    passed     61.96%
+   6  NM_001159790_1_Pongo_abelii_BCL6_transcription_repressor_BCL6_mRNA                                                             52.81%    passed     62.82%
+   7  NM_001261326_2_Macaca_mulatta_BCL6_transcription_repressor_BCL6_mRNA                                                           52.81%    passed     54.16%
+   8  XM_011723157_1_PREDICTED_Macaca_nemestrina_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                               52.81%    passed     54.91%
+   9  XM_050779283_1_PREDICTED_Macaca_thibetana_thibetana_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               52.81%    passed     54.69%
+  10  XM_021934975_2_PREDICTED_Papio_anubis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    passed     53.25%
+  11  XM_008009504_2_PREDICTED_Chlorocebus_sabaeus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.81%    passed     58.60%
+  12  XM_025376066_1_PREDICTED_Theropithecus_gelada_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                            52.81%    passed     52.17%
+  13  XM_011999881_1_PREDICTED_Mandrillus_leucophaeus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.81%    passed     50.14%
+  14  XM_012036866_1_PREDICTED_Cercocebus_atys_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.81%    passed     50.14%
+  15  XM_017873414_1_PREDICTED_Rhinopithecus_bieti_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             52.81%    passed     57.45%
+  16  XM_033213029_1_PREDICTED_Trachypithecus_francoisi_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.81%    passed     52.62%
+  17  XM_011961599_1_PREDICTED_Colobus_angolensis_palliatus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                    49.06%    passed     81.87%
+  18  XM_023214729_3_PREDICTED_Piliocolobus_tephrosceles_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                52.81%    passed     53.08%
+  19  XM_003256638_4_PREDICTED_Nomascus_leucogenys_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.81%    passed     55.73%
+  20  XM_032171886_2_PREDICTED_Hylobates_moloch_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    passed     51.90%
+  21  XM_006156730_3_PREDICTED_Tupaia_chinensis_BCL6_transcription_repressor_BCL6_transcript_variant_X5_mRNA                         52.81%    failed      4.78%
+  22  XM_002758173_4_PREDICTED_Callithrix_jacchus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     50.59%
+  23  XM_017549580_2_PREDICTED_Cebus_imitator_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    passed     48.74%
+  24  XM_032298276_1_PREDICTED_Sapajus_apella_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    passed     41.93%
+  25  XM_003927003_3_PREDICTED_Saimiri_boliviensis_boliviensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA          52.81%    passed     42.67%
+  26  XM_012470870_2_PREDICTED_Aotus_nancymaae_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.81%    passed     40.68%
+  27  XM_005330983_3_PREDICTED_Ictidomys_tridecemlineatus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA               52.81%    passed     54.40%
+  28  XM_015499981_2_PREDICTED_Marmota_marmota_marmota_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                  52.81%    passed     46.48%
+  29  XM_026389338_1_PREDICTED_Urocitellus_parryii_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                             53.07%    passed     62.43%
+  30  XM_027951450_1_PREDICTED_Marmota_flaviventris_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                     52.81%    passed     47.66%
+  31  XM_046462512_1_PREDICTED_Marmota_monax_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                            52.81%    passed     48.57%
+  32  XM_047563569_1_PREDICTED_Sciurus_carolinensis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                     52.81%    passed     63.27%
+  33  XM_008580059_1_PREDICTED_Galeopterus_variegatus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.81%    passed     59.73%
+  34  XM_008058479_1_PREDICTED_Carlito_syrichta_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                54.08%    passed     65.30%
+  35  NM_001195404_1_Canis_lupus_familiaris_BCL6_transcription_repressor_BCL6_mRNA                                                   52.81%    failed      1.62%
+  36  XM_025425325_3_PREDICTED_Canis_lupus_dingo_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      1.78%
+  37  XM_055307710_1_PREDICTED_Nyctereutes_procyonoides_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.81%    failed      4.16%
+  38  XM_026007351_1_PREDICTED_Vulpes_vulpes_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                   52.81%    failed      1.45%
+  39  XM_041731472_1_PREDICTED_Vulpes_lagopus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    failed      1.18%
+  40  XM_002914804_4_PREDICTED_Ailuropoda_melanoleuca_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                   52.81%    failed      0.05%
+  41  XM_008705170_2_PREDICTED_Ursus_maritimus_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                          52.81%    failed      0.11%
+  42  XM_026496652_4_PREDICTED_Ursus_arctos_BCL6_transcription_repressor_BCL6_transcript_variant_X3_mRNA                             52.81%    failed      0.09%
+  43  XM_045811243_1_PREDICTED_Ursus_americanus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    failed      0.10%
+  44  XM_003991804_5_PREDICTED_Felis_catus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.81%    failed      0.01%
+  45  XM_007083564_2_PREDICTED_Panthera_tigris_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                          52.81%    failed      0.04%
+  46  XM_027061206_2_PREDICTED_Acinonyx_jubatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    failed      0.02%
+  47  XM_019463479_2_PREDICTED_Panthera_pardus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    failed      0.05%
+  48  XM_025913303_1_PREDICTED_Puma_concolor_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                   52.81%    failed      0.01%
+  49  XM_040481069_1_PREDICTED_Puma_yagouaroundi_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      0.01%
+  50  XM_042903826_1_PREDICTED_Panthera_leo_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    failed      0.07%
+  51  XM_043594620_1_PREDICTED_Prionailurus_bengalensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 49.26%    failed      0.28%
+  52  XM_045502625_1_PREDICTED_Leopardus_geoffroyi_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      49.26%    failed      0.10%
+  53  XM_047098983_1_PREDICTED_Lynx_rufus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                               52.81%    failed      0.03%
+  54  XM_047875148_1_PREDICTED_Prionailurus_viverrinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.81%    failed      0.04%
+  55  XM_049629509_1_PREDICTED_Panthera_uncia_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    failed      0.05%
+  56  XM_058730815_1_PREDICTED_Neofelis_nebulosa_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      0.04%
+  57  XM_060639507_1_PREDICTED_Panthera_onca_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.81%    failed      0.05%
+  58  XM_004413428_1_PREDICTED_Odobenus_rosmarus_divergens_B_cell_CLL_lymphoma_6_BCL6_mRNA                                           52.81%    failed      4.61%
+  59  XM_006737223_2_PREDICTED_Leptonychotes_weddellii_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                  52.81%    failed      2.55%
+  60  XM_021692738_1_PREDICTED_Neomonachus_schauinslandi_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                52.81%    failed      2.18%
+  61  XM_032406925_1_PREDICTED_Phoca_vitulina_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    failed      0.39%
+  62  XM_036109792_1_PREDICTED_Halichoerus_grypus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.74%
+  63  XM_025876825_1_PREDICTED_Callorhinus_ursinus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             50.20%    failed      2.96%
+  64  XM_027586844_2_PREDICTED_Zalophus_californianus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   50.20%    failed      4.33%
+  65  XM_028100879_1_PREDICTED_Eumetopias_jubatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       50.20%    failed      3.90%
+  66  XM_034999803_1_PREDICTED_Mirounga_leonina_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    failed      1.64%
+  67  XM_045903165_2_PREDICTED_Mirounga_angustirostris_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                  52.81%    failed      1.17%
+  68  XM_004745232_3_PREDICTED_Mustela_putorius_furo_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                    52.81%    failed      1.81%
+  69  XM_059391303_1_PREDICTED_Mustela_nigripes_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    failed      2.89%
+  70  XM_032337960_1_PREDICTED_Mustela_erminea_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    failed      0.73%
+  71  XM_059163169_1_PREDICTED_Mustela_lutreola_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.81%    failed      1.63%
+  72  XM_032875618_1_PREDICTED_Lontra_canadensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      0.61%
+  73  XM_046002133_1_PREDICTED_Meles_meles_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.81%    failed      0.60%
+  74  XM_047732607_1_PREDICTED_Lutra_lutra_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.81%    failed      0.79%
+  75  XM_022509924_1_PREDICTED_Enhydra_lutris_kenyoni_B_cell_CLL_lymphoma_6_LOC111151749_mRNA                                        52.81%    failed      0.39%
+  76  XM_001499782_5_PREDICTED_Equus_caballus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X2_mRNA                                  52.81%    passed      8.38%
+  77  XM_014843366_2_PREDICTED_Equus_asinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    passed     10.84%
+  78  XM_046659336_1_PREDICTED_Equus_quagga_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    passed      8.86%
+  79  XM_004424584_2_PREDICTED_Ceratotherium_simum_simum_B_cell_CLL_lymphoma_6_LOC101400063_transcript_variant_X2_mRNA               52.81%    passed     11.07%
+  80  XM_058556134_1_PREDICTED_Diceros_bicornis_minor_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.81%    passed      7.40%
+  81  XM_019623501_1_PREDICTED_Hipposideros_armiger_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                            52.74%    passed      7.48%
+  82  XM_033123804_1_PREDICTED_Rhinolophus_ferrumequinum_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                52.81%    passed     47.14%
+  83  XM_039234207_1_PREDICTED_Hyaena_hyaena_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.81%    failed      0.00%
+  84  XM_029939648_1_PREDICTED_Suricata_suricatta_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.68%
+  85  XM_004675085_2_PREDICTED_Condylura_cristata_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              52.81%    passed     14.79%
+  86  XM_037525268_2_PREDICTED_Talpa_occidentalis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     45.23%
+  87  XM_017652474_2_PREDICTED_Manis_javanica_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                           52.81%    passed     42.28%
+  88  XM_036875318_2_PREDICTED_Manis_pentadactyla_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     43.56%
+  89  NM_001206450_1_Bos_taurus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                                      52.81%    failed      3.01%
+  90  XM_010853923_1_PREDICTED_Bison_bison_bison_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                               52.81%    failed      3.72%
+  91  XM_061413260_1_PREDICTED_Bos_javanicus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.81%    failed      3.04%
+  92  XM_019958254_1_PREDICTED_Bos_indicus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                     52.87%    failed      3.38%
+  93  XM_027538429_1_PREDICTED_Bos_indicus_x_Bos_taurus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.81%    failed      3.89%
+  94  XM_005899653_2_PREDICTED_Bos_mutus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                             52.74%    failed      4.40%
+  95  XM_004003049_6_PREDICTED_Ovis_aries_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                               52.81%    passed      7.04%
+  96  XM_052635660_1_PREDICTED_Budorcas_taxicolor_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed      6.60%
+  97  XM_005675136_3_PREDICTED_Capra_hircus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                    52.81%    passed      8.25%
+  98  XM_040253023_1_PREDICTED_Oryx_dammah_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.81%    passed      9.95%
+  99  XM_006068967_3_PREDICTED_Bubalus_bubalis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    failed      3.45%
+ 100  XM_055568758_1_PREDICTED_Bubalus_kerabau_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    failed      3.65%
+ 101  XM_020870057_1_PREDICTED_Odocoileus_virginianus_texanus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                  52.81%    failed      2.02%
+ 102  XM_043473441_1_PREDICTED_Cervus_canadensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      2.02%
+ 103  XM_043873947_1_PREDICTED_Cervus_elaphus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    failed      2.10%
+ 104  XM_055408310_1_PREDICTED_Moschus_berezovskii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.81%    failed      1.70%
+ 105  XM_061166802_1_PREDICTED_Dama_dama_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                                52.81%    failed      3.64%
+ 106  NM_001315701_1_Sus_scrofa_BCL6_transcription_repressor_BCL6_mRNA                                                               52.81%    failed      0.83%
+ 107  XM_047788609_1_PREDICTED_Phacochoerus_africanus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.81%    failed      1.62%
+ 108  XM_057738157_1_PREDICTED_Hippopotamus_amphibius_kiboko_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA            52.81%    failed      0.01%
+ 109  XM_004278482_4_PREDICTED_Orcinus_orca_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.81%    failed      0.09%
+ 110  XM_004329316_3_PREDICTED_Tursiops_truncatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.03%
+ 111  XM_027109106_1_PREDICTED_Lagenorhynchus_obliquidens_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               52.81%    failed      0.07%
+ 112  XM_060010954_1_PREDICTED_Delphinus_delphis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        48.06%    failed      0.03%
+ 113  XM_022569851_2_PREDICTED_Delphinapterus_leucas_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.81%    failed      0.10%
+ 114  XM_029214429_1_PREDICTED_Monodon_monoceros_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    failed      0.07%
+ 115  XM_030860993_2_PREDICTED_Globicephala_melas_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.05%
+ 116  XM_060150261_1_PREDICTED_Lagenorhynchus_albirostris_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               52.81%    failed      0.07%
+ 117  XM_028492096_1_PREDICTED_Physeter_catodon_BCL6_transcription_repressor_BCL6_mRNA                                               85.36%    passed     65.11%
+ 118  XM_007448427_1_PREDICTED_Lipotes_vexillifer_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              51.34%    failed      1.57%
+ 119  XM_059064959_1_PREDICTED_Kogia_breviceps_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.81%    failed      0.30%
+ 120  XM_007195227_3_PREDICTED_Balaenoptera_acutorostrata_BCL6_transcription_repressor_BCL6_transcript_variant_X3_mRNA               52.81%    failed      0.01%
+ 121  XM_059920748_1_PREDICTED_Balaenoptera_ricei_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.02%
+ 122  XM_061194358_1_PREDICTED_Eubalaena_glacialis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.81%    failed      0.20%
+ 123  XM_036849782_1_PREDICTED_Balaenoptera_musculus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.81%    failed      0.02%
+ 124  XM_060099280_1_PREDICTED_Mesoplodon_densirostris_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.81%    failed      0.43%
+ 125  XM_024767173_1_PREDICTED_Neophocaena_asiaeorientalis_asiaeorientalis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA     52.81%    failed      0.28%
+ 126  XM_032629847_1_PREDICTED_Phocoena_sinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.81%    failed      0.20%
+ 127  XM_006188853_3_PREDICTED_Camelus_ferus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.81%    failed      0.00%
+ 128  XM_010976122_2_PREDICTED_Camelus_dromedarius_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.81%    failed      0.00%
+ 129  XM_010959232_2_PREDICTED_Camelus_bactrianus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    failed      0.00%
+ 130  XM_006200974_3_PREDICTED_Vicugna_pacos_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            56.55%    failed      0.00%
+ 131  XM_006925831_3_PREDICTED_Pteropus_alecto_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.81%    passed     30.06%
+ 132  XM_011381764_2_PREDICTED_Pteropus_vampyrus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                               52.81%    passed     28.94%
+ 133  XM_039850884_1_PREDICTED_Pteropus_giganteus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     31.45%
+ 134  XM_016136294_2_PREDICTED_Rousettus_aegyptiacus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.81%    passed     39.19%
+ 135  XM_037037637_1_PREDICTED_Sturnira_hondurensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.74%    failed      2.25%
+ 136  XM_028505290_2_PREDICTED_Phyllostomus_discolor_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.74%    passed     44.94%
+ 137  XM_045850820_1_PREDICTED_Phyllostomus_hastatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.74%    passed     52.39%
+ 138  XM_037131729_2_PREDICTED_Artibeus_jamaicensis_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                     52.74%    failed      3.93%
+ 139  XM_016200065_1_PREDICTED_Miniopterus_natalensis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.74%    passed     42.21%
+ 140  XM_024564607_3_PREDICTED_Desmodus_rotundus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.74%    passed     26.61%
+ 141  XM_054585099_1_PREDICTED_Pteronotus_parnellii_mesoamericanus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA      52.74%    passed     31.56%
+ 142  XM_036242425_1_PREDICTED_Molossus_molossus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.74%    failed      1.16%
+ 143  XM_005876266_2_PREDICTED_Myotis_brandtii_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X3_mRNA                                 52.67%    passed      6.94%
+ 144  XM_036351216_1_PREDICTED_Myotis_myotis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.61%    passed      5.17%
+ 145  XM_006084784_3_PREDICTED_Myotis_lucifugus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X3_mRNA                                52.67%    passed      7.77%
+ 146  XM_006765857_2_PREDICTED_Myotis_davidii_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X4_mRNA                                  52.67%    passed      8.47%
+ 147  XM_008151582_3_PREDICTED_Eptesicus_fuscus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.74%    passed     33.76%
+ 148  XM_036448692_1_PREDICTED_Pipistrellus_kuhlii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.87%    passed     22.40%
+ 149  XM_003412912_3_PREDICTED_Loxodonta_africana_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              52.81%    passed     10.14%
+ 150  XM_049894629_1_PREDICTED_Elephas_maximus_indicus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.81%    passed      9.20%
+ 151  XM_004382238_2_PREDICTED_Trichechus_manatus_latirostris_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA           52.81%    passed      8.67%
+ 152  XM_006871885_1_PREDICTED_Chrysochloris_asiatica_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.81%    passed     37.51%
+ 153  XM_007935999_1_PREDICTED_Orycteropus_afer_afer_BCL6_transcription_repressor_BCL6_mRNA                                          52.81%    passed     34.36%
+ 154  XM_003792711_3_PREDICTED_Otolemur_garnettii_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              52.87%    passed     21.85%
+ 155  XM_053564888_1_PREDICTED_Nycticebus_coucang_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     44.95%
+ 156  XM_045539900_1_PREDICTED_Lemur_catta_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.81%    passed     48.38%
+ 157  XM_012641605_1_PREDICTED_Propithecus_coquereli_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                           52.81%    passed     31.42%
+ 158  XM_012789614_2_PREDICTED_Microcebus_murinus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              52.81%    passed     34.39%
+ 159  XM_020186340_1_PREDICTED_Castor_canadensis_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                               52.81%    passed     73.94%
+ 160  XM_002716500_3_PREDICTED_Oryctolagus_cuniculus_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                    52.67%    failed      0.15%
+ 161  XM_004577776_3_PREDICTED_Ochotona_princeps_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.81%    passed     42.09%
+ 162  XM_041003094_1_PREDICTED_Ochotona_curzoniae_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.81%    passed     40.48%
+ 163  XM_013019440_1_PREDICTED_Dipodomys_ordii_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                                 52.81%    passed     75.86%
+ 164  XM_042667752_1_PREDICTED_Dipodomys_spectabilis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                    52.74%    passed     83.72%
+ 165  XM_048346972_1_PREDICTED_Perognathus_longimembris_pacificus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA       52.81%    passed     62.25%
+ 166  NM_009744_5_Mus_musculus_B_cell_leukemia_lymphoma_6_Bcl6_transcript_variant_1_mRNA                                             52.74%    passed     60.17%
+ 167  XM_021185003_1_PREDICTED_Mus_caroli_BCL6_transcription_repressor_Bcl6_mRNA                                                     52.74%    passed     65.55%
+ 168  NM_001107084_1_Rattus_norvegicus_BCL6_transcription_repressor_Bcl6_mRNA                                                        52.74%    passed     73.08%
+ 169  XM_031363528_1_PREDICTED_Mastomys_coucha_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                          52.74%    passed     54.50%
+ 170  XM_034515149_1_PREDICTED_Arvicanthis_niloticus_BCL6_transcription_repressor_Bcl6_mRNA                                          52.74%    passed     47.14%
+ 171  XM_028783879_1_PREDICTED_Grammomys_surdaster_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                      52.74%    passed     38.34%
+ 172  XM_021209834_2_PREDICTED_Mus_pahari_BCL6_transcription_repressor_Bcl6_mRNA                                                     52.74%    passed     84.29%
+ 173  XM_052158026_1_PREDICTED_Apodemus_sylvaticus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                      52.74%    passed     52.91%
+ 174  XM_051150785_1_PREDICTED_Acomys_russatus_BCL6_transcription_repressor_Bcl6_mRNA                                                52.74%    passed     71.77%
+ 175  XM_055625015_1_PREDICTED_Psammomys_obesus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                         52.74%    passed     31.48%
+ 176  XM_021635127_2_PREDICTED_Meriones_unguiculatus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                    52.74%    passed     23.68%
+ 177  XM_008839673_3_PREDICTED_Nannospalax_galili_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                       52.81%    passed     53.06%
+ 178  XM_007642519_4_PREDICTED_Cricetulus_griseus_BCL6_transcription_repressor_Bcl6_transcript_variant_X4_mRNA                       52.74%    passed     43.72%
+ 179  XM_005071603_4_PREDICTED_Mesocricetus_auratus_BCL6_transcription_repressor_Bcl6_mRNA                                           52.74%    passed     81.09%
+ 180  XM_051191223_1_PREDICTED_Phodopus_roborovskii_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                     52.67%    passed     27.78%
+ 181  XM_059277119_1_PREDICTED_Peromyscus_eremicus_BCL6_transcription_repressor_Bcl6_mRNA                                            52.67%    passed     83.90%
+ 182  XM_052753863_1_PREDICTED_Peromyscus_californicus_insignis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA         52.67%    passed     84.12%
+ 183  XM_036203807_1_PREDICTED_Onychomys_torridus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                       52.67%    passed     70.69%
+ 184  XM_006985077_2_PREDICTED_Peromyscus_maniculatus_bairdii_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA           52.67%    passed     81.70%
+ 185  XM_007532729_3_PREDICTED_Erinaceus_europaeus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.67%    passed     23.97%
+ 186  XM_012528483_3_PREDICTED_Dasypus_novemcinctus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.81%    failed      4.39%
+ 187  XM_037838516_1_PREDICTED_Choloepus_didactylus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.81%    failed      2.42%
+ 188  XM_004603016_2_PREDICTED_Sorex_araneus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                            52.87%    failed      4.87%
+ 189  XM_056121328_1_PREDICTED_Sorex_fumeus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.87%    passed     19.36%
+ 190  XM_049775702_1_PREDICTED_Suncus_etruscus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.94%    passed     29.63%
+ 191  XM_003477082_4_PREDICTED_Cavia_porcellus_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X2_mRNA                                 52.87%    passed     50.76%
+ 192  XM_023700946_1_PREDICTED_Octodon_degus_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                                   52.81%    passed     23.95%
+ 193  XM_005383244_2_PREDICTED_Chinchilla_lanigera_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                             52.81%    passed     40.91%
+ 194  XM_004834799_3_PREDICTED_Heterocephalus_glaber_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X2_mRNA                           52.81%    passed      7.89%
+ 195  XM_010624136_3_PREDICTED_Fukomys_damarensis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                       52.87%    failed      2.96%
+ 196  XM_005344763_2_PREDICTED_Microtus_ochrogaster_B_cell_CLL_lymphoma_6_Bcl6_transcript_variant_X1_mRNA                            52.67%    passed     87.71%
+ 197  XM_041678159_1_PREDICTED_Microtus_oregoni_BCL6_transcription_repressor_Bcl6_mRNA                                               52.67%    passed     92.62%
+ 198  XM_048453887_1_PREDICTED_Myodes_glareolus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                         52.67%    passed     80.03%
+ 199  XM_050159982_1_PREDICTED_Microtus_fortis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                          52.67%    passed     85.92%
+ 200  XM_038345209_2_PREDICTED_Arvicola_amphibius_BCL6_transcription_repressor_Bcl6_transcript_variant_X2_mRNA                       52.67%    passed     85.94%
+ 201  XM_057764440_1_PREDICTED_Chionomys_nivalis_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                        52.67%    passed     96.22%
+ 202  XM_004654283_2_PREDICTED_Jaculus_jaculus_BCL6_transcription_repressor_Bcl6_transcript_variant_X1_mRNA                          52.67%    passed     45.93%
+ 203  XM_004713406_2_PREDICTED_Echinops_telfairi_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        53.01%    failed      0.84%
+ 204  XM_059687342_1_PREDICTED_Myotis_daubentonii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       51.54%    passed     43.04%
+ 205  XM_007669034_3_PREDICTED_Ornithorhynchus_anatinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.41%    passed     77.20%
+ 206  XM_038749215_1_PREDICTED_Tachyglossus_aculeatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.47%    passed     44.73%
+ 207  XM_043991526_1_PREDICTED_Dromiciops_gliroides_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.61%    failed      0.18%
+ 208  XM_020989033_1_PREDICTED_Phascolarctos_cinereus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.54%    passed     56.73%
+ 209  XM_027848751_1_PREDICTED_Vombatus_ursinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.54%    passed     57.31%
+ 210  XM_036755366_1_PREDICTED_Trichosurus_vulpecula_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.54%    passed     61.61%
+ 211  XM_051991661_1_PREDICTED_Antechinus_flavipes_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.54%    failed      0.00%
+ 212  XM_056807464_1_PREDICTED_Monodelphis_domestica_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.47%    failed      0.00%
+ 213  NM_001012930_1_Gallus_gallus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                                   52.67%    passed     99.56%
+ 214  XM_015871823_2_PREDICTED_Coturnix_japonica_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.67%    passed     86.05%
+ 215  XM_031603433_1_PREDICTED_Phasianus_colchicus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.67%    passed     80.21%
+ 216  XM_042820822_1_PREDICTED_Centrocercus_urophasianus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                52.67%    passed     94.63%
+ 217  XM_042878288_1_PREDICTED_Lagopus_leucura_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.67%    passed     89.28%
+ 218  XM_048954607_1_PREDICTED_Lagopus_muta_BCL6_transcription_repressor_BCL6_mRNA                                                   52.67%    passed     94.26%
+ 219  XM_052685957_1_PREDICTED_Tympanuchus_pallidicinctus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               52.67%    passed     89.44%
+ 220  XM_010716758_3_PREDICTED_Meleagris_gallopavo_BCL6_transcription_repressor_BCL6_mRNA                                            52.67%    passed     87.87%
+ 221  XM_021395682_1_PREDICTED_Numida_meleagris_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                      52.61%    passed     98.64%
+ 222  XM_027464090_2_PREDICTED_Anas_platyrhynchos_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.61%    passed     49.19%
+ 223  XM_013195024_2_PREDICTED_Anser_cygnoides_BCL6_transcription_repressor_BCL6_mRNA                                                52.61%    passed     46.90%
+ 224  XM_032193365_1_PREDICTED_Aythya_fuligula_BCL6_transcription_repressor_BCL6_mRNA                                                52.61%    passed     27.15%
+ 225  XM_035334598_1_PREDICTED_Oxyura_jamaicensis_BCL6_transcription_repressor_BCL6_mRNA                                             52.61%    passed     66.85%
+ 226  XM_035544604_2_PREDICTED_Cygnus_atratus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     68.69%
+ 227  XM_040567745_1_PREDICTED_Cygnus_olor_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.61%    passed     58.39%
+ 228  XM_030279945_3_PREDICTED_Taeniopygia_guttata_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      51.27%    passed     87.09%
+ 229  XM_014871676_1_PREDICTED_Sturnus_vulgaris_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                      52.61%    passed     66.13%
+ 230  XM_021536835_2_PREDICTED_Lonchura_striata_domestica_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               51.27%    passed     61.18%
+ 231  XM_005418963_1_PREDICTED_Geospiza_fortis_BCL6_transcription_repressor_BCL6_mRNA                                                52.61%    passed     79.16%
+ 232  XM_005484910_3_PREDICTED_Zonotrichia_albicollis_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                52.61%    passed     79.12%
+ 233  XM_015638187_2_PREDICTED_Parus_major_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                              52.61%    passed     82.11%
+ 234  XM_023948655_1_PREDICTED_Cyanistes_caeruleus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             52.61%    passed     73.69%
+ 235  XM_027647270_1_PREDICTED_Corapipo_altera_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     33.25%
+ 236  XM_030954612_1_PREDICTED_Camarhynchus_parvulus_BCL6_transcription_repressor_BCL6_mRNA                                          52.61%    passed     85.26%
+ 237  XM_058844538_1_PREDICTED_Poecile_atricapillus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.61%    passed     83.14%
+ 238  XM_036388890_2_PREDICTED_Molothrus_ater_BCL6_transcription_repressor_BCL6_mRNA                                                 52.61%    passed     88.26%
+ 239  XM_038145677_1_PREDICTED_Motacilla_alba_alba_BCL6_transcription_repressor_BCL6_mRNA                                            52.61%    passed     80.72%
+ 240  XM_041405962_1_PREDICTED_Onychostruthus_taczanowskii_BCL6_transcription_repressor_BCL6_mRNA                                    52.61%    passed     79.88%
+ 241  XM_041467891_1_PREDICTED_Pyrgilauda_ruficollis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.61%    passed     79.88%
+ 242  XM_054282450_1_PREDICTED_Melozone_crissalis_BCL6_transcription_repressor_BCL6_mRNA                                             52.61%    passed     92.61%
+ 243  XM_054639394_1_PREDICTED_Agelaius_phoeniceus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      45.92%    passed     60.25%
+ 244  XM_005524990_2_PREDICTED_Pseudopodoces_humilis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     79.21%
+ 245  XM_058811834_1_PREDICTED_Ammospiza_caudacuta_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.61%    passed     89.92%
+ 246  XM_058030994_1_PREDICTED_Melospiza_georgiana_BCL6_transcription_repressor_BCL6_mRNA                                            52.61%    passed     93.03%
+ 247  XM_059479432_1_PREDICTED_Ammospiza_nelsoni_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.61%    passed     91.08%
+ 248  XM_027685552_1_PREDICTED_Neopelma_chrysocephalum_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.61%    passed     28.40%
+ 249  XM_027884016_1_PREDICTED_Empidonax_traillii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.61%    passed     55.59%
+ 250  XM_032697882_1_PREDICTED_Chiroxiphia_lanceolata_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.61%    passed     41.42%
+ 251  XM_039713359_1_PREDICTED_Passer_montanus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     87.85%
+ 252  XM_057376607_1_PREDICTED_Malurus_melanocephalus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   53.01%    passed     78.06%
+ 253  XM_053986147_1_PREDICTED_Vidua_macroura_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     64.92%
+ 254  XM_018075001_2_PREDICTED_Manacus_vitellinus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.61%    passed     34.51%
+ 255  XM_051782320_1_PREDICTED_Manacus_candei_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     34.51%
+ 256  XM_017810751_1_PREDICTED_Lepidothrix_coronata_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                            52.61%    passed     41.13%
+ 257  XM_039378036_1_PREDICTED_Pipra_filicauda_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     43.72%
+ 258  XM_053951484_1_PREDICTED_Vidua_chalybeata_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.61%    passed     67.63%
+ 259  XM_008644564_2_PREDICTED_Corvus_brachyrhynchos_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                 52.61%    passed     78.86%
+ 260  XM_039556923_1_PREDICTED_Corvus_cornix_cornix_BCL6_transcription_repressor_BCL6_mRNA                                           52.61%    passed     81.49%
+ 261  XM_032119623_1_PREDICTED_Corvus_moneduloides_BCL6_transcription_repressor_BCL6_mRNA                                            52.61%    passed     81.47%
+ 262  XM_048314554_1_PREDICTED_Corvus_hawaiiensis_BCL6_transcription_repressor_BCL6_mRNA                                             52.61%    passed     73.92%
+ 263  XM_042042139_1_PREDICTED_Corvus_kubaryi_BCL6_transcription_repressor_BCL6_mRNA                                                 52.61%    passed     82.36%
+ 264  XM_040074327_2_PREDICTED_Hirundo_rustica_BCL6_transcription_repressor_BCL6_mRNA                                                52.61%    passed     99.55%
+ 265  XM_059855518_1_PREDICTED_Haemorhous_mexicanus_BCL6_transcription_repressor_BCL6_mRNA                                           52.61%    passed     81.27%
+ 266  XM_050308140_1_PREDICTED_Myiozetetes_cayanensis_BCL6_transcription_repressor_BCL6_mRNA                                         52.61%    passed     63.46%
+ 267  XM_013299395_3_PREDICTED_Falco_peregrinus_BCL6_transcription_repressor_BCL6_transcript_variant_X4_mRNA                         52.61%    passed     72.68%
+ 268  XM_014283621_3_PREDICTED_Falco_cherrug_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                            52.61%    passed     73.96%
+ 269  XM_040613383_1_PREDICTED_Falco_naumanni_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     74.07%
+ 270  XM_010137261_1_PREDICTED_Buceros_rhinoceros_silvestris_B_cell_CLL_lymphoma_6_BCL6_mRNA                                         52.61%    passed     11.98%
+ 271  XM_050902608_1_PREDICTED_Gymnogyps_californianus_BCL6_transcription_repressor_BCL6_mRNA                                        52.61%    passed     89.96%
+ 272  XM_009916919_1_PREDICTED_Haliaeetus_albicilla_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                            50.80%    passed     61.86%
+ 273  XM_010573059_1_PREDICTED_Haliaeetus_leucocephalus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                        52.61%    passed     70.94%
+ 274  XM_030028623_2_PREDICTED_Aquila_chrysaetos_chrysaetos_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA             52.61%    passed     80.20%
+ 275  XM_052803858_1_PREDICTED_Harpia_harpyja_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     67.51%
+ 276  XM_049802984_1_PREDICTED_Accipiter_gentilis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.61%    passed     54.97%
+ 277  XM_009282362_1_PREDICTED_Aptenodytes_forsteri_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                            52.61%    passed     83.24%
+ 278  XM_009323587_1_PREDICTED_Pygoscelis_adeliae_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                    52.61%    passed     87.61%
+ 279  XM_009468446_1_PREDICTED_Nipponia_nippon_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                       52.61%    passed     53.47%
+ 280  XM_035891225_1_PREDICTED_Egretta_garzetta_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.61%    passed     71.79%
+ 281  XM_009481748_1_PREDICTED_Pelecanus_crispus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                               52.61%    passed     77.06%
+ 282  XM_009989835_1_PREDICTED_Tauraco_erythrolophus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                 52.61%    passed     74.30%
+ 283  XM_059822429_1_PREDICTED_Gavia_stellata_BCL6_transcription_repressor_BCL6_mRNA                                                 52.61%    passed     81.79%
+ 284  XM_009931663_1_PREDICTED_Opisthocomus_hoazin_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                   52.61%    passed     90.62%
+ 285  XM_010078249_1_PREDICTED_Pterocles_gutturalis_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                  52.61%    passed     89.39%
+ 286  XM_010126623_1_PREDICTED_Chlamydotis_macqueenii_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                52.61%    passed     49.61%
+ 287  XM_014946016_1_PREDICTED_Calidris_pugnax_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.61%    passed     71.70%
+ 288  XM_054205175_1_PREDICTED_Rissa_tridactyla_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         52.61%    passed     94.24%
+ 289  XM_054835382_1_PREDICTED_Grus_americana_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           52.61%    passed     59.83%
+ 290  XM_008947051_1_PREDICTED_Merops_nubicus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                        52.61%    passed     77.90%
+ 291  XM_009089135_4_PREDICTED_Serinus_canaria_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     68.74%
+ 292  XM_010287479_1_PREDICTED_Phaethon_lepturus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                     52.61%    passed     72.45%
+ 293  XM_026854934_1_PREDICTED_Athene_cunicularia_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              52.61%    passed     42.18%
+ 294  XM_033068987_1_PREDICTED_Catharus_ustulatus_BCL6_transcription_repressor_BCL6_mRNA                                             52.74%    passed     89.81%
+ 295  XM_054166360_1_PREDICTED_Dryobates_pubescens_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.61%    failed      4.19%
+ 296  XM_054385798_1_PREDICTED_Indicator_indicator_BCL6_transcription_repressor_BCL6_mRNA                                            52.61%    passed     11.81%
+ 297  XM_042795784_1_PREDICTED_Tyto_alba_BCL6_transcription_repressor_BCL6_mRNA                                                      52.61%    passed     44.99%
+ 298  XM_009871847_1_PREDICTED_Apaloderma_vittatum_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                   52.54%    passed     45.16%
+ 299  XM_009955720_1_PREDICTED_Leptosomus_discolor_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             52.61%    passed     48.77%
+ 300  XM_005051112_2_PREDICTED_Ficedula_albicollis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X2_mRNA                             52.61%    passed     65.81%
+ 301  XM_056498280_1_PREDICTED_Oenanthe_melanoleuca_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.61%    passed     66.54%
+ 302  XM_010152391_1_PREDICTED_Eurypyga_helias_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                       52.61%    passed     67.98%
+ 303  XM_010178553_1_PREDICTED_Mesitornis_unicolor_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                   52.61%    passed     80.26%
+ 304  XM_010200133_1_PREDICTED_Colius_striatus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.61%    passed     74.20%
+ 305  XM_009883356_1_PREDICTED_Charadrius_vociferus_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                  52.61%    passed     56.04%
+ 306  XM_051626233_1_PREDICTED_Apus_apus_BCL6_transcription_repressor_BCL6_mRNA                                                      52.61%    passed     51.76%
+ 307  XM_009999825_1_PREDICTED_Chaetura_pelagica_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                     52.61%    passed     41.51%
+ 308  XM_005513218_2_PREDICTED_Columba_livia_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                   52.61%    passed     48.07%
+ 309  XM_030456630_1_PREDICTED_Calypte_anna_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                             52.61%    failed      3.73%
+ 310  XM_009074077_1_PREDICTED_Acanthisitta_chloris_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                  52.61%    passed     30.63%
+ 311  XM_010177271_1_PREDICTED_Antrostomus_carolinensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.54%    passed     69.21%
+ 312  XM_031043007_2_PREDICTED_Melopsittacus_undulatus_BCL6_transcription_repressor_LOC101872939_transcript_variant_X1_mRNA          52.61%    passed      5.64%
+ 313  XM_061452184_1_PREDICTED_Pezoporus_flaviventris_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.61%    passed      9.15%
+ 314  XM_061348839_1_PREDICTED_Neopsephotus_bourkii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.61%    passed      8.27%
+ 315  XM_057427437_1_PREDICTED_Pezoporus_wallicus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.61%    passed      9.47%
+ 316  XM_030493774_1_PREDICTED_Strigops_habroptila_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.61%    passed     38.22%
+ 317  XM_010022513_1_PREDICTED_Nestor_notabilis_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                      52.61%    passed     15.81%
+ 318  XM_054074606_1_PREDICTED_Cuculus_canorus_BCL6_transcription_repressor_BCL6_mRNA                                                52.67%    passed      5.63%
+ 319  XM_010307076_1_PREDICTED_Balearica_regulorum_gibbericeps_B_cell_CLL_lymphoma_6_BCL6_mRNA                                       51.80%    passed     39.85%
+ 320  XM_009682141_1_PREDICTED_Struthio_camelus_australis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                      52.61%    passed     58.01%
+ 321  XM_026070890_1_PREDICTED_Apteryx_rowi_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                    52.61%    passed     62.96%
+ 322  XM_026093522_1_PREDICTED_Dromaius_novaehollandiae_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                        52.81%    passed     49.24%
+ 323  XM_010224385_1_PREDICTED_Tinamus_guttatus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                52.54%    passed      8.88%
+ 324  XM_026045158_1_PREDICTED_Nothoprocta_perdicaria_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     57.92%
+ 325  XM_006122212_3_PREDICTED_Pelodiscus_sinensis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X2_mRNA                             52.61%    failed      2.88%
+ 326  XM_038416794_2_PREDICTED_Dermochelys_coriacea_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                     52.61%    passed     12.62%
+ 327  XM_027820257_3_PREDICTED_Chelonia_mydas_BCL6_transcription_repressor_BCL6_transcript_variant_X3_mRNA                           52.61%    passed     32.86%
+ 328  XM_048865495_1_PREDICTED_Caretta_caretta_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     35.33%
+ 329  XM_032777303_1_PREDICTED_Chelonoidis_abingdonii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.61%    passed     33.90%
+ 330  XM_042843888_1_PREDICTED_Chrysemys_picta_bellii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   47.19%    passed     23.94%
+ 331  XM_024202388_3_PREDICTED_Terrapene_carolina_triunguis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA             52.61%    passed     30.79%
+ 332  XM_034781618_1_PREDICTED_Trachemys_scripta_elegans_BCL6_transcription_repressor_BCL6_transcript_variant_X2_mRNA                51.60%    passed     27.62%
+ 333  XM_054040602_1_PREDICTED_Malaclemys_terrapin_pileata_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA              52.61%    passed     27.97%
+ 334  XM_045030121_1_PREDICTED_Mauremys_mutica_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.61%    passed     32.86%
+ 335  XM_039488777_1_PREDICTED_Mauremys_reevesii_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.61%    passed     29.50%
+ 336  XM_050964772_1_PREDICTED_Gopherus_flavomarginatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                 52.61%    passed     39.43%
+ 337  XM_030575506_1_PREDICTED_Gopherus_evgoodei_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.61%    passed     26.75%
+ 338  XM_006022414_3_PREDICTED_Alligator_sinensis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X2_mRNA                              52.67%    passed     19.60%
+ 339  XM_019499053_2_PREDICTED_Alligator_mississippiensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA               52.67%    passed     30.17%
+ 340  XM_019503469_1_PREDICTED_Gavialis_gangeticus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             52.67%    failed      0.20%
+ 341  XM_019532901_1_PREDICTED_Crocodylus_porosus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                              55.01%    failed      0.05%
+ 342  XM_053306846_1_PREDICTED_Hemicordylus_capensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    49.80%    passed     24.30%
+ 343  XM_042457139_1_PREDICTED_Sceloporus_undulatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                     52.47%    failed      4.03%
+ 344  XM_003229395_2_PREDICTED_Anolis_carolinensis_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                             52.67%    failed      0.02%
+ 345  XM_060767272_1_PREDICTED_Anolis_sagrei_ordinatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                  52.67%    failed      0.69%
+ 346  XM_061637605_1_PREDICTED_Rhineura_floridana_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.47%    passed     16.15%
+ 347  XM_053387358_1_PREDICTED_Podarcis_raffonei_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        51.80%    failed      0.25%
+ 348  XM_028731855_1_PREDICTED_Podarcis_muralis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         51.80%    failed      0.23%
+ 349  XM_033150913_1_PREDICTED_Lacerta_agilis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                           51.80%    failed      0.10%
+ 350  XM_060274244_1_PREDICTED_Zootoca_vivipara_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         51.80%    failed      0.45%
+ 351  XM_056849568_1_PREDICTED_Euleptes_europaea_BCL6_transcription_repressor_BCL6_mRNA                                              52.67%    passed     42.33%
+ 352  XM_015415233_1_PREDICTED_Gekko_japonicus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                 52.67%    failed      0.82%
+ 353  XM_060242853_1_PREDICTED_Heteronotia_binoei_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                       52.67%    failed      0.72%
+ 354  XM_054983645_1_PREDICTED_Eublepharis_macularius_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   52.67%    failed      1.71%
+ 355  XM_048506981_1_PREDICTED_Sphaerodactylus_townsendi_BCL6_transcription_repressor_BCL6_mRNA                                      52.87%    passed     41.51%
+ 356  XM_044456244_1_PREDICTED_Varanus_komodoensis_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                      52.54%    failed      0.00%
+ 357  XM_007443483_3_PREDICTED_Python_bivittatus_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X2_mRNA                               45.12%    failed      0.32%
+ 358  XM_026722355_1_PREDICTED_Pseudonaja_textilis_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X3_mRNA                             56.75%    passed     56.79%
+ 359  XM_060684758_1_PREDICTED_Pantherophis_guttatus_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    49.60%    passed     94.37%
+ 360  XM_058187891_1_PREDICTED_Ahaetulla_prasina_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                        52.87%    passed     81.98%
+ 361  XM_039318485_1_PREDICTED_Crotalus_tigris_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          52.67%    passed     79.14%
+ 362  XM_029286451_1_PREDICTED_Protobothrops_mucrosquamatus_BCL6_transcription_repressor_BCL6_mRNA                                   52.67%    passed     68.00%
+ 363  XM_014074904_1_PREDICTED_Thamnophis_sirtalis_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                   51.20%    passed     96.53%
+ 364  XM_053458529_1_PREDICTED_Spea_bombifrons_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          53.68%    failed      0.00%
+ 365  XM_053710254_1_PREDICTED_Bombina_bombina_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          53.14%    failed      0.00%
+ 366  XM_018576401_1_PREDICTED_Nanorana_parkeri_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                                52.14%    failed      0.00%
+ 367  XM_040349588_1_PREDICTED_Rana_temporaria_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                          53.34%    failed      0.00%
+ 368  XM_044273165_1_PREDICTED_Bufo_gargarizans_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                         53.48%    failed      0.00%
+ 369  XM_056565461_1_PREDICTED_Hyla_sarda_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                               53.28%    failed      0.00%
+ 370  NM_001122806_1_Xenopus_tropicalis_BCL6_transcription_repressor_bcl6_mRNA                                                       53.07%    failed      0.00%
+ 371  XM_029615870_1_PREDICTED_Rhinatrema_bivittatum_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.61%    passed     28.63%
+ 372  XM_033958273_1_PREDICTED_Geotrypetes_seraphini_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    52.61%    failed      0.00%
+ 373  XM_030217229_1_PREDICTED_Microcaecilia_unicolor_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                   51.87%    failed      0.00%
+ 374  XM_020815801_1_PREDICTED_Pogona_vitticeps_B_cell_CLL_lymphoma_6_BCL6_mRNA                                                      52.34%    failed      3.65%
+ 375  XM_005992451_2_PREDICTED_Latimeria_chalumnae_B_cell_CLL_lymphoma_6_BCL6_transcript_variant_X1_mRNA                             51.80%    failed      0.00%
+ 376  XM_044070217_1_PREDICTED_Protopterus_annectens_BCL6_transcription_repressor_BCL6_transcript_variant_X1_mRNA                    51.87%    failed      0.00%
+ 377  XM_034140934_1_PREDICTED_Trematomus_bernacchii_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                     52.41%    passed     86.19%
+ 378  XM_034080580_1_PREDICTED_Pseudochaenichthys_georgianus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA       52.54%    passed     36.07%
+ 379  XM_034235585_1_PREDICTED_Gymnodraco_acuticeps_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.53%    passed     68.53%
+ 380  XM_010793958_1_PREDICTED_Notothenia_coriiceps_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                            52.41%    passed     83.58%
+ 381  XM_034583216_1_PREDICTED_Hippoglossus_hippoglossus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA           50.07%    failed      0.83%
+ 382  XM_035176387_2_PREDICTED_Hippoglossus_stenolepis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA             50.07%    failed      0.72%
+ 383  XM_061078455_1_PREDICTED_Limanda_limanda_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                           52.07%    passed     13.33%
+ 384  XM_053429717_1_PREDICTED_Pleuronectes_platessa_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                     52.07%    passed      7.02%
+ 385  XM_020080689_1_PREDICTED_Paralichthys_olivaceus_B_cell_CLL_lymphoma_6_bcl6_mRNA                                                52.07%    failed      1.14%
+ 386  XM_034677856_1_PREDICTED_Notolabrus_celidotus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.07%    passed     18.07%
+ 387  XM_020632593_2_PREDICTED_Labrus_bergylta_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                          52.07%    passed     40.86%
+ 388  XM_061030527_1_PREDICTED_Labrus_mixtus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                       50.07%    passed     36.85%
+ 389  XM_041790435_1_PREDICTED_Cheilinus_undulatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 51.40%    failed      2.90%
+ 390  XM_041041034_1_PREDICTED_Toxotes_jaculatrix_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  50.07%    failed      0.39%
+ 391  XM_056379452_1_PREDICTED_Seriola_aureovittata_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                      52.07%    passed      5.39%
+ 392  XM_022759406_1_PREDICTED_Seriola_dumerili_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                                52.07%    passed      9.65%
+ 393  XM_023425969_1_PREDICTED_Seriola_lalandi_dorsalis_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                        49.67%    failed      2.12%
+ 394  XM_040129279_1_PREDICTED_Xiphias_gladius_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X3_mRNA                     49.73%    passed      5.34%
+ 395  XM_039811640_1_PREDICTED_Perca_fluviatilis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   50.07%    passed     37.48%
+ 396  XM_031311789_2_PREDICTED_Sander_lucioperca_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   50.07%    passed     24.66%
+ 397  XM_028587511_1_PREDICTED_Perca_flavescens_BCL6_transcription_repressor_bcl6_mRNA                                               52.07%    passed     57.79%
+ 398  XM_049587020_1_PREDICTED_Epinephelus_fuscoguttatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X3_mRNA           50.87%    passed     31.28%
+ 399  XM_033622129_1_PREDICTED_Epinephelus_lanceolatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA             50.07%    passed     26.35%
+ 400  XM_050054764_1_PREDICTED_Epinephelus_moara_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                         52.07%    passed     53.36%
+ 401  XM_041935236_1_PREDICTED_Chelmon_rostratus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   51.74%    passed     77.23%
+ 402  XM_059341785_1_PREDICTED_Centropristis_striata_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               50.13%    passed      7.39%
+ 403  XM_051376820_1_PREDICTED_Dicentrarchus_labrax_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.87%    failed      0.55%
+ 404  XM_035652989_1_PREDICTED_Morone_saxatilis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X4_mRNA                    49.93%    failed      0.71%
+ 405  XM_044198226_1_PREDICTED_Siniperca_chuatsi_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   50.00%    failed      4.39%
+ 406  XM_038716679_1_PREDICTED_Micropterus_salmoides_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               50.87%    failed      3.12%
+ 407  XM_046050376_1_PREDICTED_Micropterus_dolomieu_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X2_mRNA                50.87%    failed      3.50%
+ 408  XM_029429357_1_PREDICTED_Cottoperca_gobio_B_cell_lymphoma_6_protein_like_LOC115006819_transcript_variant_X4_mRNA               51.00%    passed     10.65%
+ 409  XM_019275343_2_PREDICTED_Larimichthys_crocea_BCL6_transcription_repressor_bcl6_mRNA                                            52.27%    failed      3.22%
+ 410  XM_037770787_1_PREDICTED_Sebastes_umbrosus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   51.07%    passed     83.06%
+ 411  XM_042417511_1_PREDICTED_Thunnus_maccoyii_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                          52.14%    failed      0.11%
+ 412  XM_053321982_1_PREDICTED_Scomber_japonicus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                         52.14%    failed      2.20%
+ 413  XM_044361721_1_PREDICTED_Thunnus_albacares_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   50.13%    failed      0.09%
+ 414  XM_046392362_1_PREDICTED_Scatophagus_argus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X2_mRNA                   50.87%    failed      1.99%
+ 415  XM_030434266_1_PREDICTED_Sparus_aurata_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                            50.20%    passed     74.15%
+ 416  XM_037115499_1_PREDICTED_Acanthopagrus_latus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 51.74%    passed     88.33%
+ 417  XM_034880412_1_PREDICTED_Etheostoma_cragini_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  50.20%    passed     71.53%
+ 418  XM_032526238_1_PREDICTED_Etheostoma_spectabile_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                    50.53%    passed     70.86%
+ 419  XM_008277532_1_PREDICTED_Stegastes_partitus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                              52.07%    passed      7.95%
+ 420  XM_035947167_2_PREDICTED_Amphiprion_ocellaris_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.07%    passed      7.03%
+ 421  XM_047586399_1_PREDICTED_Mugil_cephalus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                      50.33%    passed     36.20%
+ 422  XM_042515074_1_PREDICTED_Plectropomus_leopardus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                    51.54%    passed     83.90%
+ 423  XM_026304847_1_PREDICTED_Mastacembelus_armatus_BCL6_transcription_repressor_bcl6_mRNA                                          52.07%    failed      0.00%
+ 424  XM_030131541_1_PREDICTED_Sphaeramia_orbicularis_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                   50.07%    failed      0.06%
+ 425  XM_020610089_1_PREDICTED_Monopterus_albus_B_cell_CLL_lymphoma_6_bcl6_mRNA                                                      52.27%    failed      0.10%
+ 426  XM_035647013_2_PREDICTED_Scophthalmus_maximus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.07%    failed      1.01%
+ 427  XM_054602583_1_PREDICTED_Anoplopoma_fimbria_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  52.01%    passed     28.07%
+ 428  XM_056415031_1_PREDICTED_Pseudoliparis_swirei_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                52.74%    failed      0.89%
+ 429  XM_034530412_1_PREDICTED_Cyclopterus_lumpus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X2_mRNA                  49.87%    failed      1.34%
+ 430  XM_031873022_1_PREDICTED_Anarrhichthys_ocellatus_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                  50.07%    passed     12.90%
+ 431  XM_029500813_1_PREDICTED_Echeneis_naucrates_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                       51.80%    failed      0.00%
+ 432  XM_028404182_1_PREDICTED_Parambassis_ranga_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                        51.34%    failed      1.65%
+ 433  XM_026345503_1_PREDICTED_Anabas_testudineus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                        52.47%    failed      0.20%
+ 434  XM_030082705_1_PREDICTED_Salarias_fasciatus_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                       50.13%    passed     60.86%
+ 435  XM_030048854_1_PREDICTED_Myripristis_murdjan_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                      50.07%    failed      0.00%
+ 436  XM_056276452_1_PREDICTED_Lampris_incognitus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                        52.34%    failed      0.00%
+ 437  XM_005451217_4_PREDICTED_Oreochromis_niloticus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                           50.40%    passed      6.29%
+ 438  XM_039607473_1_PREDICTED_Oreochromis_aureus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  50.40%    passed      7.07%
+ 439  XM_004552837_5_PREDICTED_Maylandia_zebra_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X2_mRNA                                 50.40%    failed      2.80%
+ 440  XM_005727170_1_PREDICTED_Pundamilia_nyererei_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                             50.40%    failed      3.34%
+ 441  XM_026158664_1_PREDICTED_Astatotilapia_calliptera_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                        50.40%    failed      2.93%
+ 442  XM_005919733_3_PREDICTED_Haplochromis_burtoni_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.40%    failed      3.17%
+ 443  XM_040040073_1_PREDICTED_Simochromis_diagramma_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               50.47%    passed      5.47%
+ 444  XM_006790415_2_PREDICTED_Neolamprologus_brichardi_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            51.20%    failed      4.14%
+ 445  XM_058639134_1_PREDICTED_Solea_solea_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                         51.07%    passed     16.07%
+ 446  XM_044044387_1_PREDICTED_Solea_senegalensis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  50.13%    passed     20.36%
+ 447  XM_020702639_2_PREDICTED_Oryzias_latipes_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                                 50.07%    passed     59.92%
+ 448  XM_024279113_2_PREDICTED_Oryzias_melastigma_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  50.00%    passed     72.33%
+ 449  XM_061737589_1_PREDICTED_Cololabis_saira_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     50.20%    passed     49.32%
+ 450  XM_037469814_1_PREDICTED_Pungitius_pungitius_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X4_mRNA                 47.59%    passed     15.55%
+ 451  XM_040183618_1_PREDICTED_Gasterosteus_aculeatus_aculeatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA    50.27%    failed      0.03%
+ 452  XM_029148402_3_PREDICTED_Betta_splendens_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     50.47%    passed      6.98%
+ 453  XM_029827596_1_PREDICTED_Takifugu_rubripes_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                        50.00%    passed      7.70%
+ 454  XM_057038435_1_PREDICTED_Takifugu_flavidus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                         52.07%    passed     16.49%
+ 455  XM_042006857_1_PREDICTED_Melanotaenia_boesemani_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              49.33%    failed      2.85%
+ 456  XM_015962367_2_PREDICTED_Nothobranchius_furzeri_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              50.40%    passed     33.35%
+ 457  XM_023339719_1_PREDICTED_Xiphophorus_maculatus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                           50.20%    passed     33.59%
+ 458  XM_032572011_1_PREDICTED_Xiphophorus_hellerii_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                     50.20%    passed     32.54%
+ 459  XM_028027665_1_PREDICTED_Xiphophorus_couchianus_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                   50.20%    passed     40.69%
+ 460  XM_016681390_1_PREDICTED_Poecilia_formosa_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                                50.27%    passed     33.46%
+ 461  XM_015035952_1_PREDICTED_Poecilia_latipinna_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                              50.27%    passed     42.50%
+ 462  XM_014974497_1_PREDICTED_Poecilia_mexicana_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                               50.20%    passed     29.63%
+ 463  XM_055047447_1_PREDICTED_Poeciliopsis_prolifica_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              50.13%    passed     53.77%
+ 464  XM_008407674_2_PREDICTED_Poecilia_reticulata_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                             50.40%    passed     65.27%
+ 465  XM_044128810_1_PREDICTED_Gambusia_affinis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                    50.20%    passed      7.78%
+ 466  XM_047375583_1_PREDICTED_Girardinichthys_multiradiatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA       49.33%    failed      3.48%
+ 467  XM_015380994_1_PREDICTED_Cyprinodon_variegatus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                           49.80%    failed      3.50%
+ 468  XM_038304087_1_PREDICTED_Cyprinodon_tularosa_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 48.86%    passed      5.47%
+ 469  XM_014022352_1_PREDICTED_Austrofundulus_limnaeus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                         51.00%    failed      0.03%
+ 470  XM_017423539_3_PREDICTED_Kryptolebias_marmoratus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA             50.53%    passed     19.20%
+ 471  XM_037674999_1_PREDICTED_Nematolebias_whitei_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                       51.20%    passed     77.58%
+ 472  XM_034180673_1_PREDICTED_Thalassophryne_amazonica_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            52.21%    passed      6.98%
+ 473  XM_053852931_1_PREDICTED_Synchiropus_splendidus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              50.13%    failed      4.69%
+ 474  XM_028445322_1_PREDICTED_Gouania_willdenowi_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                       52.67%    failed      0.00%
+ 475  XM_033991953_2_PREDICTED_Periophthalmus_magnuspinnatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA       51.74%    passed     21.25%
+ 476  XM_025054239_1_PREDICTED_Cynoglossus_semilaevis_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                          52.21%    failed      0.16%
+ 477  XM_054788841_1_PREDICTED_Dunckerocampus_dactyliophorus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA       50.53%    passed     45.93%
+ 478  XM_058073789_1_PREDICTED_Doryrhamphus_excisus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                50.53%    passed     94.44%
+ 479  XM_061825896_1_PREDICTED_Syngnathoides_biaculeatus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                 52.54%    failed      0.00%
+ 480  XM_061780154_1_PREDICTED_Phyllopteryx_taeniolatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            50.74%    failed      0.00%
+ 481  XM_061683818_1_PREDICTED_Phycodurus_eques_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                    50.74%    failed      0.00%
+ 482  XM_057840455_1_PREDICTED_Corythoichthys_intestinalis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X3_mRNA         50.67%    passed      8.51%
+ 483  XM_061297092_1_PREDICTED_Syngnathus_typhle_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   51.94%    failed      0.03%
+ 484  XM_037250622_1_PREDICTED_Syngnathus_acus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     52.81%    failed      0.01%
+ 485  XM_049722959_1_PREDICTED_Syngnathus_scovelli_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 52.81%    failed      0.26%
+ 486  XM_052073038_1_PREDICTED_Hippocampus_zosterae_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                52.54%    failed      0.01%
+ 487  XM_019897175_1_PREDICTED_Hippocampus_comes_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                               52.74%    failed      0.01%
+ 488  XM_047036870_1_PREDICTED_Hypomesus_transpacificus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            48.93%    passed      6.56%
+ 489  XM_029695388_1_PREDICTED_Salmo_trutta_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                             48.86%    passed     31.05%
+ 490  XM_014149659_2_PREDICTED_Salmo_salar_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                         49.53%    passed     42.17%
+ 491  XM_052475645_1_PREDICTED_Oncorhynchus_keta_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   49.06%    passed     23.14%
+ 492  XM_046299688_1_PREDICTED_Oncorhynchus_gorbuscha_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              49.40%    passed     19.06%
+ 493  XM_036981292_1_PREDICTED_Oncorhynchus_mykiss_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                       51.67%    passed     17.37%
+ 494  XM_055941137_1_PREDICTED_Salvelinus_fontinalis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               49.33%    passed     26.45%
+ 495  XM_039000725_1_PREDICTED_Salvelinus_namaycush_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                      51.60%    passed     35.90%
+ 496  XM_029653911_1_PREDICTED_Oncorhynchus_nerka_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                       50.13%    passed     33.29%
+ 497  XM_020048703_3_PREDICTED_Esox_lucius_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                         49.13%    passed     16.51%
+ 498  XM_021476813_1_PREDICTED_Danio_rerio_B_cell_CLL_lymphoma_6a_zinc_finger_protein_51_bcl6a_transcript_variant_X1_mRNA            50.00%    failed      0.00%
+ 499  XM_056459925_1_PREDICTED_Danio_aesculapii_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                          52.01%    failed      0.00%
+ 500  XM_026213780_1_PREDICTED_Carassius_auratus_B_cell_lymphoma_6_protein_homolog_LOC113050614_transcript_variant_X1_mRNA           52.27%    failed      0.00%
+ 501  XM_016497228_1_PREDICTED_Sinocyclocheilus_anshuiensis_B_cell_lymphoma_6_protein_like_LOC107696747_mRNA                         60.83%    failed      0.18%
+ 502  XM_043241667_1_PREDICTED_Puntigrus_tetrazona_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X2_mRNA                 49.87%    failed      0.01%
+ 503  XM_051112285_1_PREDICTED_Labeo_rohita_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                        49.93%    failed      0.01%
+ 504  XM_016279547_1_PREDICTED_Sinocyclocheilus_grahami_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                        49.80%    failed      0.00%
+ 505  XM_058779601_1_PREDICTED_Onychostoma_macrolepis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X6_mRNA              50.74%    failed      0.00%
+ 506  XM_042758254_1_PREDICTED_Cyprinus_carpio_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     49.93%    failed      0.01%
+ 507  XM_051896324_1_PREDICTED_Ctenopharyngodon_idella_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                   52.01%    failed      0.00%
+ 508  XM_039691472_1_PREDICTED_Pimephales_promelas_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 49.87%    failed      0.02%
+ 509  XM_056246329_1_PREDICTED_Rhinichthys_klamathensis_goyatoka_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA   49.87%    failed      0.01%
+ 510  XM_048199717_1_PREDICTED_Megalobrama_amblycephala_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X2_mRNA            50.80%    failed      0.01%
+ 511  XM_055213452_1_PREDICTED_Misgurnus_anguillicaudatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA          51.94%    failed      0.00%
+ 512  XM_030791273_1_PREDICTED_Chanos_chanos_BCL6_transcription_repressor_bcl6_mRNA                                                  52.34%    failed      0.02%
+ 513  XM_042705578_1_PREDICTED_Clupea_harengus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     49.60%    failed      3.22%
+ 514  XM_042111704_1_PREDICTED_Alosa_sapidissima_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   48.60%    failed      0.54%
+ 515  XM_048252264_1_PREDICTED_Alosa_alosa_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                         48.40%    failed      0.44%
+ 516  XM_029001835_1_PREDICTED_Denticeps_clupeoides_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                     52.14%    failed      3.59%
+ 517  XM_046848385_1_PREDICTED_Silurus_meridionalis_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                52.61%    failed      0.03%
+ 518  XM_058403332_1_PREDICTED_Hemibagrus_wyckioides_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               52.67%    failed      0.04%
+ 519  XM_060867726_1_PREDICTED_Tachysurus_vachellii_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                52.67%    failed      0.02%
+ 520  XM_027146647_2_PREDICTED_Tachysurus_fulvidraco_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               52.67%    failed      0.01%
+ 521  XM_060919809_1_PREDICTED_Neoarius_graeffei_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                   52.21%    failed      0.02%
+ 522  XM_026923309_3_PREDICTED_Pangasianodon_hypophthalmus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA         52.54%    failed      0.69%
+ 523  XM_053499186_1_PREDICTED_Clarias_gariepinus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  52.67%    failed      0.17%
+ 524  XM_053636661_1_PREDICTED_Ictalurus_furcatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  52.74%    failed      0.30%
+ 525  XM_017479519_3_PREDICTED_Ictalurus_punctatus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 52.74%    failed      0.18%
+ 526  XM_027007709_2_PREDICTED_Electrophorus_electricus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            52.07%    passed     83.80%
+ 527  XM_007253672_3_PREDICTED_Astyanax_mexicanus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                  49.93%    failed      3.57%
+ 528  XM_017698025_2_PREDICTED_Pygocentrus_nattereri_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               50.27%    failed      2.68%
+ 529  XM_036570367_1_PREDICTED_Colossoma_macropomum_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                51.80%    failed      0.35%
+ 530  XM_057326794_1_PREDICTED_Triplophysa_rosa_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                    59.56%    failed      0.00%
+ 531  XM_056751259_1_PREDICTED_Triplophysa_dalaica_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 52.47%    failed      0.00%
+ 532  XM_015361246_1_PREDICTED_Lepisosteus_oculatus_B_cell_CLL_lymphoma_6_bcl6_transcript_variant_X1_mRNA                            51.27%    passed     10.26%
+ 533  XM_036522339_1_PREDICTED_Megalops_cyprinoides_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                52.01%    failed      0.66%
+ 534  XM_035415838_1_PREDICTED_Anguilla_anguilla_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                         51.94%    passed     11.32%
+ 535  XM_061240896_1_PREDICTED_Conger_conger_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                             52.34%    passed     57.17%
+ 536  XM_018757236_2_PREDICTED_Scleropages_formosus_B_cell_lymphoma_6_protein_homolog_LOC108937356_mRNA                              52.07%    passed      7.46%
+ 537  XM_060066571_1_PREDICTED_Gadus_macrocephalus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 48.60%    failed      0.00%
+ 538  XM_056604436_1_PREDICTED_Gadus_chalcogrammus_BCL6A_transcription_repressor_a_bcl6aa_mRNA                                       48.86%    failed      0.00%
+ 539  XM_048976243_1_PREDICTED_Brienomyrus_brachyistius_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA            55.82%    failed      0.00%
+ 540  XM_039765770_1_PREDICTED_Polypterus_senegalus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                51.67%    failed      0.00%
+ 541  XM_028795022_2_PREDICTED_Erpetoichthys_calabaricus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA           51.67%    failed      0.00%
+ 542  XM_033031677_1_PREDICTED_Amblyraja_radiata_BCL6_transcription_repressor_bcl6_transcript_variant_X1_mRNA                        54.88%    failed      0.00%
+ 543  XM_038815678_1_PREDICTED_Scyliorhinus_canicula_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA               50.74%    failed      0.00%
+ 544  XM_041182794_1_PREDICTED_Carcharodon_carcharias_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              52.21%    failed      0.00%
+ 545  XM_060834664_1_PREDICTED_Hemiscyllium_ocellatum_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA              52.21%    failed      0.00%
+ 546  XM_048542781_2_PREDICTED_Stegostoma_tigrinum_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 52.27%    failed      0.00%
+ 547  XM_042339305_1_PREDICTED_Callorhinchus_milii_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                 53.21%    passed     21.39%
+ 548  XM_059991227_1_PREDICTED_Hypanus_sabinus_BCL6A_transcription_repressor_a_bcl6aa_transcript_variant_X1_mRNA                     54.21%    failed      3.85%
+WARNING: 507 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                                                                          52.18%  215 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.442 seconds
+Measuring multi-threading efficiency up to 32 CPU cores
+Increase to 10 rounds for branch lengths
+8 trees examined
+Threads: 1 / Time: 35.080 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -573966
+Threads: 2 / Time: 27.271 sec / Speedup: 1.286 / Efficiency: 64% / LogL: -573966
+Threads: 3 / Time: 20.005 sec / Speedup: 1.754 / Efficiency: 58% / LogL: -573966
+Threads: 4 / Time: 15.780 sec / Speedup: 2.223 / Efficiency: 56% / LogL: -573966
+Threads: 5 / Time: 14.203 sec / Speedup: 2.470 / Efficiency: 49% / LogL: -573966
+BEST NUMBER OF THREADS: 4
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -189874.974
+Optimal log-likelihood: -189874.528
+Rate parameters:  A-C: 0.85223  A-G: 4.18061  A-T: 0.84425  C-G: 0.87849  C-T: 4.62832  G-T: 1.00000
+Base frequencies:  A: 0.245  C: 0.319  G: 0.246  T: 0.189
+Proportion of invariable sites: 0.138
+Gamma shape alpha: 0.727
+Parameters optimization took 1 rounds (1.227 sec)
+Time for fast ML tree search: 15.606 seconds
+
+NOTE: ModelFinder requires 462 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 4488) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         213308.804   1101 428819.608   429536.266   435876.096
+  2  GTR+F+I       205789.332   1102 413782.664   414500.836   420845.561
+  3  GTR+F+G4      190278.589   1102 382761.178   383479.350   389824.075
+  4  GTR+F+I+G4    189874.436   1103 381954.872   382674.560   389024.178
+  5  GTR+F+R2      194925.715   1103 392057.429   392777.117   399126.735
+  6  GTR+F+R3      191472.856   1105 385155.711   385878.437   392237.836
+  7  GTR+F+R4      189983.709   1107 382181.418   382907.191   389276.361
+  8  GTR+F+R5      189540.291   1109 381298.581   382027.409   388406.343
+  9  GTR+F+R6      189402.705   1111 381027.410   381759.301   388147.990
+ 10  GTR+F+R7      189337.875   1113 380901.750   381636.713   388035.148
+ 11  GTR+F+R8      189337.909   1115 380905.818   381643.860   388052.034
+ 23  SYM+R7        189875.774   1110 381971.548   382701.906   389085.718
+ 36  TVM+F+R7      189358.381   1112 380940.763   381674.188   388067.751
+ 49  TVMe+R7       189879.983   1109 381977.966   382706.794   389085.727
+ 62  TIM3+F+R7     189346.472   1111 380914.943   381646.834   388035.523
+ 75  TIM3e+R7      189886.588   1108 381989.175   382716.474   389090.527
+ 88  TIM2+F+R7     189345.323   1111 380912.646   381644.537   388033.225
+101  TIM2e+R7      189968.431   1108 382152.862   382880.161   389254.214
+114  TIM+F+R7      189349.072   1111 380920.143   381652.034   388040.723
+127  TIMe+R7       189976.267   1108 382168.533   382895.832   389269.885
+140  TPM3u+F+R7    189367.430   1110 380954.860   381685.219   388069.031
+153  TPM3+F+R7     189367.438   1110 380954.876   381685.234   388069.046
+166  TPM2u+F+R7    189366.424   1110 380952.849   381683.207   388067.019
+179  TPM2+F+R7     189366.426   1110 380952.851   381683.210   388067.022
+192  K3Pu+F+R7     189370.694   1110 380961.389   381691.747   388075.559
+205  K3P+R7        189978.851   1107 382171.702   382897.475   389266.645
+218  TN+F+R7       189350.517   1110 380921.033   381651.392   388035.204
+231  TNe+R7        189977.485   1107 382168.971   382894.744   389263.914
+244  HKY+F+R7      189372.041   1109 380962.081   381690.909   388069.842
+257  K2P+R7        189980.059   1106 382172.118   382896.366   389260.651
+270  F81+F+R7      199679.349   1108 401574.698   402301.997   408676.050
+283  JC+R7         199440.648   1105 401091.296   401814.022   408173.421
+Akaike Information Criterion:           GTR+F+R7
+Corrected Akaike Information Criterion: GTR+F+R7
+Bayesian Information Criterion:         TIM2+F+R7
+Best-fit model: TIM2+F+R7 chosen according to BIC
+
+All model information printed to /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.model.gz
+CPU time for ModelFinder: 8214.808 seconds (2h:16m:54s)
+Wall-clock time for ModelFinder: 2334.115 seconds (0h:38m:54s)
+Generating 1000 samples for ultrafast bootstrap (seed: 947940)...
+
+NOTE: 326 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -189345.323
+Optimal log-likelihood: -189345.181
+Rate parameters:  A-C: 0.92890  A-G: 4.55315  A-T: 0.92890  C-G: 1.00000  C-T: 5.07942  G-T: 1.00000
+Base frequencies:  A: 0.245  C: 0.319  G: 0.246  T: 0.189
+Site proportion and rates:  (0.272,0.026) (0.111,0.188) (0.144,0.459) (0.164,0.961) (0.161,1.615) (0.095,2.730) (0.051,4.438)
+Parameters optimization took 1 rounds (7.879 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 3.978575 sec (of wall-clock time) 14.633968 sec(of CPU time)
+Computing RapidNJ tree took 0.252309 sec (of wall-clock time) 0.476189 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -191772.564
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 48.598 second
+Computing log-likelihood of 98 initial trees ... 31.361 seconds
+Current best score: -189345.181
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -189330.030
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -189110.835
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -189102.721
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -189096.769
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 9: -189069.286
+Iteration 10 / LogL: -189095.039 / Time: 0h:4m:20s
+Iteration 20 / LogL: -189147.618 / Time: 0h:6m:1s
+Finish initializing candidate tree set (20)
+Current best tree score: -189069.286 / CPU time: 344.408
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -189054.533
+Iteration 30 / LogL: -189081.638 / Time: 0h:7m:32s (0h:23m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -189053.971
+Iteration 40 / LogL: -189133.337 / Time: 0h:8m:57s (0h:21m:7s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 44: -189053.332
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 45: -189052.285
+Iteration 50 / LogL: -189059.966 / Time: 0h:10m:35s (0h:20m:31s left)
+Log-likelihood cutoff on original alignment: -189150.056
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 51: -189046.498
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 53: -189046.275
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 57: -189041.429
+Iteration 60 / LogL: -189170.514 / Time: 0h:12m:17s (0h:20m:12s left)
+Iteration 70 / LogL: -189069.575 / Time: 0h:13m:37s (0h:17m:11s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 77: -189040.240
+Iteration 80 / LogL: -189080.608 / Time: 0h:14m:59s (0h:18m:24s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 87: -189038.203
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 89: -189034.383
+Iteration 90 / LogL: -189072.496 / Time: 0h:16m:32s (0h:18m:23s left)
+Iteration 100 / LogL: -189104.863 / Time: 0h:17m:48s (0h:16m:0s left)
+Log-likelihood cutoff on original alignment: -189150.056
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.990
+Iteration 110 / LogL: -189060.413 / Time: 0h:19m:9s (0h:15m:48s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 117: -189031.176
+Iteration 120 / LogL: -189035.149 / Time: 0h:20m:40s (0h:16m:51s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 123: -189028.711
+Iteration 130 / LogL: -189044.415 / Time: 0h:22m:6s (0h:15m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 133: -189028.509
+Iteration 140 / LogL: -189035.659 / Time: 0h:23m:34s (0h:15m:46s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 141: -189026.732
+Iteration 150 / LogL: -189028.917 / Time: 0h:25m:2s (0h:15m:17s left)
+Log-likelihood cutoff on original alignment: -189150.056
+Iteration 160 / LogL: -189127.426 / Time: 0h:26m:24s (0h:13m:27s left)
+Iteration 170 / LogL: -189087.672 / Time: 0h:27m:44s (0h:11m:39s left)
+Iteration 180 / LogL: -189032.301 / Time: 0h:29m:3s (0h:9m:54s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 184: -189025.257
+Iteration 190 / LogL: -189043.690 / Time: 0h:30m:25s (0h:15m:7s left)
+Iteration 200 / LogL: -189055.029 / Time: 0h:31m:40s (0h:13m:22s left)
+Log-likelihood cutoff on original alignment: -189150.056
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 210 / LogL: -189098.139 / Time: 0h:32m:57s (0h:14m:11s left)
+Iteration 220 / LogL: -189060.302 / Time: 0h:34m:18s (0h:12m:31s left)
+Iteration 230 / LogL: -189035.369 / Time: 0h:35m:36s (0h:10m:53s left)
+Iteration 240 / LogL: -189079.264 / Time: 0h:36m:53s (0h:9m:15s left)
+Iteration 250 / LogL: -189089.524 / Time: 0h:38m:10s (0h:7m:40s left)
+Log-likelihood cutoff on original alignment: -189150.056
+Iteration 260 / LogL: -189068.154 / Time: 0h:39m:26s (0h:6m:5s left)
+BETTER TREE FOUND at iteration 262: -189025.254
+Iteration 270 / LogL: -189055.143 / Time: 0h:40m:45s (0h:13m:56s left)
+Iteration 280 / LogL: -189142.068 / Time: 0h:42m:4s (0h:12m:21s left)
+Iteration 290 / LogL: -189131.762 / Time: 0h:43m:23s (0h:10m:48s left)
+Iteration 300 / LogL: -189065.347 / Time: 0h:44m:35s (0h:9m:14s left)
+Log-likelihood cutoff on original alignment: -189150.056
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 310 / LogL: -189033.299 / Time: 0h:45m:56s (0h:13m:22s left)
+Iteration 320 / LogL: -189291.579 / Time: 0h:47m:15s (0h:11m:51s left)
+Iteration 330 / LogL: -189145.388 / Time: 0h:48m:31s (0h:10m:19s left)
+Iteration 340 / LogL: -189034.004 / Time: 0h:49m:53s (0h:8m:49s left)
+Iteration 350 / LogL: -189102.170 / Time: 0h:51m:13s (0h:7m:20s left)
+Log-likelihood cutoff on original alignment: -189150.056
+Iteration 360 / LogL: -189036.069 / Time: 0h:52m:42s (0h:5m:52s left)
+TREE SEARCH COMPLETED AFTER 363 ITERATIONS / Time: 0h:53m:5s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -189025.254
+2. Current log-likelihood: -189025.224
+3. Current log-likelihood: -189025.203
+4. Current log-likelihood: -189025.181
+5. Current log-likelihood: -189025.164
+6. Current log-likelihood: -189025.142
+7. Current log-likelihood: -189025.120
+8. Current log-likelihood: -189025.100
+9. Current log-likelihood: -189025.069
+Optimal log-likelihood: -189025.053
+Rate parameters:  A-C: 0.94151  A-G: 4.61590  A-T: 0.94151  C-G: 1.00000  C-T: 5.14399  G-T: 1.00000
+Base frequencies:  A: 0.245  C: 0.319  G: 0.246  T: 0.189
+Site proportion and rates:  (0.265,0.023) (0.113,0.175) (0.144,0.442) (0.162,0.934) (0.165,1.589) (0.097,2.685) (0.054,4.405)
+Parameters optimization took 9 rounds (33.615 sec)
+BEST SCORE FOUND : -189025.053
+Creating bootstrap support values...
+Split supports printed to NEXUS file /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.splits.nex
+Total tree length: 31.903
+
+Total number of iterations: 363
+CPU time used for tree search: 12204.471 sec (3h:23m:24s)
+Wall-clock time used for tree search: 3168.060 sec (0h:52m:48s)
+Total CPU time used: 12386.679 sec (3h:26m:26s)
+Total wall-clock time used: 3221.645 sec (0h:53m:41s)
+
+Computing bootstrap consensus tree...
+Reading input file /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.splits.nex...
+548 taxa and 2126 splits.
+Consensus tree written to /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.contree
+Reading input trees file /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.contree
+Log-likelihood of consensus tree: -189023.924
+
+Analysis results written to: 
+  IQ-TREE report:                /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.iqtree
+  Maximum-likelihood tree:       /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.treefile
+  Likelihood distances:          /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.splits.nex
+  Consensus tree:                /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.contree
+  Screen log file:               /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.log
+
+Date and Time: Thu Mar 21 13:00:50 2024

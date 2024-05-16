@@ -1,0 +1,20 @@
+file : /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6
+551	sequences with genetic code	The_Standard_Code
+file : /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6
+551	sequences with genetic code	The_Standard_Code
+The file '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6_stats.csv' was created.
+The file '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6_mask_detail_NT' was created.
+The file '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.codons.trim.fa' was created.
+The file '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.aa.trim.fa' was created.
+PROGRAM HAS FINISHED SUCCESSFULLY
+# Loaded config yaml file
+# Loaded cluster json file
+# Using nucleotide data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_transcript.fasta
+# Using protein data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_protein.fasta
+# Using the analysis label: GnathostomataBCL6
+# Using the metadata from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_orthologs.csv
+# We are operating out of base directory: /athena/melnicklab/users/scratch/agl4001/AOC
+# We will create and store results in: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results' created
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6' created
+# Moving on to processing rules

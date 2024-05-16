@@ -1,0 +1,219 @@
+IQ-TREE multicore version 2.1.2 COVID-edition for Mac OS X 64-bit built Mar 30 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    MAC316418 (SSE4.2, 32 GB RAM)
+Command: iqtree -s /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa -T AUTO -B 1000
+Seed:    581716 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue May 14 15:07:23 2024
+Kernel:  SSE2 - auto-detect threads (10 CPU cores detected)
+
+Reading alignment file /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 33 sequences with 9444 columns, 1221 distinct patterns
+1103 parsimony-informative, 917 singleton sites, 7424 constant sites
+                                                                                                                   Gap/Ambiguity  Composition  p-value
+   1  NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA                               1.08%    passed     99.76%
+   2  XM_009428857_4_PREDICTED_Pan_troglodytes_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                 0.98%    passed     99.46%
+   3  XM_008951999_4_PREDICTED_Pan_paniscus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X3_mRNA                    0.95%    passed     99.41%
+   4  XM_031007795_2_PREDICTED_Gorilla_gorilla_gorilla_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA         1.02%    passed     99.38%
+   5  XM_024232346_2_PREDICTED_Pongo_abelii_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                    0.95%    passed     99.97%
+   6  XM_054451786_1_PREDICTED_Pongo_pygmaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                  0.92%    passed     99.79%
+   7  XM_030814260_1_PREDICTED_Nomascus_leucogenys_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA             0.95%    passed     99.68%
+   8  XM_055278811_1_PREDICTED_Symphalangus_syndactylus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA        0.95%    passed     99.69%
+   9  XM_032175320_2_PREDICTED_Hylobates_moloch_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                0.95%    passed     99.69%
+  10  XM_025390742_1_PREDICTED_Theropithecus_gelada_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA            0.89%    passed     99.57%
+  11  XM_021940444_2_PREDICTED_Papio_anubis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                    0.48%    passed     98.64%
+  12  XM_015141992_2_PREDICTED_Macaca_mulatta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                  0.86%    passed     98.62%
+  13  XM_045397180_1_PREDICTED_Macaca_fascicularis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA             0.86%    passed     98.50%
+  14  XM_011758612_2_PREDICTED_Macaca_nemestrina_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA               0.92%    passed     98.44%
+  15  XM_050799312_1_PREDICTED_Macaca_thibetana_thibetana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA      0.86%    passed     99.05%
+  16  XM_012034853_1_PREDICTED_Cercocebus_atys_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA                 0.79%    passed     98.31%
+  17  XM_011989336_1_PREDICTED_Mandrillus_leucophaeus_MGA_MAX_dimerization_protein_MGA_mRNA                                9.31%    passed     98.21%
+  18  XM_023198369_1_PREDICTED_Piliocolobus_tephrosceles_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA       0.98%    passed     98.83%
+  19  XM_030921180_1_PREDICTED_Rhinopithecus_roxellana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA         0.92%    passed     99.15%
+  20  XM_017895420_1_PREDICTED_Rhinopithecus_bieti_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA             0.95%    passed     99.60%
+  21  XM_033190487_1_PREDICTED_Trachypithecus_francoisi_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA        0.98%    passed     99.78%
+  22  XM_011961043_1_PREDICTED_Colobus_angolensis_palliatus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA    0.95%    passed     99.61%
+  23  XM_008016968_2_PREDICTED_Chlorocebus_sabaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA             0.92%    passed     99.08%
+  24  XM_021668798_1_PREDICTED_Aotus_nancymaae_MGA_MAX_dimerization_protein_MGA_mRNA                                       2.67%    passed     64.10%
+  25  XM_035259730_2_PREDICTED_Callithrix_jacchus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA              1.02%    passed     92.08%
+  26  XM_032251206_1_PREDICTED_Sapajus_apella_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                  1.11%    passed     94.63%
+  27  XM_037739443_1_PREDICTED_Cebus_imitator_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                  3.49%    passed     99.72%
+  28  XM_045538785_1_PREDICTED_Lemur_catta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA                     1.05%    passed     75.44%
+  29  XM_012766487_2_PREDICTED_Microcebus_murinus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA             29.92%    passed     53.30%
+  30  XM_012649125_1_PREDICTED_Propithecus_coquereli_MGA_MAX_dimerization_protein_MGA_mRNA                                 5.78%    passed     84.40%
+  31  XM_023514264_1_PREDICTED_Otolemur_garnettii_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA              1.02%    passed     87.72%
+  32  XM_053593491_1_PREDICTED_Nycticebus_coucang_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA              0.98%    passed     96.48%
+  33  XM_008048426_2_PREDICTED_Carlito_syrichta_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA                2.67%    passed     96.52%
+****  TOTAL                                                                                                                2.40%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+Measuring multi-threading efficiency up to 10 CPU cores
+Increase to 10 rounds for branch lengths
+222 trees examined
+Threads: 1 / Time: 10.029 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -42273
+Threads: 2 / Time: 5.622 sec / Speedup: 1.784 / Efficiency: 89% / LogL: -42273
+Threads: 3 / Time: 4.782 sec / Speedup: 2.097 / Efficiency: 70% / LogL: -42273
+Threads: 4 / Time: 4.624 sec / Speedup: 2.169 / Efficiency: 54% / LogL: -42273
+Threads: 5 / Time: 4.060 sec / Speedup: 2.470 / Efficiency: 49% / LogL: -42273
+BEST NUMBER OF THREADS: 3
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -29697.586
+Optimal log-likelihood: -29697.581
+Rate parameters:  A-C: 1.10191  A-G: 6.09578  A-T: 0.96920  C-G: 1.41560  C-T: 5.84495  G-T: 1.00000
+Base frequencies:  A: 0.307  C: 0.215  G: 0.226  T: 0.252
+Proportion of invariable sites: 0.390
+Gamma shape alpha: 1.601
+Parameters optimization took 1 rounds (0.024 sec)
+Time for fast ML tree search: 0.136 seconds
+
+NOTE: ModelFinder requires 17 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 9444) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         29938.742    71  60019.485    60020.576    60527.357
+  2  GTR+F+I       29709.397    72  59562.794    59563.916    60077.820
+  3  GTR+F+G4      29699.534    72  59543.068    59544.190    60058.094
+  4  GTR+F+I+G4    29697.573    73  59541.146    59542.299    60063.325
+  5  GTR+F+R2      29706.405    73  59558.810    59559.963    60080.989
+  6  GTR+F+R3      29700.933    75  59551.865    59553.082    60088.351
+ 16  SYM+G4        29815.859    69  59769.718    59770.748    60263.284
+ 17  SYM+I+G4      29813.732    70  59767.464    59768.525    60268.184
+ 29  TVM+F+G4      29699.800    71  59541.600    59542.691    60049.473
+ 30  TVM+F+I+G4    29697.835    72  59539.670    59540.791    60054.695
+ 42  TVMe+G4       29821.019    68  59778.039    59779.040    60264.452
+ 43  TVMe+I+G4     29818.875    69  59775.750    59776.781    60269.317
+ 55  TIM3+F+G4     29702.230    70  59544.461    59545.521    60045.180
+ 56  TIM3+F+I+G4   29700.264    71  59542.527    59543.618    60050.400
+ 68  TIM3e+G4      29816.989    67  59767.979    59768.951    60247.239
+ 69  TIM3e+I+G4    29814.869    68  59765.739    59766.740    60252.152
+ 81  TIM2+F+G4     29704.581    70  59549.162    59550.222    60049.881
+ 82  TIM2+F+I+G4   29702.607    71  59547.214    59548.305    60055.087
+ 94  TIM2e+G4      29817.943    67  59769.885    59770.857    60249.145
+ 95  TIM2e+I+G4    29815.805    68  59767.609    59768.610    60254.022
+107  TIM+F+G4      29705.898    70  59551.796    59552.857    60052.516
+108  TIM+F+I+G4    29703.915    71  59549.830    59550.921    60057.703
+120  TIMe+G4       29817.338    67  59768.677    59769.649    60247.937
+121  TIMe+I+G4     29815.203    68  59766.407    59767.408    60252.820
+133  TPM3u+F+G4    29702.485    69  59542.969    59544.000    60036.535
+134  TPM3u+F+I+G4  29700.513    70  59541.025    59542.086    60041.744
+146  TPM3+F+G4     29702.484    69  59542.969    59543.999    60036.535
+147  TPM3+F+I+G4   29700.513    70  59541.026    59542.087    60041.746
+159  TPM2u+F+G4    29704.859    69  59547.718    59548.749    60041.284
+160  TPM2u+F+I+G4  29702.881    70  59545.761    59546.822    60046.481
+172  TPM2+F+G4     29704.859    69  59547.718    59548.749    60041.284
+173  TPM2+F+I+G4   29702.881    70  59545.761    59546.822    60046.481
+185  K3Pu+F+G4     29706.153    69  59550.306    59551.337    60043.873
+186  K3Pu+F+I+G4   29704.165    70  59548.330    59549.391    60049.050
+198  K3P+G4        29822.480    66  59776.960    59777.903    60249.067
+199  K3P+I+G4      29820.328    67  59774.655    59775.627    60253.916
+211  TN+F+G4       29706.391    69  59550.783    59551.813    60044.349
+212  TN+F+I+G4     29704.411    70  59548.821    59549.882    60049.541
+224  TNe+G4        29818.135    66  59768.271    59769.214    60240.378
+225  TNe+I+G4      29816.003    67  59766.006    59766.978    60245.266
+237  HKY+F+G4      29706.656    68  59549.312    59550.313    60035.725
+238  HKY+F+I+G4    29704.671    69  59547.343    59548.373    60040.909
+250  K2P+G4        29823.278    65  59776.555    59777.470    60241.509
+251  K2P+I+G4      29821.127    66  59774.254    59775.197    60246.361
+263  F81+F+G4      30556.043    67  61246.086    61247.057    61725.346
+264  F81+F+I+G4    30554.339    68  61244.678    61245.679    61731.091
+276  JC+G4         30670.020    64  61468.041    61468.928    61925.841
+277  JC+I+G4       30668.266    65  61466.532    61467.447    61931.486
+Akaike Information Criterion:           TVM+F+I+G4
+Corrected Akaike Information Criterion: TVM+F+I+G4
+Bayesian Information Criterion:         HKY+F+G4
+Best-fit model: HKY+F+G4 chosen according to BIC
+
+All model information printed to /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.model.gz
+CPU time for ModelFinder: 79.266 seconds (0h:1m:19s)
+Wall-clock time for ModelFinder: 31.032 seconds (0h:0m:31s)
+Generating 1000 samples for ultrafast bootstrap (seed: 581716)...
+
+NOTE: 9 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -29706.656
+Optimal log-likelihood: -29706.656
+Rate parameters:  A-C: 1.00000  A-G: 5.40491  A-T: 1.00000  C-G: 1.00000  C-T: 5.40491  G-T: 1.00000
+Base frequencies:  A: 0.307  C: 0.215  G: 0.226  T: 0.252
+Gamma shape alpha: 0.440
+Parameters optimization took 1 rounds (0.011 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.003804 sec (of wall-clock time) 0.010698 sec(of CPU time)
+Computing RapidNJ tree took 0.000878 sec (of wall-clock time) 0.001736 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -29744.131
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.305 second
+Computing log-likelihood of 98 initial trees ... 0.342 seconds
+Current best score: -29706.656
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -29706.656
+Iteration 10 / LogL: -29706.657 / Time: 0h:0m:1s
+Iteration 20 / LogL: -29706.767 / Time: 0h:0m:1s
+Finish initializing candidate tree set (1)
+Current best tree score: -29706.656 / CPU time: 1.731
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -29706.656 / Time: 0h:0m:2s (0h:0m:5s left)
+Iteration 40 / LogL: -29706.830 / Time: 0h:0m:2s (0h:0m:4s left)
+Iteration 50 / LogL: -29706.662 / Time: 0h:0m:3s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -29760.168
+Iteration 60 / LogL: -29707.467 / Time: 0h:0m:4s (0h:0m:2s left)
+Iteration 70 / LogL: -29707.693 / Time: 0h:0m:4s (0h:0m:2s left)
+Iteration 80 / LogL: -29706.664 / Time: 0h:0m:5s (0h:0m:1s left)
+Iteration 90 / LogL: -29706.656 / Time: 0h:0m:5s (0h:0m:0s left)
+Iteration 100 / LogL: -29706.666 / Time: 0h:0m:6s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -29760.127
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:6s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -29706.656
+Optimal log-likelihood: -29706.656
+Rate parameters:  A-C: 1.00000  A-G: 5.40491  A-T: 1.00000  C-G: 1.00000  C-T: 5.40491  G-T: 1.00000
+Base frequencies:  A: 0.307  C: 0.215  G: 0.226  T: 0.252
+Gamma shape alpha: 0.440
+Parameters optimization took 1 rounds (0.012 sec)
+BEST SCORE FOUND : -29706.656
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.splits.nex
+Total tree length: 0.310
+
+Total number of iterations: 102
+CPU time used for tree search: 18.432 sec (0h:0m:18s)
+Wall-clock time used for tree search: 6.298 sec (0h:0m:6s)
+Total CPU time used: 19.027 sec (0h:0m:19s)
+Total wall-clock time used: 6.505 sec (0h:0m:6s)
+
+Computing bootstrap consensus tree...
+Reading input file /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.splits.nex...
+33 taxa and 98 splits.
+Consensus tree written to /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.contree
+Reading input trees file /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.contree
+Log-likelihood of consensus tree: -29706.656
+
+Analysis results written to: 
+  IQ-TREE report:                /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.iqtree
+  Maximum-likelihood tree:       /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+  Likelihood distances:          /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.splits.nex
+  Consensus tree:                /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.contree
+  Screen log file:               /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.log
+
+Date and Time: Tue May 14 15:08:01 2024

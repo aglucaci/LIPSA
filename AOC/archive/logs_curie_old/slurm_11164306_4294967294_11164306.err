@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 32
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Sat Mar 30 10:02:17 2024]
+rule ParseGARD:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    jobid: 0
+    reason: Forced execution
+    wildcards: GENE=GnathostomataBCL6
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+[Sat Mar 30 10:02:17 2024]
+Error in rule ParseGARD:
+    jobid: 0
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta.best-gard, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+
+RuleException:
+NameError in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile, line 430:
+name 'GardParser' is not defined
+  File "/athena/melnicklab/users/scratch/agl4001/AOC/Snakefile", line 430, in __rule_ParseGARD
+  File "/home/agl4001/mambaforge/envs/AOC/lib/python3.10/concurrent/futures/thread.py", line 52, in run
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message

@@ -1,0 +1,29 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Fri Apr 19 10:36:08 2024]
+rule RELAX:
+    input: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta, /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled
+    output: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.RELAX.json
+    jobid: 0
+    reason: Forced execution
+    wildcards: sample=GnathoBCL6.RDP.fasta
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+
+Check errors.log for execution error details.
+[Fri Apr 19 10:36:09 2024]
+Error in rule RELAX:
+    jobid: 0
+    input: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta, /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled
+    output: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.RELAX.json
+    shell:
+        hyphy RELAX --alignment /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta --tree /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled --output /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.RELAX.json --reference-group Elasmobranchii --models All --mode 'Group mode' --starting-points 10 --srv Yes
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message

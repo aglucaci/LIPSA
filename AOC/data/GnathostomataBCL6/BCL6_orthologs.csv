@@ -1,0 +1,571 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+604,BCL6,BCL6 transcription repressor,Homo sapiens,human,NM_001706.5,NP_001697.2,13034686,curated,RefseqSelect,default-seq
+12053,Bcl6,B cell leukemia/lymphoma 6,Mus musculus,house mouse,NM_009744.5,NP_033874.1,13034686,curated,RefseqSelect,default-seq
+303836,Bcl6,"BCL6, transcription repressor",Rattus norvegicus,Norway rat,NM_001107084.1,NP_001100554.1,13034686,curated,RefseqSelect,default-seq
+393707,bcl6aa,BCL6A transcription repressor a,Danio rerio,zebrafish,XM_021476813.1,XP_021332488.1,,model,,default-seq
+424912,BCL6,B-cell CLL/lymphoma 6,Gallus gallus,chicken,NM_001012930.1,NP_001012948.1,,curated,,default-seq
+460926,BCL6,BCL6 transcription repressor,Pan troglodytes,chimpanzee,XM_001158812.6,XP_001158812.1,13034686,model,,default-seq
+488124,BCL6,BCL6 transcription repressor,Canis lupus familiaris,dog,NM_001195404.1,NP_001182333.1,13034683,curated,,default-seq
+539020,BCL6,BCL6 transcription repressor,Bos taurus,cattle,NM_001206450.1,NP_001193379.1,13034686,curated,,default-seq
+708736,BCL6,BCL6 transcription repressor,Macaca mulatta,Rhesus monkey,NM_001261326.2,NP_001248255.1,13034686,curated,,default-seq
+777977,bcl6aa,BCL6A transcription repressor a,Takifugu rubripes,torafugu,XM_029827596.1,XP_029683456.1,,model,,default-seq
+100059642,BCL6,BCL6 transcription repressor,Equus caballus,horse,XM_001499782.5,XP_001499832.1,13034686,model,,default-seq
+100080402,BCL6,BCL6 transcription repressor,Ornithorhynchus anatinus,platypus,XM_007669034.3,XP_007667224.2,,model,,default-seq
+100126063,bcl6,"BCL6, transcription repressor",Xenopus tropicalis,tropical clawed frog,NM_001122806.1,NP_001116278.1,,curated,,default-seq
+100156549,BCL6,BCL6 transcription repressor,Sus scrofa,pig,NM_001315701.1,NP_001302630.1,13034686,curated,,default-seq
+100222134,BCL6,BCL6 transcription repressor,Taeniopygia guttata,zebra finch,XM_030279945.3,XP_030135805.3,,model,,default-seq
+100294564,BCL6,BCL6 transcription repressor,Pongo abelii,Sumatran orangutan,NM_001159790.1,NP_001153262.1,,curated,,default-seq
+100353941,BCL6,BCL6 transcription repressor,Oryctolagus cuniculus,rabbit,XM_002716500.3,XP_002716546.1,,model,,default-seq
+100413256,BCL6,BCL6 transcription repressor,Callithrix jacchus,white-tufted-ear marmoset,XM_002758173.4,XP_002758219.1,,model,,default-seq
+100480054,BCL6,BCL6 transcription repressor,Ailuropoda melanoleuca,giant panda,XM_002914804.4,XP_002914850.1,13034686,model,,default-seq
+100550913,BCL6,BCL6 transcription repressor,Meleagris gallopavo,turkey,XM_010716758.3,XP_010715060.1,,model,,default-seq
+100553941,bcl6,BCL6 transcription repressor,Anolis carolinensis,green anole,XM_003229395.2,XP_003229443.2,,model,,default-seq
+100603934,BCL6,BCL6 transcription repressor,Nomascus leucogenys,northern white-cheeked gibbon,XM_003256638.4,XP_003256686.1,13034686,model,,default-seq
+100656694,BCL6,BCL6 transcription repressor,Loxodonta africana,African savanna elephant,XM_003412912.3,XP_003412960.1,13034683,model,,default-seq
+100697595,bcl6aa,BCL6A transcription repressor a,Oreochromis niloticus,Nile tilapia,XM_005451217.4,XP_005451274.1,,model,,default-seq
+100731135,Bcl6,BCL6 transcription repressor,Cavia porcellus,domestic guinea pig,XM_003477082.4,XP_003477130.1,13034686,model,,default-seq
+100773755,Bcl6,BCL6 transcription repressor,Cricetulus griseus,Chinese hamster,XM_007642519.4,XP_007640709.1,,model,,default-seq
+100928451,BCL6,BCL6 transcription repressor,Sarcophilus harrisii,Tasmanian devil,XM_031961105.1,XP_031816965.1,,model,,default-seq
+100956391,BCL6,BCL6 transcription repressor,Otolemur garnettii,small-eared galago,XM_003792711.3,XP_003792759.2,,model,,default-seq
+100984155,BCL6,BCL6 transcription repressor,Pan paniscus,pygmy chimpanzee,XM_003824955.5,XP_003825003.1,13034686,model,,default-seq
+101019119,BCL6,BCL6 transcription repressor,Papio anubis,olive baboon,XM_021934975.2,XP_021790667.2,,model,,default-seq
+101034308,BCL6,BCL6 transcription repressor,Saimiri boliviensis,Bolivian squirrel monkey,XM_003927003.3,XP_003927052.1,,model,,default-seq
+101096665,BCL6,BCL6 transcription repressor,Felis catus,domestic cat,XM_003991804.5,XP_003991853.1,,model,,default-seq
+101110557,BCL6,BCL6 transcription repressor,Ovis aries,sheep,XM_004003049.6,XP_004003098.1,13034686,model,,default-seq
+101148033,BCL6,BCL6 transcription repressor,Gorilla gorilla gorilla,western lowland gorilla,XM_004038190.4,XP_004038238.1,13034686,model,,default-seq
+101162277,bcl6aa,BCL6A transcription repressor a,Oryzias latipes,Japanese medaka,XM_020702639.2,XP_020558298.1,,model,,default-seq
+101286728,BCL6,BCL6 transcription repressor,Orcinus orca,killer whale,XM_004278482.4,XP_004278530.1,13034683,model,,default-seq
+101317605,BCL6,BCL6 transcription repressor,Tursiops truncatus,common bottlenose dolphin,XM_004329316.3,XP_004329364.1,13034683,model,,default-seq
+101350478,LOC101350478,BCL6 transcription repressor,Trichechus manatus latirostris,Florida manatee,XM_004382238.2,XP_004382295.1,13034683,model,,default-seq
+101379186,BCL6,BCL6 transcription repressor,Odobenus rosmarus divergens,Pacific walrus,XM_004413428.1,XP_004413485.1,13034683,model,,default-seq
+101400063,LOC101400063,BCL6 transcription repressor,Ceratotherium simum simum,southern white rhinoceros,XM_004424584.2,XP_004424641.1,13034686,model,,default-seq
+101424685,BCL6,BCL6 transcription repressor,Dasypus novemcinctus,nine-banded armadillo,XM_012528483.3,XP_012383937.2,,model,,default-seq
+101475350,bcl6aa,BCL6A transcription repressor a,Maylandia zebra,zebra mbuna,XM_004552837.5,XP_004552894.1,,model,,default-seq
+101532738,BCL6,BCL6 transcription repressor,Ochotona princeps,American pika,XM_004577776.3,XP_004577833.1,13034686,model,,default-seq
+101538964,BCL6,BCL6 transcription repressor,Sorex araneus,European shrew,XM_004603016.2,XP_004603073.1,,model,,default-seq
+101573126,Bcl6,BCL6 transcription repressor,Octodon degus,degu,XM_023700946.1,XP_023556714.1,13034686,model,,default-seq
+101607129,Bcl6,BCL6 transcription repressor,Jaculus jaculus,lesser Egyptian jerboa,XM_004654283.2,XP_004654340.1,,model,,default-seq
+101633685,BCL6,BCL6 transcription repressor,Condylura cristata,star-nosed mole,XM_004675085.2,XP_004675142.1,13034686,model,,default-seq
+101647673,BCL6,BCL6 transcription repressor,Echinops telfairi,small Madagascar hedgehog,XM_004713406.2,XP_004713463.1,13034683,model,,default-seq
+101675563,BCL6,BCL6 transcription repressor,Mustela putorius furo,domestic ferret,XM_004745232.3,XP_004745289.1,13034686,model,,default-seq
+101713721,Bcl6,BCL6 transcription repressor,Heterocephalus glaber,naked mole-rat,XM_004834799.3,XP_004834856.1,13034686,model,,default-seq
+101799894,BCL6,BCL6 transcription repressor,Anas platyrhynchos,mallard,XM_027464090.2,XP_027319891.1,,model,,default-seq
+101805742,BCL6,BCL6 transcription repressor,Ficedula albicollis,Collared flycatcher,XM_005051112.2,XP_005051169.1,,model,,default-seq
+101844909,Bcl6,BCL6 transcription repressor,Mesocricetus auratus,golden hamster,XM_005071603.4,XP_005071660.1,13034686,model,,default-seq
+101872939,LOC101872939,BCL6 transcription repressor,Melopsittacus undulatus,budgerigar,XM_031043007.2,XP_030898867.2,,model,,default-seq
+101918164,BCL6,BCL6 transcription repressor,Falco peregrinus,peregrine falcon,XM_013299395.3,XP_013154849.1,,model,,default-seq
+101953180,BCL6,BCL6 transcription repressor,Chrysemys picta,Painted turtle,XM_042843888.1,XP_042699822.1,,model,,default-seq
+101968257,Bcl6,BCL6 transcription repressor,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_005330983.3,XP_005331040.1,,model,,default-seq
+101983477,Bcl6,BCL6 transcription repressor,Microtus ochrogaster,prairie vole,XM_005344763.2,XP_005344820.1,13034686,model,,default-seq
+102023603,Bcl6,BCL6 transcription repressor,Chinchilla lanigera,long-tailed chinchilla,XM_005383244.2,XP_005383301.1,13034686,model,,default-seq
+102041209,BCL6,BCL6 transcription repressor,Geospiza fortis,medium ground-finch,XM_005418963.1,XP_005419020.1,,model,,default-seq
+102049546,BCL6,BCL6 transcription repressor,Falco cherrug,Saker falcon,XM_014283621.3,XP_014139096.1,,model,,default-seq
+102073230,BCL6,BCL6 transcription repressor,Zonotrichia albicollis,white-throated sparrow,XM_005484910.3,XP_005484967.1,,model,,default-seq
+102098258,BCL6,BCL6 transcription repressor,Columba livia,rock pigeon,XM_005513218.2,XP_005513275.1,,model,,default-seq
+102100133,BCL6,BCL6 transcription repressor,Pseudopodoces humilis,Tibetan ground-tit,XM_005524990.2,XP_005525047.1,,model,,default-seq
+102115311,BCL6,BCL6 transcription repressor,Macaca fascicularis,crab-eating macaque,XM_005545439.3,XP_005545496.1,13034686,model,,default-seq
+102169705,BCL6,BCL6 transcription repressor,Capra hircus,goat,XM_005675136.3,XP_005675193.2,13034686,model,,default-seq
+102204945,bcl6aa,BCL6A transcription repressor a,Pundamilia nyererei,,XM_005727170.1,XP_005727227.1,,model,,default-seq
+102236759,bcl6aa,BCL6A transcription repressor a,Xiphophorus maculatus,southern platyfish,XM_023339719.1,XP_023195487.1,,model,,default-seq
+102241470,BCL6,BCL6 transcription repressor,Myotis brandtii,Brandt's bat,XM_005876266.2,XP_005876328.1,13034686,model,,default-seq
+102283403,BCL6,BCL6 transcription repressor,Bos mutus,wild yak,XM_005899653.2,XP_005899715.1,13034686,model,,default-seq
+102296853,bcl6aa,BCL6A transcription repressor a,Haplochromis burtoni,Burton's mouthbrooder,XM_005919733.3,XP_005919795.1,,model,,default-seq
+102350689,BCL6AA,BCL6A transcription repressor a,Latimeria chalumnae,coelacanth,XM_005992451.2,XP_005992513.1,,model,,default-seq
+102378128,BCL6,BCL6 transcription repressor,Alligator sinensis,Chinese alligator,XM_006022414.3,XP_006022476.1,,model,,default-seq
+102393660,BCL6,BCL6 transcription repressor,Bubalus bubalis,water buffalo,XM_006068967.3,XP_006069029.1,13034686,model,,default-seq
+102425929,BCL6,BCL6 transcription repressor,Myotis lucifugus,little brown bat,XM_006084784.3,XP_006084846.1,13034686,model,,default-seq
+102450488,BCL6,BCL6 transcription repressor,Pelodiscus sinensis,Chinese soft-shelled turtle,XM_006122212.3,XP_006122274.1,,model,,default-seq
+102492876,BCL6,BCL6 transcription repressor,Tupaia chinensis,Chinese tree shrew,XM_006156730.3,XP_006156792.1,13034686,model,,default-seq
+102514409,BCL6,BCL6 transcription repressor,Camelus ferus,Wild Bactrian camel,XM_006188853.3,XP_006188915.1,13034686,model,,default-seq
+102526671,BCL6,BCL6 transcription repressor,Vicugna pacos,alpaca,XM_006200974.3,XP_006201036.1,13034685,model,,default-seq
+102569281,BCL6,BCL6 transcription repressor,Alligator mississippiensis,American alligator,XM_019499053.2,XP_019354598.1,,model,,default-seq
+102682251,bcl6aa,BCL6A transcription repressor a,Lepisosteus oculatus,spotted gar,XM_015361246.1,XP_015216732.1,,model,,default-seq
+102730758,BCL6,BCL6 transcription repressor,Leptonychotes weddellii,Weddell seal,XM_006737223.2,XP_006737286.1,13034686,model,,default-seq
+102756398,BCL6,BCL6 transcription repressor,Myotis davidii,,XM_006765857.2,XP_006765920.1,13034686,model,,default-seq
+102788229,bcl6aa,BCL6A transcription repressor a,Neolamprologus brichardi,,XM_006790415.2,XP_006790478.1,,model,,default-seq
+102827329,BCL6,BCL6 transcription repressor,Chrysochloris asiatica,Cape golden mole,XM_006871885.1,XP_006871947.1,13034683,model,,default-seq
+102888476,BCL6,BCL6 transcription repressor,Pteropus alecto,black flying fox,XM_006925831.3,XP_006925893.1,13034686,model,,default-seq
+102920640,Bcl6,BCL6 transcription repressor,Peromyscus maniculatus bairdii,prairie deer mouse,XM_006985077.2,XP_006985139.1,13034686,model,,default-seq
+102933938,BCL6,BCL6 transcription repressor,Chelonia mydas,Green sea turtle,XM_027820257.3,XP_027676058.1,,model,,default-seq
+102953988,BCL6,BCL6 transcription repressor,Panthera tigris,tiger,XM_007083564.2,XP_007083626.1,,model,,default-seq
+102982270,BCL6,BCL6 transcription repressor,Physeter catodon,sperm whale,XM_028492096.1,XP_028347897.1,11472214,model,,default-seq
+103008626,BCL6,BCL6 transcription repressor,Balaenoptera acutorostrata,minke whale,XM_007195227.3,XP_007195289.1,13034683,model,,default-seq
+103026632,bcl6aa,BCL6A transcription repressor a,Astyanax mexicanus,Mexican tetra,XM_007253672.3,XP_007253734.3,,model,,default-seq
+103062670,BCL6,BCL6 transcription repressor,Python bivittatus,Burmese python,XM_007443483.3,XP_007443545.1,13034683,model,,default-seq
+103087600,BCL6,BCL6 transcription repressor,Lipotes vexillifer,Yangtze River dolphin,XM_007448427.1,XP_007448489.1,13034686,model,,default-seq
+103122136,BCL6,BCL6 transcription repressor,Erinaceus europaeus,western European hedgehog,XM_007532729.3,XP_007532791.1,,model,,default-seq
+103151355,bcl6aa,BCL6A transcription repressor a,Poecilia formosa,Amazon molly,XM_016681390.1,XP_016536876.1,,model,,default-seq
+103172767,bcl6aa,BCL6A transcription repressor a,Callorhinchus milii,elephant shark,XM_042339305.1,XP_042195239.1,,model,,default-seq
+103192914,BCL6,BCL6 transcription repressor,Orycteropus afer afer,,XM_007935999.1,XP_007934190.1,,model,,default-seq
+103241885,BCL6,BCL6 transcription repressor,Chlorocebus sabaeus,green monkey,XM_008009504.2,XP_008007695.1,13034686,model,,default-seq
+103260832,BCL6,BCL6 transcription repressor,Carlito syrichta,Philippine tarsier,XM_008058479.1,XP_008056670.1,13034686,model,,default-seq
+103295156,BCL6,BCL6 transcription repressor,Eptesicus fuscus,big brown bat,XM_008151582.3,XP_008149804.2,,model,,default-seq
+103354228,bcl6aa,BCL6A transcription repressor a,Stegastes partitus,bicolor damselfish,XM_008277532.1,XP_008275754.1,,model,,default-seq
+103399952,bcl6aa,BCL6A transcription repressor a,Cynoglossus semilaevis,tongue sole,XM_025054239.1,XP_024910007.1,,model,,default-seq
+103463939,bcl6aa,BCL6A transcription repressor a,Poecilia reticulata,guppy,XM_008407674.2,XP_008405896.1,,model,,default-seq
+103528051,BCL6,BCL6 transcription repressor,Calypte anna,Anna's hummingbird,XM_030456630.1,XP_030312490.1,,model,,default-seq
+103557272,BCL6,BCL6 transcription repressor,Equus przewalskii,Przewalski's horse,XM_008529681.1,XP_008527903.1,13034683,model,,default-seq
+103596428,BCL6,BCL6 transcription repressor,Galeopterus variegatus,Sunda flying lemur,XM_008580059.1,XP_008578281.1,,model,,default-seq
+103625157,BCL6,BCL6 transcription repressor,Corvus brachyrhynchos,American crow,XM_008644564.2,XP_008642786.1,,model,,default-seq
+103676037,BCL6,BCL6 transcription repressor,Ursus maritimus,polar bear,XM_008705170.2,XP_008703392.1,,model,,default-seq
+103739331,Bcl6,BCL6 transcription repressor,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_008839673.3,XP_008837895.1,13034686,model,,default-seq
+103758264,BCL6,BCL6 transcription repressor,Manacus vitellinus,golden-collared manakin,XM_018075001.2,XP_017930490.1,,model,,default-seq
+103779424,BCL6,BCL6 transcription repressor,Merops nubicus,carmine bee-eater,XM_008947051.1,XP_008945299.1,,model,,default-seq
+103801655,BCL6,BCL6 transcription repressor,Acanthisitta chloris,rifleman,XM_009074077.1,XP_009072325.1,,model,,default-seq
+103815379,BCL6,BCL6 transcription repressor,Serinus canaria,Common canary,XM_009089135.4,XP_009087383.1,,model,,default-seq
+103901464,BCL6,BCL6 transcription repressor,Aptenodytes forsteri,emperor penguin,XM_009282362.1,XP_009280637.1,,model,,default-seq
+103916579,BCL6,BCL6 transcription repressor,Pygoscelis adeliae,Adelie penguin,XM_009323587.1,XP_009321862.1,,model,,default-seq
+104015663,BCL6,BCL6 transcription repressor,Nipponia nippon,crested ibis,XM_009468446.1,XP_009466721.1,,model,,default-seq
+104030144,BCL6,BCL6 transcription repressor,Pelecanus crispus,Dalmatian pelican,XM_009481748.1,XP_009480023.1,,model,,default-seq
+104044876,BCL6,BCL6 transcription repressor,Phalacrocorax carbo,great cormorant,XM_009504770.1,XP_009503065.1,,model,,default-seq
+104063446,BCL6,BCL6 transcription repressor,Cuculus canorus,common cuckoo,XM_054074606.1,XP_053930581.1,,model,,default-seq
+104123372,BCL6,BCL6 transcription repressor,Egretta garzetta,little egret,XM_035891225.1,XP_035747118.1,,model,,default-seq
+104148803,BCL6,BCL6 transcription repressor,Struthio camelus australis,,XM_009682141.1,XP_009680436.1,,model,,default-seq
+104157328,BCL6,BCL6 transcription repressor,Cariama cristata,Red-legged seriema,XM_009694626.1,XP_009692928.1,,model,,default-seq
+104254278,BCL6,BCL6 transcription repressor,Gavia stellata,red-throated loon,XM_059822429.1,XP_059678412.1,,model,,default-seq
+104275797,BCL6,BCL6 transcription repressor,Apaloderma vittatum,bar-tailed trogon,XM_009871847.1,XP_009870149.1,,model,,default-seq
+104284967,BCL6,BCL6 transcription repressor,Charadrius vociferus,killdeer,XM_009883356.1,XP_009881658.1,,model,,default-seq
+104302939,BCL6,BCL6 transcription repressor,Dryobates pubescens,Downy woodpecker,XM_054166360.1,XP_054022335.1,,model,,default-seq
+104316476,BCL6,BCL6 transcription repressor,Haliaeetus albicilla,white-tailed eagle,XM_009916919.1,XP_009915221.1,,model,,default-seq
+104326845,BCL6,BCL6 transcription repressor,Opisthocomus hoazin,,XM_009931663.1,XP_009929965.1,,model,,default-seq
+104340752,BCL6,BCL6 transcription repressor,Leptosomus discolor,cuckoo roller,XM_009955720.1,XP_009954022.1,,model,,default-seq
+104366406,BCL6,BCL6 transcription repressor,Tyto alba,common barn owl,XM_042795784.1,XP_042651718.1,,model,,default-seq
+104381987,BCL6,BCL6 transcription repressor,Tauraco erythrolophus,red-crested turaco,XM_009989835.1,XP_009988137.1,,model,,default-seq
+104390644,BCL6,BCL6 transcription repressor,Chaetura pelagica,chimney swift,XM_009999825.1,XP_009998127.1,,model,,default-seq
+104400392,BCL6,BCL6 transcription repressor,Nestor notabilis,Kea,XM_010022513.1,XP_010020815.1,,model,,default-seq
+104465269,BCL6,BCL6 transcription repressor,Pterocles gutturalis,yellow-throated sandgrouse,XM_010078249.1,XP_010076551.1,,model,,default-seq
+104484524,BCL6,BCL6 transcription repressor,Chlamydotis macqueenii,Macqueen's bustard,XM_010126623.1,XP_010124925.1,,model,,default-seq
+104494442,BCL6,BCL6 transcription repressor,Buceros rhinoceros silvestris,,XM_010137261.1,XP_010135563.1,,model,,default-seq
+104510217,BCL6,BCL6 transcription repressor,Eurypyga helias,sunbittern,XM_010152391.1,XP_010150693.1,,model,,default-seq
+104532143,BCL6,BCL6 transcription repressor,Antrostomus carolinensis,chuck-will's-widow,XM_010177271.1,XP_010175573.1,,model,,default-seq
+104536035,BCL6,BCL6 transcription repressor,Mesitornis unicolor,brown roatelo,XM_010178553.1,XP_010176855.1,,model,,default-seq
+104550853,BCL6,BCL6 transcription repressor,Colius striatus,speckled mousebird,XM_010200133.1,XP_010198435.1,,model,,default-seq
+104576966,BCL6,BCL6 transcription repressor,Tinamus guttatus,white-throated tinamou,XM_010224385.1,XP_010222687.1,,model,,default-seq
+104621087,BCL6,BCL6 transcription repressor,Phaethon lepturus,White-tailed tropicbird,XM_010287479.1,XP_010285781.1,,model,,default-seq
+104639093,BCL6,BCL6 transcription repressor,Balearica regulorum gibbericeps,East African grey crowned-crane,XM_010307076.1,XP_010305378.1,,model,,default-seq
+104653561,BCL6,BCL6 transcription repressor,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010352590.2,XP_010350892.1,13034686,model,,default-seq
+104687933,BCL6,BCL6 transcription repressor,Corvus cornix cornix,,XM_039556923.1,XP_039412857.1,,model,,default-seq
+104835180,BCL6,BCL6 transcription repressor,Haliaeetus leucocephalus,bald eagle,XM_010573059.1,XP_010571361.1,,model,,default-seq
+104862288,Bcl6,BCL6 transcription repressor,Fukomys damarensis,Damara mole-rat,XM_010624136.3,XP_010622438.1,13034686,model,,default-seq
+104925826,bcl6aa,BCL6A transcription repressor a,Larimichthys crocea,large yellow croaker,XM_019275343.2,XP_019130888.2,,model,,default-seq
+104965020,bcl6aa,BCL6A transcription repressor a,Notothenia coriiceps,black rockcod,XM_010793958.1,XP_010792260.1,,model,,default-seq
+104998641,BCL6,BCL6 transcription repressor,Bison bison bison,,XM_010853923.1,XP_010852225.1,13034686,model,,default-seq
+105029547,bcl6aa,BCL6A transcription repressor a,Esox lucius,northern pike,XM_020048703.3,XP_019904262.1,,model,,default-seq
+105072345,BCL6,BCL6 transcription repressor,Camelus bactrianus,Bactrian camel,XM_010959232.2,XP_010957534.1,13034686,model,,default-seq
+105085834,BCL6,BCL6 transcription repressor,Camelus dromedarius,Arabian camel,XM_010976122.2,XP_010974424.2,,model,,default-seq
+105306632,BCL6,BCL6 transcription repressor,Pteropus vampyrus,large flying fox,XM_011381764.2,XP_011380066.1,13034686,model,,default-seq
+105470884,BCL6,BCL6 transcription repressor,Macaca nemestrina,pig-tailed macaque,XM_011723157.1,XP_011721459.1,13034686,model,,default-seq
+105525823,BCL6,BCL6 transcription repressor,Colobus angolensis palliatus,,XM_011961599.1,XP_011816989.1,13034686,model,,default-seq
+105553750,BCL6,BCL6 transcription repressor,Mandrillus leucophaeus,drill,XM_011999881.1,XP_011855271.1,13034686,model,,default-seq
+105575204,BCL6,BCL6 transcription repressor,Cercocebus atys,sooty mangabey,XM_012036866.1,XP_011892256.1,13034686,model,,default-seq
+105729905,BCL6,BCL6 transcription repressor,Aotus nancymaae,Ma's night monkey,XM_012470870.2,XP_012326293.1,13034686,model,,default-seq
+105808047,BCL6,BCL6 transcription repressor,Propithecus coquereli,Coquerel's sifaka,XM_012641605.1,XP_012497059.1,13034686,model,,default-seq
+105885049,BCL6,BCL6 transcription repressor,Microcebus murinus,gray mouse lemur,XM_012789614.2,XP_012645068.1,,model,,default-seq
+105925380,bcl6aa,BCL6A transcription repressor a,Fundulus heteroclitus,mummichog,XM_012861185.3,XP_012716639.2,,model,,default-seq
+105987985,Bcl6,BCL6 transcription repressor,Dipodomys ordii,Ord's kangaroo rat,XM_013019440.1,XP_012874894.1,13034686,model,,default-seq
+106044827,BCL6,BCL6 transcription repressor,Anser cygnoides,Swan goose,XM_013195024.2,XP_013050478.2,,model,,default-seq
+106498231,BCL6,BCL6 transcription repressor,Apteryx mantelli mantelli,,XM_013959387.1,XP_013814841.1,,model,,default-seq
+106527463,bcl6aa,BCL6A transcription repressor a,Austrofundulus limnaeus,,XM_014022352.1,XP_013877806.1,,model,,default-seq
+106555959,BCL6,BCL6 transcription repressor,Thamnophis sirtalis,,XM_014074904.1,XP_013930379.1,,model,,default-seq
+106574104,bcl6aa,BCL6A transcription repressor a,Salmo salar,Atlantic salmon,XM_014149659.2,XP_014005134.1,,model,,default-seq
+106832549,BCL6,BCL6 transcription repressor,Equus asinus,ass,XM_014843366.2,XP_014698852.2,,model,,default-seq
+106850393,BCL6,BCL6 transcription repressor,Sturnus vulgaris,Common starling,XM_014871676.1,XP_014727162.1,,model,,default-seq
+106890293,BCL6,BCL6 transcription repressor,Calidris pugnax,ruff,XM_014946016.1,XP_014801502.1,,model,,default-seq
+106908415,bcl6aa,BCL6A transcription repressor a,Poecilia mexicana,,XM_014974497.1,XP_014829983.1,,model,,default-seq
+106949592,bcl6aa,BCL6A transcription repressor a,Poecilia latipinna,sailfin molly,XM_015035952.1,XP_014891438.1,,model,,default-seq
+106968029,BCL6,BCL6 transcription repressor,Acinonyx jubatus,cheetah,XM_027061206.2,XP_026917007.1,,model,,default-seq
+107088680,bcl6aa,BCL6A transcription repressor a,Cyprinodon variegatus,sheepshead minnow,XM_015380994.1,XP_015236480.1,,model,,default-seq
+107113842,BCL6,BCL6 transcription repressor,Gekko japonicus,,XM_015415233.1,XP_015270719.1,,model,,default-seq
+107154365,Bcl6,BCL6 transcription repressor,Marmota marmota marmota,Alpine marmot,XM_015499981.2,XP_015355467.1,,model,,default-seq
+107208980,BCL6,BCL6 transcription repressor,Parus major,Great Tit,XM_015638187.2,XP_015493673.1,,model,,default-seq
+107298086,BCL6,BCL6 transcription repressor,Protobothrops mucrosquamatus,,XM_029286451.1,XP_029142284.1,,model,,default-seq
+107318227,BCL6,BCL6 transcription repressor,Coturnix japonica,Japanese quail,XM_015871823.2,XP_015727309.1,,model,,default-seq
+107387412,bcl6aa,BCL6A transcription repressor a,Nothobranchius furzeri,turquoise killifish,XM_015962367.2,XP_015817853.2,,model,,default-seq
+107505900,BCL6,BCL6 transcription repressor,Rousettus aegyptiacus,Egyptian rousette,XM_016136294.2,XP_015991780.1,13034686,model,,default-seq
+107527304,BCL6,BCL6 transcription repressor,Miniopterus natalensis,,XM_016200065.1,XP_016055551.1,13034686,model,,default-seq
+107590655,bcl6aa,BCL6A transcription repressor a,Sinocyclocheilus grahami,,XM_016279547.1,XP_016135033.1,13034678,model,,default-seq
+107696747,bcl6aa,BCL6A transcription repressor a,Sinocyclocheilus anshuiensis,,XM_016497228.1,XP_016352714.1,10603440,model,,default-seq
+108240219,bcl6aa,BCL6A transcription repressor a,Kryptolebias marmoratus,mangrove rivulus,XM_017423539.3,XP_017279028.1,,model,,default-seq
+108271778,bcl6aa,BCL6A transcription repressor a,Ictalurus punctatus,channel catfish,XM_017479519.3,XP_017335008.1,,model,,default-seq
+108318511,BCL6,BCL6 transcription repressor,Cebus imitator,Panamanian white-faced capuchin,XM_017549580.2,XP_017405069.1,13034686,model,,default-seq
+108392322,BCL6,BCL6 transcription repressor,Manis javanica,Malayan pangolin,XM_017652474.2,XP_017507963.1,13034686,model,,default-seq
+108427684,bcl6aa,BCL6A transcription repressor a,Pygocentrus nattereri,red-bellied piranha,XM_017698025.2,XP_017553514.1,,model,,default-seq
+108495254,BCL6,BCL6 transcription repressor,Lepidothrix coronata,blue-crowned manakin,XM_017810751.1,XP_017666240.1,,model,,default-seq
+108530467,BCL6,BCL6 transcription repressor,Rhinopithecus bieti,black snub-nosed monkey,XM_017873414.1,XP_017728903.1,13034686,model,,default-seq
+108804586,BCL6,BCL6 transcription repressor,Nanorana parkeri,,XM_018576401.1,XP_018431903.1,,model,,default-seq
+108878871,bcl6aa,BCL6A transcription repressor a,Lates calcarifer,barramundi perch,XM_051077504.1,XP_050933461.1,,model,,default-seq
+108937356,bcl6aa,BCL6A transcription repressor a,Scleropages formosus,Asian bonytongue,XM_018757236.2,XP_018612752.1,,model,,default-seq
+109056840,bcl6aa,BCL6A transcription repressor a,Cyprinus carpio,common carp,XM_042758254.1,XP_042614188.1,,model,,default-seq
+109275292,BCL6,BCL6 transcription repressor,Panthera pardus,leopard,XM_019463479.2,XP_019319024.2,,model,,default-seq
+109288096,BCL6,BCL6 transcription repressor,Gavialis gangeticus,Gharial,XM_019503469.1,XP_019359014.1,,model,,default-seq
+109308543,BCL6,BCL6 transcription repressor,Crocodylus porosus,Australian saltwater crocodile,XM_019532901.1,XP_019388446.1,,model,,default-seq
+109371168,BCL6,BCL6 transcription repressor,Hipposideros armiger,great roundleaf bat,XM_019623501.1,XP_019479046.1,13034686,model,,default-seq
+109532329,bcl6aa,BCL6A transcription repressor a,Hippocampus comes,tiger tail seahorse,XM_019897175.1,XP_019752734.1,,model,,default-seq
+109556872,BCL6,BCL6 transcription repressor,Bos indicus,zebu cattle,XM_019958254.1,XP_019813813.1,13034686,model,,default-seq
+109625465,bcl6aa,BCL6A transcription repressor a,Paralichthys olivaceus,Japanese flounder,XM_020080689.1,XP_019936248.1,,model,,default-seq
+109700985,Bcl6,BCL6 transcription repressor,Castor canadensis,American beaver,XM_020186340.1,XP_020041929.1,,model,,default-seq
+109965774,bcl6aa,BCL6A transcription repressor a,Monopterus albus,swamp eel,XM_020610089.1,XP_020465745.1,,model,,default-seq
+109983071,bcl6aa,BCL6A transcription repressor a,Labrus bergylta,ballan wrasse,XM_020632593.2,XP_020488249.1,,model,,default-seq
+110091624,BCL6,BCL6 transcription repressor,Pogona vitticeps,central bearded dragon,XM_020815801.1,XP_020671460.1,,model,,default-seq
+110122544,BCL6,BCL6 transcription repressor,Odocoileus virginianus,white-tailed deer,XM_020870057.1,XP_020725716.1,13034686,model,,default-seq
+110154725,bcl6aa,BCL6A transcription repressor a,Boleophthalmus pectinirostris,great blue-spotted mudskipper,XM_055165243.1,XP_055021218.1,,model,,default-seq
+110210185,BCL6,BCL6 transcription repressor,Phascolarctos cinereus,koala,XM_020989033.1,XP_020844692.1,,model,,default-seq
+110311606,Bcl6,BCL6 transcription repressor,Mus caroli,Ryukyu mouse,XM_021185003.1,XP_021040662.1,13034686,model,,default-seq
+110329897,Bcl6,BCL6 transcription repressor,Mus pahari,shrew mouse,XM_021209834.2,XP_021065493.1,13034686,model,,default-seq
+110398221,BCL6,BCL6 transcription repressor,Numida meleagris,helmeted guineafowl,XM_021395682.1,XP_021251357.1,,model,,default-seq
+110473899,BCL6,BCL6 transcription repressor,Lonchura striata domestica,Bengalese finch,XM_021536835.2,XP_021392510.1,,model,,default-seq
+110521847,bcl6aa,BCL6A transcription repressor a,Oncorhynchus mykiss,rainbow trout,XM_036981292.1,XP_036837187.1,,model,,default-seq
+110547524,Bcl6,BCL6 transcription repressor,Meriones unguiculatus,Mongolian gerbil,XM_021635127.2,XP_021490802.1,13034686,model,,default-seq
+110582724,BCL6,BCL6 transcription repressor,Neomonachus schauinslandi,Hawaiian monk seal,XM_021692738.1,XP_021548413.1,13034686,model,,default-seq
+110954892,bcl6aa,BCL6A transcription repressor a,Acanthochromis polyacanthus,spiny chromis,XM_022199642.2,XP_022055334.2,,model,,default-seq
+111151749,BCL6,BCL6 transcription repressor,Enhydra lutris kenyoni,northern sea otter,XM_022509924.1,XP_022365632.1,13034686,model,,default-seq
+111172789,BCL6,BCL6 transcription repressor,Delphinapterus leucas,beluga whale,XM_022569851.2,XP_022425559.1,13034683,model,,default-seq
+111232056,bcl6aa,BCL6A transcription repressor a,Seriola dumerili,greater amberjack,XM_022759406.1,XP_022615127.1,,model,,default-seq
+111544273,BCL6,BCL6 transcription repressor,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023214729.3,XP_023070497.1,,model,,default-seq
+111567137,bcl6aa,BCL6A transcription repressor a,Amphiprion ocellaris,clown anemonefish,XM_035947167.2,XP_035803060.1,,model,,default-seq
+111669597,bcl6aa,BCL6A transcription repressor a,Seriola lalandi dorsalis,,XM_023425969.1,XP_023281737.1,,model,,default-seq
+111946019,BCL6,BCL6 transcription repressor,Cyanistes caeruleus,blue tit,XM_023948655.1,XP_023804423.1,,model,,default-seq
+112071377,bcl6aa,BCL6A transcription repressor a,Salvelinus alpinus,Arctic char,XM_024138835.1,XP_023994603.1,,model,,default-seq
+112108312,BCL6,BCL6 transcription repressor,Terrapene carolina triunguis,Three-toed box turtle,XM_024202388.3,XP_024058156.1,,model,,default-seq
+112150663,bcl6aa,BCL6A transcription repressor a,Oryzias melastigma,Indian medaka,XM_024279113.2,XP_024134881.1,,model,,default-seq
+112308408,BCL6,BCL6 transcription repressor,Desmodus rotundus,common vampire bat,XM_024564607.3,XP_024420375.2,,model,,default-seq
+112414602,BCL6,BCL6 transcription repressor,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024767173.1,XP_024622941.1,13034683,model,,default-seq
+112618695,BCL6,BCL6 transcription repressor,Theropithecus gelada,gelada,XM_025376066.1,XP_025231851.1,13034686,model,,default-seq
+112645810,BCL6,BCL6 transcription repressor,Canis lupus dingo,dingo,XM_025425325.3,XP_025281110.1,13034683,model,,default-seq
+112827991,BCL6,BCL6 transcription repressor,Callorhinus ursinus,northern fur seal,XM_025876825.1,XP_025732610.1,13034686,model,,default-seq
+112849620,BCL6,BCL6 transcription repressor,Puma concolor,puma,XM_025913303.1,XP_025769088.1,,model,,default-seq
+112926304,BCL6,BCL6 transcription repressor,Vulpes vulpes,red fox,XM_026007351.1,XP_025863136.1,13034683,model,,default-seq
+112952326,BCL6,BCL6 transcription repressor,Nothoprocta perdicaria,,XM_026045158.1,XP_025900943.1,,model,,default-seq
+112968514,BCL6,BCL6 transcription repressor,Apteryx rowi,Okarito brown kiwi,XM_026070890.1,XP_025926675.1,,model,,default-seq
+112979390,BCL6,BCL6 transcription repressor,Dromaius novaehollandiae,emu,XM_026093522.1,XP_025949307.1,,model,,default-seq
+113016110,bcl6aa,BCL6A transcription repressor a,Astatotilapia calliptera,eastern happy,XM_026158664.1,XP_026014449.1,,model,,default-seq
+113050614,bcl6aa,BCL6A transcription repressor a,Carassius auratus,goldfish,XM_026213780.1,XP_026069565.1,,model,,default-seq
+113129099,bcl6aa,BCL6A transcription repressor a,Mastacembelus armatus,zig-zag eel,XM_026304847.1,XP_026160632.1,,model,,default-seq
+113152326,bcl6aa,BCL6A transcription repressor a,Anabas testudineus,climbing perch,XM_026345503.1,XP_026201288.1,,model,,default-seq
+113183120,Bcl6,BCL6 transcription repressor,Urocitellus parryii,Arctic ground squirrel,XM_026389338.1,XP_026245123.1,,model,,default-seq
+113253747,BCL6,BCL6 transcription repressor,Ursus arctos,brown bear,XM_026496652.4,XP_026352437.1,,model,,default-seq
+113430042,BCL6,BCL6 transcription repressor,Notechis scutatus,mainland tiger snake,XM_026692542.1,XP_026548327.1,13605916,model,,default-seq
+113451003,BCL6,BCL6 transcription repressor,Pseudonaja textilis,,XM_026722355.1,XP_026578140.1,,model,,default-seq
+113483401,BCL6,BCL6 transcription repressor,Athene cunicularia,burrowing owl,XM_026854934.1,XP_026710735.1,,model,,default-seq
+113532125,bcl6aa,BCL6A transcription repressor a,Pangasianodon hypophthalmus,striped catfish,XM_026923309.3,XP_026779110.1,,model,,default-seq
+113575896,bcl6aa,BCL6A transcription repressor a,Electrophorus electricus,electric eel,XM_027007709.2,XP_026863510.2,,model,,default-seq
+113621824,BCL6,BCL6 transcription repressor,Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027109106.1,XP_026964907.1,13034683,model,,default-seq
+113642880,bcl6aa,BCL6A transcription repressor a,Tachysurus fulvidraco,yellow catfish,XM_027146647.2,XP_027002448.1,,model,,default-seq
+113890888,BCL6,BCL6 transcription repressor,Bos indicus x Bos taurus,hybrid cattle,XM_027538429.1,XP_027394230.1,13034686,model,,default-seq
+113918412,BCL6,BCL6 transcription repressor,Zalophus californianus,California sea lion,XM_027586844.2,XP_027442645.1,13034686,model,,default-seq
+113949097,BCL6,BCL6 transcription repressor,Corapipo altera,White-ruffed manakin,XM_027647270.1,XP_027503071.1,,model,,default-seq
+113968733,BCL6,BCL6 transcription repressor,Neopelma chrysocephalum,saffron-crested tyrant-manakin,XM_027685552.1,XP_027541353.1,,model,,default-seq
+114033298,BCL6,BCL6 transcription repressor,Vombatus ursinus,common wombat,XM_027848751.1,XP_027704552.1,,model,,default-seq
+114057578,BCL6,BCL6 transcription repressor,Empidonax traillii,willow flycatcher,XM_027884016.1,XP_027739817.1,,model,,default-seq
+114105121,Bcl6,BCL6 transcription repressor,Marmota flaviventris,yellow-bellied marmot,XM_027951450.1,XP_027807251.1,,model,,default-seq
+114150891,bcl6aa,BCL6A transcription repressor a,Xiphophorus couchianus,Monterrey platyfish,XM_028027665.1,XP_027883466.1,,model,,default-seq
+114206965,BCL6,BCL6 transcription repressor,Eumetopias jubatus,Steller sea lion,XM_028100879.1,XP_027956680.1,13034686,model,,default-seq
+114434788,bcl6aa,BCL6A transcription repressor a,Parambassis ranga,Indian glassy fish,XM_028404182.1,XP_028259983.1,,model,,default-seq
+114462471,bcl6aa,BCL6A transcription repressor a,Gouania willdenowi,blunt-snouted clingfish,XM_028445322.1,XP_028301123.1,,model,,default-seq
+114491118,BCL6,BCL6 transcription repressor,Phyllostomus discolor,pale spear-nosed bat,XM_028505290.2,XP_028361091.1,13034686,model,,default-seq
+114561476,bcl6aa,BCL6A transcription repressor a,Perca flavescens,yellow perch,XM_028587511.1,XP_028443312.1,,model,,default-seq
+114598149,BCL6,BCL6 transcription repressor,Podarcis muralis,Common wall lizard,XM_028731855.1,XP_028587688.1,,model,,default-seq
+114635183,Bcl6,BCL6 transcription repressor,Grammomys surdaster,,XM_028783879.1,XP_028639712.1,13034686,model,,default-seq
+114646705,bcl6aa,BCL6A transcription repressor a,Erpetoichthys calabaricus,reedfish,XM_028795022.2,XP_028650855.1,,model,,default-seq
+114697101,Bcl6,BCL6 transcription repressor,Peromyscus leucopus,white-footed mouse,XM_028875191.2,XP_028731024.1,,model,,default-seq
+114802684,bcl6aa,BCL6A transcription repressor a,Denticeps clupeoides,denticle herring,XM_029001835.1,XP_028857668.1,,model,,default-seq
+114854208,bcl6aa,BCL6A transcription repressor a,Betta splendens,Siamese fighting fish,XM_029148402.3,XP_029004235.1,,model,,default-seq
+114890675,BCL6,BCL6 transcription repressor,Monodon monoceros,narwhal,XM_029214429.1,XP_029070262.1,13034683,model,,default-seq
+115006819,bcl6aa,BCL6A transcription repressor a,Cottoperca gobio,,XM_029429357.1,XP_029285217.1,,model,,default-seq
+115042536,bcl6aa,BCL6A transcription repressor a,Echeneis naucrates,live sharksucker,XM_029500813.1,XP_029356673.1,,model,,default-seq
+115098851,BCL6,BCL6 transcription repressor,Rhinatrema bivittatum,two-lined caecilian,XM_029615870.1,XP_029471730.1,,model,,default-seq
+115124480,bcl6aa,BCL6A transcription repressor a,Oncorhynchus nerka,sockeye salmon,XM_029653911.1,XP_029509771.1,,model,,default-seq
+115151449,bcl6aa,BCL6A transcription repressor a,Salmo trutta,river trout,XM_029695388.1,XP_029551248.1,,model,,default-seq
+115291902,BCL6,BCL6 transcription repressor,Suricata suricatta,meerkat,XM_029939648.1,XP_029795508.1,,model,,default-seq
+115347345,BCL6,BCL6 transcription repressor,Aquila chrysaetos chrysaetos,,XM_030028623.2,XP_029884483.1,,model,,default-seq
+115357435,bcl6aa,BCL6A transcription repressor a,Myripristis murdjan,pinecone soldierfish,XM_030048854.1,XP_029904714.1,,model,,default-seq
+115381375,bcl6aa,BCL6A transcription repressor a,Salarias fasciatus,jewelled blenny,XM_030082705.1,XP_029938565.1,,model,,default-seq
+115417540,bcl6aa,BCL6A transcription repressor a,Sphaeramia orbicularis,orbiculate cardinalfish,XM_030131541.1,XP_029987401.1,,model,,default-seq
+115479349,BCL6,BCL6 transcription repressor,Microcaecilia unicolor,,XM_030217229.1,XP_030073089.1,,model,,default-seq
+115523248,BCL6,BCL6 transcription repressor,Lynx canadensis,Canada lynx,XM_030329048.1,XP_030184908.1,,model,,default-seq
+115555377,bcl6aa,BCL6A transcription repressor a,Gadus morhua,Atlantic cod,XM_030372202.1,XP_030228062.1,,model,,default-seq
+115591878,bcl6aa,BCL6A transcription repressor a,Sparus aurata,gilthead seabream,XM_030434266.1,XP_030290126.1,,model,,default-seq
+115611215,BCL6,BCL6 transcription repressor,Strigops habroptila,Kakapo,XM_030493774.1,XP_030349634.1,,model,,default-seq
+115657537,BCL6,BCL6 transcription repressor,Gopherus evgoodei,Goodes thornscrub tortoise,XM_030575506.1,XP_030431366.1,,model,,default-seq
+115779305,bcl6aa,BCL6A transcription repressor a,Archocentrus centrarchus,flier cichlid,XM_030727902.1,XP_030583762.1,,model,,default-seq
+115827439,bcl6aa,BCL6A transcription repressor a,Chanos chanos,milkfish,XM_030791273.1,XP_030647133.1,,model,,default-seq
+115855599,BCL6,BCL6 transcription repressor,Globicephala melas,long-finned pilot whale,XM_030860993.2,XP_030716853.1,,model,,default-seq
+115906996,BCL6,BCL6 transcription repressor,Camarhynchus parvulus,,XM_030954612.1,XP_030810472.1,,model,,default-seq
+116058859,bcl6aa,BCL6A transcription repressor a,Sander lucioperca,pikeperch,XM_031311789.2,XP_031167649.1,,model,,default-seq
+116085757,Bcl6,BCL6 transcription repressor,Mastomys coucha,southern multimammate mouse,XM_031363528.1,XP_031219388.1,,model,,default-seq
+116235348,BCL6,BCL6 transcription repressor,Phasianus colchicus,Ring-necked pheasant,XM_031603433.1,XP_031459293.1,,model,,default-seq
+116312981,bcl6aa,BCL6A transcription repressor a,Oreochromis aureus,,XM_039607473.1,XP_039463407.1,,model,,default-seq
+116397525,bcl6aa,BCL6A transcription repressor a,Anarrhichthys ocellatus,wolf-eel,XM_031873022.1,XP_031728882.1,,model,,default-seq
+116448742,BCL6,BCL6 transcription repressor,Corvus moneduloides,New Caledonian crow,XM_032119623.1,XP_031975514.1,,model,,default-seq
+116479955,BCL6,BCL6 transcription repressor,Hylobates moloch,silvery gibbon,XM_032171886.2,XP_032027777.1,,model,,default-seq
+116492572,BCL6,BCL6 transcription repressor,Aythya fuligula,tufted duck,XM_032193365.1,XP_032049256.1,,model,,default-seq
+116564876,BCL6,BCL6 transcription repressor,Sapajus apella,tufted capuchin,XM_032298276.1,XP_032154167.1,,model,,default-seq
+116587445,BCL6,BCL6 transcription repressor,Mustela erminea,ermine,XM_032337960.1,XP_032193851.1,,model,,default-seq
+116633961,BCL6,BCL6 transcription repressor,Phoca vitulina,harbor seal,XM_032406925.1,XP_032262816.1,,model,,default-seq
+116695784,bcl6aa,BCL6A transcription repressor a,Etheostoma spectabile,orangethroat darter,XM_032526238.1,XP_032382129.1,,model,,default-seq
+116725719,bcl6aa,BCL6A transcription repressor a,Xiphophorus hellerii,green swordtail,XM_032572011.1,XP_032427902.1,,model,,default-seq
+116752833,BCL6,BCL6 transcription repressor,Phocoena sinus,vaquita,XM_032629847.1,XP_032485738.1,,model,,default-seq
+116791661,BCL6,BCL6 transcription repressor,Chiroxiphia lanceolata,lance-tailed manakin,XM_032697882.1,XP_032553773.1,,model,,default-seq
+116823021,BCL6,BCL6 transcription repressor,Chelonoidis abingdonii,Abingdon island giant tortoise,XM_032777303.1,XP_032633194.1,,model,,default-seq
+116878275,BCL6,BCL6 transcription repressor,Lontra canadensis,Northern American river otter,XM_032875618.1,XP_032731509.1,,model,,default-seq
+116898731,Bcl6,BCL6 transcription repressor,Rattus rattus,black rat,XM_032900038.1,XP_032755929.1,,model,,default-seq
+116979817,bcl6,BCL6 transcription repressor,Amblyraja radiata,thorny skate,XM_033031677.1,XP_032887568.1,,model,,default-seq
+117000908,BCL6,BCL6 transcription repressor,Catharus ustulatus,Swainson's thrush,XM_033068987.1,XP_032924878.1,,model,,default-seq
+117032356,BCL6,BCL6 transcription repressor,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033123804.1,XP_032979695.1,,model,,default-seq
+117047604,BCL6,BCL6 transcription repressor,Lacerta agilis,,XM_033150913.1,XP_033006804.1,,model,,default-seq
+117084360,BCL6,BCL6 transcription repressor,Trachypithecus francoisi,Francois's langur,XM_033213029.1,XP_033068920.1,,model,,default-seq
+117254117,bcl6aa,BCL6A transcription repressor a,Epinephelus lanceolatus,giant grouper,XM_033622129.1,XP_033478020.1,,model,,default-seq
+117366647,BCL6,BCL6 transcription repressor,Geotrypetes seraphini,,XM_033958273.1,XP_033814164.1,,model,,default-seq
+117393973,bcl6aa,BCL6A transcription repressor a,Periophthalmus magnuspinnatus,,XM_033991953.2,XP_033847844.1,,model,,default-seq
+117445142,bcl6aa,BCL6A transcription repressor a,Pseudochaenichthys georgianus,South Georgia icefish,XM_034080580.1,XP_033936471.1,,model,,default-seq
+117491083,bcl6aa,BCL6A transcription repressor a,Trematomus bernacchii,emerald rockcod,XM_034140934.1,XP_033996825.1,,model,,default-seq
+117519320,bcl6aa,BCL6A transcription repressor a,Thalassophryne amazonica,,XM_034180673.1,XP_034036564.1,,model,,default-seq
+117558995,bcl6aa,BCL6A transcription repressor a,Gymnodraco acuticeps,,XM_034235585.1,XP_034091476.1,,model,,default-seq
+117657528,BCL6,BCL6 transcription repressor,Pantherophis guttatus,,XM_060684758.1,XP_060540741.1,,model,,default-seq
+117717777,Bcl6,BCL6 transcription repressor,Arvicanthis niloticus,Nile rat,XM_034515149.1,XP_034371040.1,,model,,default-seq
+117729400,bcl6aa,BCL6A transcription repressor a,Cyclopterus lumpus,lumpfish,XM_034530412.1,XP_034386303.1,,model,,default-seq
+117760298,bcl6aa,BCL6A transcription repressor a,Hippoglossus hippoglossus,Atlantic halibut,XM_034583216.1,XP_034439107.1,,model,,default-seq
+117808234,bcl6aa,BCL6A transcription repressor a,Notolabrus celidotus,New Zealand spotty,XM_034677856.1,XP_034533747.1,,model,,default-seq
+117882810,BCL6,BCL6 transcription repressor,Trachemys scripta elegans,,XM_034781618.1,XP_034637509.1,,model,,default-seq
+117949859,bcl6aa,BCL6A transcription repressor a,Etheostoma cragini,Arkansas darter,XM_034880412.1,XP_034736303.1,,model,,default-seq
+118006931,BCL6,BCL6 transcription repressor,Mirounga leonina,Southern elephant seal,XM_034999803.1,XP_034855694.1,,model,,default-seq
+118093533,BCL6,BCL6 transcription repressor,Zootoca vivipara,common lizard,XM_060274244.1,XP_060130227.1,,model,,default-seq
+118120909,bcl6aa,BCL6A transcription repressor a,Hippoglossus stenolepis,Pacific halibut,XM_035176387.2,XP_035032278.1,,model,,default-seq
+118171460,BCL6,BCL6 transcription repressor,Oxyura jamaicensis,ruddy duck,XM_035334598.1,XP_035190489.1,,model,,default-seq
+118226306,bcl6aa,BCL6A transcription repressor a,Anguilla anguilla,European eel,XM_035415838.1,XP_035271729.1,,model,,default-seq
+118246985,BCL6,BCL6 transcription repressor,Cygnus atratus,black swan,XM_035544604.2,XP_035400497.1,,model,,default-seq
+118317901,bcl6aa,BCL6A transcription repressor a,Scophthalmus maximus,turbot,XM_035647013.2,XP_035502906.1,,model,,default-seq
+118321599,bcl6aa,BCL6A transcription repressor a,Morone saxatilis,striped sea-bass,XM_035652989.1,XP_035508882.1,,model,,default-seq
+118375342,bcl6aa,BCL6A transcription repressor a,Oncorhynchus keta,chum salmon,XM_052475645.1,XP_052331605.1,,model,,default-seq
+118546823,BCL6,BCL6 transcription repressor,Halichoerus grypus,gray seal,XM_036109792.1,XP_035965685.1,,model,,default-seq
+118594043,Bcl6,BCL6 transcription repressor,Onychomys torridus,southern grasshopper mouse,XM_036203807.1,XP_036059700.1,,model,,default-seq
+118616892,BCL6,BCL6 transcription repressor,Molossus molossus,Pallas's mastiff bat,XM_036242425.1,XP_036098318.1,,model,,default-seq
+118676766,BCL6,BCL6 transcription repressor,Myotis myotis,,XM_036351216.1,XP_036207109.1,,model,,default-seq
+118690162,BCL6,BCL6 transcription repressor,Molothrus ater,,XM_036388890.2,XP_036244783.1,,model,,default-seq
+118724928,BCL6,BCL6 transcription repressor,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036448692.1,XP_036304585.1,,model,,default-seq
+118773415,bcl6aa,BCL6A transcription repressor a,Megalops cyprinoides,Indo-Pacific tarpon,XM_036522339.1,XP_036378232.1,,model,,default-seq
+118808029,bcl6aa,BCL6A transcription repressor a,Colossoma macropomum,tambaqui,XM_036570367.1,XP_036426260.1,,model,,default-seq
+118846631,BCL6,BCL6 transcription repressor,Trichosurus vulpecula,common brushtail,XM_036755366.1,XP_036611261.1,,model,,default-seq
+118894101,BCL6,BCL6 transcription repressor,Balaenoptera musculus,blue whale,XM_036849782.1,XP_036705677.1,,model,,default-seq
+118907083,BCL6,BCL6 transcription repressor,Manis pentadactyla,Chinese pangolin,XM_036875318.2,XP_036731213.1,,model,,default-seq
+118980907,BCL6,BCL6 transcription repressor,Sturnira hondurensis,,XM_037037637.1,XP_036893532.1,,model,,default-seq
+119029006,bcl6aa,BCL6A transcription repressor a,Acanthopagrus latus,yellowfin seabream,XM_037115499.1,XP_036971394.1,,model,,default-seq
+119039086,BCL6,BCL6 transcription repressor,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_037131729.2,XP_036987624.2,,model,,default-seq
+119122292,bcl6aa,BCL6A transcription repressor a,Syngnathus acus,greater pipefish,XM_037250622.1,XP_037106517.1,,model,,default-seq
+119156805,BCL6,BCL6 transcription repressor,Falco rusticolus,gyrfalcon,XM_037407134.1,XP_037263031.1,,model,,default-seq
+119216731,bcl6aa,BCL6A transcription repressor a,Pungitius pungitius,ninespine stickleback,XM_037469814.1,XP_037325711.1,,model,,default-seq
+119257385,BCL6,BCL6 transcription repressor,Talpa occidentalis,Iberian mole,XM_037525268.2,XP_037381165.1,,model,,default-seq
+119408161,bcl6aa,BCL6A transcription repressor a,Nematolebias whitei,Rio pearlfish,XM_037674999.1,XP_037530927.1,,model,,default-seq
+119488841,bcl6aa,BCL6A transcription repressor a,Sebastes umbrosus,honeycomb rockfish,XM_037770787.1,XP_037626715.1,,model,,default-seq
+119536045,BCL6,BCL6 transcription repressor,Choloepus didactylus,southern two-toed sloth,XM_037838516.1,XP_037694444.1,,model,,default-seq
+119704424,BCL6,BCL6 transcription repressor,Motacilla alba alba,,XM_038145677.1,XP_038001605.1,,model,,default-seq
+119795851,bcl6aa,BCL6A transcription repressor a,Cyprinodon tularosa,,XM_038304087.1,XP_038160015.1,,model,,default-seq
+119824764,Bcl6,BCL6 transcription repressor,Arvicola amphibius,Eurasian water vole,XM_038345209.2,XP_038201137.1,,model,,default-seq
+119861545,BCL6,BCL6 transcription repressor,Dermochelys coriacea,leatherback sea turtle,XM_038416794.2,XP_038272722.1,,model,,default-seq
+119901160,bcl6aa,BCL6A transcription repressor a,Micropterus salmoides,largemouth bass,XM_038716679.1,XP_038572607.1,,model,,default-seq
+119930662,BCL6,BCL6 transcription repressor,Tachyglossus aculeatus,Australian echidna,XM_038749215.1,XP_038605143.1,,model,,default-seq
+119975807,bcl6aa,BCL6A transcription repressor a,Scyliorhinus canicula,smaller spotted catshark,XM_038815678.1,XP_038671606.1,,model,,default-seq
+120053590,bcl6aa,BCL6A transcription repressor a,Salvelinus namaycush,lake trout,XM_039000725.1,XP_038856653.1,,model,,default-seq
+120233106,BCL6,BCL6 transcription repressor,Hyaena hyaena,striped hyena,XM_039234207.1,XP_039090138.1,,model,,default-seq
+120296638,BCL6,BCL6 transcription repressor,Crotalus tigris,Tiger rattlesnake,XM_039318485.1,XP_039174419.1,,model,,default-seq
+120322519,BCL6,BCL6 transcription repressor,Pipra filicauda,Wire-tailed manakin,XM_039378036.1,XP_039233970.1,,model,,default-seq
+120372069,BCL6,BCL6 transcription repressor,Mauremys reevesii,Reeves's turtle,XM_039488777.1,XP_039344711.1,,model,,default-seq
+120493069,bcl6aa,BCL6A transcription repressor a,Pimephales promelas,fathead minnow,XM_039691472.1,XP_039547406.1,,model,,default-seq
+120504173,BCL6,BCL6 transcription repressor,Passer montanus,Eurasian tree sparrow,XM_039713359.1,XP_039569293.1,,model,,default-seq
+120537107,bcl6aa,BCL6A transcription repressor a,Polypterus senegalus,gray bichir,XM_039765770.1,XP_039621704.1,,model,,default-seq
+120565698,bcl6aa,BCL6A transcription repressor a,Perca fluviatilis,European perch,XM_039811640.1,XP_039667574.1,,model,,default-seq
+120593047,BCL6,BCL6 transcription repressor,Pteropus giganteus,Indian flying fox,XM_039850884.1,XP_039706818.1,,model,,default-seq
+120738678,bcl6aa,BCL6A transcription repressor a,Simochromis diagramma,,XM_040040073.1,XP_039896007.1,,model,,default-seq
+120757170,BCL6,BCL6 transcription repressor,Hirundo rustica,Barn swallow,XM_040074327.2,XP_039930261.1,,model,,default-seq
+120791106,bcl6aa,BCL6A transcription repressor a,Xiphias gladius,swordfish,XM_040129279.1,XP_039985213.1,,model,,default-seq
+120823552,bcl6aa,BCL6A transcription repressor a,Gasterosteus aculeatus,three-spined stickleback,XM_040183618.1,XP_040039552.1,,model,,default-seq
+120872541,BCL6,BCL6 transcription repressor,Oryx dammah,scimitar-horned oryx,XM_040253023.1,XP_040108957.1,,model,,default-seq
+120936864,BCL6,BCL6 transcription repressor,Rana temporaria,common frog,XM_040349588.1,XP_040205522.1,,model,,default-seq
+120997988,BCL6,BCL6 transcription repressor,Bufo bufo,common toad,XM_040428391.1,XP_040284325.1,,model,,default-seq
+121034137,BCL6,BCL6 transcription repressor,Puma yagouaroundi,jaguarundi,XM_040481069.1,XP_040337003.1,,model,,default-seq
+121075002,BCL6,BCL6 transcription repressor,Cygnus olor,mute swan,XM_040567745.1,XP_040423679.1,,model,,default-seq
+121096844,BCL6,BCL6 transcription repressor,Falco naumanni,lesser kestrel,XM_040613383.1,XP_040469317.1,,model,,default-seq
+121171380,BCL6,BCL6 transcription repressor,Ochotona curzoniae,black-lipped pika,XM_041003094.1,XP_040859028.1,,model,,default-seq
+121183787,bcl6aa,BCL6A transcription repressor a,Toxotes jaculatrix,banded archerfish,XM_041041034.1,XP_040896968.1,,model,,default-seq
+121275317,bcl6aa,BCL6A transcription repressor a,Carcharodon carcharias,great white shark,XM_041182794.1,XP_041038728.1,,model,,default-seq
+121336630,BCL6,BCL6 transcription repressor,Onychostruthus taczanowskii,white-rumped snowfinch,XM_041405962.1,XP_041261896.1,,model,,default-seq
+121353769,BCL6,BCL6 transcription repressor,Pyrgilauda ruficollis,rufous-necked snowfinch,XM_041467891.1,XP_041323825.1,,model,,default-seq
+121465004,Bcl6,BCL6 transcription repressor,Microtus oregoni,creeping vole,XM_041678159.1,XP_041534093.1,,model,,default-seq
+121477280,BCL6,BCL6 transcription repressor,Vulpes lagopus,Arctic fox,XM_041731472.1,XP_041587406.1,,model,,default-seq
+121511684,bcl6aa,BCL6A transcription repressor a,Cheilinus undulatus,humphead wrasse,XM_041790435.1,XP_041646369.1,,model,,default-seq
+121605356,bcl6aa,BCL6A transcription repressor a,Chelmon rostratus,copperband butterflyfish,XM_041935236.1,XP_041791170.1,,model,,default-seq
+121653397,bcl6aa,BCL6A transcription repressor a,Melanotaenia boesemani,Boeseman's rainbowfish,XM_042006857.1,XP_041862791.1,,model,,default-seq
+121671017,BCL6,BCL6 transcription repressor,Corvus kubaryi,Mariana crow,XM_042042139.1,XP_041898073.1,,model,,default-seq
+121724843,bcl6aa,BCL6A transcription repressor a,Alosa sapidissima,American shad,XM_042111704.1,XP_041967638.1,,model,,default-seq
+121900918,bcl6aa,BCL6A transcription repressor a,Thunnus maccoyii,southern bluefin tuna,XM_042417511.1,XP_042273445.1,,model,,default-seq
+121925244,BCL6,BCL6 transcription repressor,Sceloporus undulatus,fence lizard,XM_042457139.1,XP_042313073.1,,model,,default-seq
+121964891,bcl6aa,BCL6A transcription repressor a,Plectropomus leopardus,leopard coralgrouper,XM_042515074.1,XP_042371008.1,,model,,default-seq
+122097260,Bcl6,BCL6 transcription repressor,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042667752.1,XP_042523686.1,,model,,default-seq
+122130811,bcl6aa,BCL6A transcription repressor a,Clupea harengus,Atlantic herring,XM_042705578.1,XP_042561512.1,,model,,default-seq
+122161399,BCL6,BCL6 transcription repressor,Centrocercus urophasianus,Greater sage-grouse,XM_042820822.1,XP_042676756.1,,model,,default-seq
+122183873,BCL6,BCL6 transcription repressor,Lagopus leucura,white-tailed ptarmigan,XM_042878288.1,XP_042734222.1,,model,,default-seq
+122198926,BCL6,BCL6 transcription repressor,Panthera leo,lion,XM_042903826.1,XP_042759760.1,,model,,default-seq
+122346814,bcl6aa,BCL6A transcription repressor a,Puntigrus tetrazona,Sumatra barb,XM_043241667.1,XP_043097602.1,,model,,default-seq
+122444803,BCL6,BCL6 transcription repressor,Cervus canadensis,,XM_043473441.1,XP_043329376.1,,model,,default-seq
+122491620,BCL6,BCL6 transcription repressor,Prionailurus bengalensis,leopard cat,XM_043594620.1,XP_043450555.1,,model,,default-seq
+122675353,BCL6,BCL6 transcription repressor,Cervus elaphus,red deer,XM_043873947.1,XP_043729882.1,,model,,default-seq
+122746050,BCL6,BCL6 transcription repressor,Dromiciops gliroides,monito del monte,XM_043991526.1,XP_043847461.1,,model,,default-seq
+122780944,bcl6aa,BCL6A transcription repressor a,Solea senegalensis,Senegalese sole,XM_044044387.1,XP_043900322.1,,model,,default-seq
+122800884,BCL6,BCL6 transcription repressor,Protopterus annectens,West African lungfish,XM_044070217.1,XP_043926152.1,,model,,default-seq
+122838282,bcl6aa,BCL6A transcription repressor a,Gambusia affinis,western mosquitofish,XM_044128810.1,XP_043984745.1,,model,,default-seq
+122877131,bcl6aa,BCL6A transcription repressor a,Siniperca chuatsi,mandarin fish,XM_044198226.1,XP_044054161.1,,model,,default-seq
+122908794,BCL6,BCL6 transcription repressor,Neogale vison,American mink,XM_044251969.1,XP_044107904.1,,model,,default-seq
+122922537,BCL6,BCL6 transcription repressor,Bufo gargarizans,Asiatic toad,XM_044273165.1,XP_044129100.1,,model,,default-seq
+122989041,bcl6aa,BCL6A transcription repressor a,Thunnus albacares,yellowfin tuna,XM_044361721.1,XP_044217656.1,,model,,default-seq
+123036803,BCL6,BCL6 transcription repressor,Varanus komodoensis,Komodo dragon,XM_044456244.1,XP_044312179.1,,model,,default-seq
+123377343,BCL6,BCL6 transcription repressor,Mauremys mutica,yellowpond turtle,XM_045030121.1,XP_044886056.1,,model,,default-seq
+123611109,BCL6,BCL6 transcription repressor,Leopardus geoffroyi,Geoffroy's cat,XM_045502625.1,XP_045358581.1,,model,,default-seq
+123630378,BCL6,BCL6 transcription repressor,Lemur catta,Ring-tailed lemur,XM_045539900.1,XP_045395856.1,,model,,default-seq
+123801290,BCL6,BCL6 transcription repressor,Ursus americanus,American black bear,XM_045811243.1,XP_045667199.1,,model,,default-seq
+123826766,BCL6,BCL6 transcription repressor,Phyllostomus hastatus,greater spear-nosed bat,XM_045850820.1,XP_045706776.1,,model,,default-seq
+123863521,BCL6,BCL6 transcription repressor,Mirounga angustirostris,Northern elephant seal,XM_045903165.2,XP_045759121.1,,model,,default-seq
+123939959,BCL6,BCL6 transcription repressor,Meles meles,Eurasian badger,XM_046002133.1,XP_045858089.1,,model,,default-seq
+123971503,bcl6aa,BCL6A transcription repressor a,Micropterus dolomieu,smallmouth bass,XM_046050376.1,XP_045906332.1,,model,,default-seq
+123996326,bcl6aa,BCL6A transcription repressor a,Oncorhynchus gorbuscha,pink salmon,XM_046299688.1,XP_046155644.1,,model,,default-seq
+124060942,bcl6aa,BCL6A transcription repressor a,Scatophagus argus,,XM_046392362.1,XP_046248318.1,,model,,default-seq
+124105375,Bcl6,BCL6 transcription repressor,Marmota monax,woodchuck,XM_046462512.1,XP_046318468.1,,model,,default-seq
+124238402,BCL6,BCL6 transcription repressor,Equus quagga,,XM_046659336.1,XP_046515292.1,,model,,default-seq
+124385206,bcl6aa,BCL6A transcription repressor a,Silurus meridionalis,,XM_046848385.1,XP_046704341.1,,model,,default-seq
+124478570,bcl6aa,BCL6A transcription repressor a,Hypomesus transpacificus,,XM_047036870.1,XP_046892826.1,,model,,default-seq
+124526186,BCL6,BCL6 transcription repressor,Lynx rufus,bobcat,XM_047098983.1,XP_046954939.1,,model,,default-seq
+124874287,bcl6aa,BCL6A transcription repressor a,Girardinichthys multiradiatus,,XM_047375583.1,XP_047231539.1,,model,,default-seq
+124992595,Bcl6,BCL6 transcription repressor,Sciurus carolinensis,gray squirrel,XM_047563569.1,XP_047419525.1,,model,,default-seq
+125008968,bcl6aa,BCL6A transcription repressor a,Mugil cephalus,flathead mullet,XM_047586399.1,XP_047442355.1,,model,,default-seq
+125101963,BCL6,BCL6 transcription repressor,Lutra lutra,Eurasian river otter,XM_047732607.1,XP_047588563.1,,model,,default-seq
+125131893,BCL6,BCL6 transcription repressor,Phacochoerus africanus,Common warthog,XM_047788609.1,XP_047644565.1,,model,,default-seq
+125174973,BCL6,BCL6 transcription repressor,Prionailurus viverrinus,fishing cat,XM_047875148.1,XP_047731104.1,,model,,default-seq
+125273911,bcl6aa,BCL6A transcription repressor a,Megalobrama amblycephala,Wuchang bream,XM_048199717.1,XP_048055674.1,,model,,default-seq
+125300377,bcl6aa,BCL6A transcription repressor a,Alosa alosa,allis shad,XM_048252264.1,XP_048108221.1,,model,,default-seq
+125330846,BCL6,BCL6 transcription repressor,Corvus hawaiiensis,hawaiian crow,XM_048314554.1,XP_048170511.1,,model,,default-seq
+125351889,Bcl6,BCL6 transcription repressor,Perognathus longimembris pacificus,Pacific pocket mouse,XM_048346972.1,XP_048202929.1,,model,,default-seq
+125412945,Bcl6,BCL6 transcription repressor,Myodes glareolus,Bank vole,XM_048453887.1,XP_048309844.1,,model,,default-seq
+125438550,BCL6,BCL6 transcription repressor,Sphaerodactylus townsendi,,XM_048506981.1,XP_048362938.1,,model,,default-seq
+125457958,bcl6aa,BCL6A transcription repressor a,Stegostoma tigrinum,,XM_048542781.2,XP_048398738.1,,model,,default-seq
+125643206,BCL6,BCL6 transcription repressor,Caretta caretta,Loggerhead turtle,XM_048865495.1,XP_048721452.1,,model,,default-seq
+125697417,BCL6,BCL6 transcription repressor,Lagopus muta,rock ptarmigan,XM_048954607.1,XP_048810564.1,,model,,default-seq
+125708593,bcl6aa,BCL6A transcription repressor a,Brienomyrus brachyistius,,XM_048976243.1,XP_048832200.1,,model,,default-seq
+125895295,bcl6aa,BCL6A transcription repressor a,Epinephelus fuscoguttatus,brown-marbled grouper,XM_049587020.1,XP_049442977.1,,model,,default-seq
+125921820,BCL6,BCL6 transcription repressor,Panthera uncia,snow leopard,XM_049629509.1,XP_049485466.1,,model,,default-seq
+125970554,bcl6aa,BCL6A transcription repressor a,Syngnathus scovelli,Gulf pipefish,XM_049722959.1,XP_049578916.1,,model,,default-seq
+126011934,BCL6,BCL6 transcription repressor,Suncus etruscus,white-toothed pygmy shrew,XM_049775702.1,XP_049631659.1,,model,,default-seq
+126039597,BCL6,BCL6 transcription repressor,Accipiter gentilis,Northern goshawk,XM_049802984.1,XP_049658941.1,,model,,default-seq
+126082003,BCL6,BCL6 transcription repressor,Elephas maximus indicus,,XM_049894629.1,XP_049750586.1,,model,,default-seq
+126396570,bcl6aa,BCL6A transcription repressor a,Epinephelus moara,kelp grouper,XM_050054764.1,XP_049910721.1,,model,,default-seq
+126512292,Bcl6,BCL6 transcription repressor,Microtus fortis,reed vole,XM_050159982.1,XP_050015939.1,,model,,default-seq
+126636191,BCL6,BCL6 transcription repressor,Myiozetetes cayanensis,,XM_050308140.1,XP_050164097.1,,model,,default-seq
+126948040,BCL6,BCL6 transcription repressor,Macaca thibetana thibetana,,XM_050779283.1,XP_050635240.1,,model,,default-seq
+127020145,BCL6,BCL6 transcription repressor,Gymnogyps californianus,California condor,XM_050902608.1,XP_050758565.1,,model,,default-seq
+127056664,BCL6,BCL6 transcription repressor,Gopherus flavomarginatus,Mexican gopher tortoise,XM_050964772.1,XP_050820729.1,,model,,default-seq
+127166756,bcl6aa,BCL6A transcription repressor a,Labeo rohita,rohu,XM_051112285.1,XP_050968242.1,,model,,default-seq
+127193427,Bcl6,BCL6 transcription repressor,Acomys russatus,golden spiny mouse,XM_051150785.1,XP_051006742.1,,model,,default-seq
+127227006,Bcl6,BCL6 transcription repressor,Phodopus roborovskii,desert hamster,XM_051191223.1,XP_051047180.1,,model,,default-seq
+127350320,bcl6aa,BCL6A transcription repressor a,Dicentrarchus labrax,European seabass,XM_051376820.1,XP_051232780.1,,model,,default-seq
+127387623,BCL6,BCL6 transcription repressor,Apus apus,common swift,XM_051626233.1,XP_051482193.1,,model,,default-seq
+127468776,BCL6,BCL6 transcription repressor,Manacus candei,White-collared manakin,XM_051782320.1,XP_051638280.1,,model,,default-seq
+127514000,bcl6aa,BCL6A transcription repressor a,Ctenopharyngodon idella,grass carp,XM_051896324.1,XP_051752284.1,,model,,default-seq
+127558335,BCL6,BCL6 transcription repressor,Antechinus flavipes,yellow-footed antechinus,XM_051991661.1,XP_051847621.1,,model,,default-seq
+127605487,bcl6aa,BCL6A transcription repressor a,Hippocampus zosterae,dwarf seahorse,XM_052073038.1,XP_051928998.1,,model,,default-seq
+127665577,Bcl6,BCL6 transcription repressor,Apodemus sylvaticus,European woodmouse,XM_052158026.1,XP_052013986.1,,model,,default-seq
+128043326,BCL6,BCL6 transcription repressor,Budorcas taxicolor,takin,XM_052635660.1,XP_052491620.1,,model,,default-seq
+128082116,BCL6,BCL6 transcription repressor,Tympanuchus pallidicinctus,lesser prairie-chicken,XM_052685957.1,XP_052541917.1,,model,,default-seq
+128120170,Bcl6,BCL6 transcription repressor,Peromyscus californicus insignis,,XM_052753863.1,XP_052609823.1,,model,,default-seq
+128149074,BCL6,BCL6 transcription repressor,Harpia harpyja,harpy eagle,XM_052803858.1,XP_052659818.1,,model,,default-seq
+128349810,BCL6,BCL6 transcription repressor,Hemicordylus capensis,graceful crag lizard,XM_053306846.1,XP_053162821.1,,model,,default-seq
+128361495,bcl6aa,BCL6A transcription repressor a,Scomber japonicus,chub mackerel,XM_053321982.1,XP_053177957.1,,model,,default-seq
+128413333,BCL6,BCL6 transcription repressor,Podarcis raffonei,Aeolian wall lizard,XM_053387358.1,XP_053243333.1,,model,,default-seq
+128447557,bcl6aa,BCL6A transcription repressor a,Pleuronectes platessa,European plaice,XM_053429717.1,XP_053285692.1,,model,,default-seq
+128482680,BCL6,BCL6 transcription repressor,Spea bombifrons,plains spadefoot toad,XM_053458529.1,XP_053314504.1,,model,,default-seq
+128526955,bcl6aa,BCL6A transcription repressor a,Clarias gariepinus,North African catfish,XM_053499186.1,XP_053355161.1,,model,,default-seq
+128567589,BCL6,BCL6 transcription repressor,Nycticebus coucang,slow loris,XM_053564888.1,XP_053420863.1,,model,,default-seq
+128614936,bcl6aa,BCL6A transcription repressor a,Ictalurus furcatus,blue catfish,XM_053636661.1,XP_053492636.1,,model,,default-seq
+128656384,BCL6,BCL6 transcription repressor,Bombina bombina,fire-bellied toad,XM_053710254.1,XP_053566229.1,,model,,default-seq
+128751695,bcl6aa,BCL6A transcription repressor a,Synchiropus splendidus,mandarinfish,XM_053852931.1,XP_053708906.1,,model,,default-seq
+128792776,BCL6,BCL6 transcription repressor,Vidua chalybeata,,XM_053951484.1,XP_053807459.1,,model,,default-seq
+128812034,BCL6,BCL6 transcription repressor,Vidua macroura,Pin-tailed whydah,XM_053986147.1,XP_053842122.1,,model,,default-seq
+128843626,BCL6,BCL6 transcription repressor,Malaclemys terrapin pileata,,XM_054040602.1,XP_053896577.1,,model,,default-seq
+128911001,BCL6,BCL6 transcription repressor,Rissa tridactyla,black-legged kittiwake,XM_054205175.1,XP_054061150.1,,model,,default-seq
+128940772,BCL6,BCL6 transcription repressor,Melozone crissalis,California towhee,XM_054282450.1,XP_054138425.1,,model,,default-seq
+128970563,BCL6,BCL6 transcription repressor,Indicator indicator,,XM_054385798.1,XP_054241773.1,,model,,default-seq
+129033126,BCL6,BCL6 transcription repressor,Pongo pygmaeus,Bornean orangutan,XM_054481183.1,XP_054337158.1,,model,,default-seq
+129079870,BCL6,BCL6 transcription repressor,Pteronotus parnellii mesoamericanus,,XM_054585099.1,XP_054441074.1,,model,,default-seq
+129094418,bcl6aa,BCL6A transcription repressor a,Anoplopoma fimbria,sablefish,XM_054602583.1,XP_054458558.1,,model,,default-seq
+129124416,BCL6,BCL6 transcription repressor,Agelaius phoeniceus,red-winged blackbird,XM_054639394.1,XP_054495369.1,,model,,default-seq
+129188400,bcl6aa,BCL6A transcription repressor a,Dunckerocampus dactyliophorus,ringed pipefish,XM_054788841.1,XP_054644816.1,,model,,default-seq
+129209996,BCL6,BCL6 transcription repressor,Grus americana,Whooping crane,XM_054835382.1,XP_054691357.1,,model,,default-seq
+129332486,BCL6,BCL6 transcription repressor,Eublepharis macularius,,XM_054983645.1,XP_054839620.1,,model,,default-seq
+129371079,bcl6aa,BCL6A transcription repressor a,Poeciliopsis prolifica,blackstripe livebearer,XM_055047447.1,XP_054903422.1,,model,,default-seq
+129450582,bcl6aa,BCL6A transcription repressor a,Misgurnus anguillicaudatus,oriental weatherfish,XM_055213452.1,XP_055069427.1,,model,,default-seq
+129498393,BCL6,BCL6 transcription repressor,Nyctereutes procyonoides,raccoon dog,XM_055307710.1,XP_055163685.1,,model,,default-seq
+129544598,BCL6,BCL6 transcription repressor,Moschus berezovskii,Chinese forest musk deer,XM_055408310.1,XP_055264285.1,,model,,default-seq
+129643726,BCL6,BCL6 transcription repressor,Bubalus carabanensis,carabao,XM_055568758.1,XP_055424733.1,,model,,default-seq
+129689656,Bcl6,BCL6 transcription repressor,Psammomys obesus,fat sand rat,XM_055625015.1,XP_055480990.1,,model,,default-seq
+129867621,bcl6aa,BCL6A transcription repressor a,Salvelinus fontinalis,brook trout,XM_055941137.1,XP_055797112.1,,model,,default-seq
+130030131,BCL6,BCL6 transcription repressor,Sorex fumeus,smoky shrew,XM_056121328.1,XP_055977303.1,,model,,default-seq
+130081303,bcl6aa,BCL6A transcription repressor a,Rhinichthys klamathensis goyatoka,,XM_056246329.1,XP_056102304.1,,model,,default-seq
+130109522,bcl6aa,BCL6A transcription repressor a,Lampris incognitus,smalleye Pacific opah,XM_056276452.1,XP_056132427.1,,model,,default-seq
+130158079,BCL6,BCL6 transcription repressor,Falco biarmicus,lanner falcon,XM_056358428.1,XP_056214403.1,,model,,default-seq
+130171435,bcl6aa,BCL6A transcription repressor a,Seriola aureovittata,,XM_056379452.1,XP_056235427.1,,model,,default-seq
+130194139,bcl6aa,BCL6A transcription repressor a,Pseudoliparis swirei,,XM_056415031.1,XP_056271006.1,,model,,default-seq
+130230749,bcl6aa,BCL6A transcription repressor a,Danio aesculapii,,XM_056459925.1,XP_056315900.1,,model,,default-seq
+130256556,BCL6,BCL6 transcription repressor,Oenanthe melanoleuca,,XM_056498280.1,XP_056354255.1,,model,,default-seq
+130361861,BCL6,BCL6 transcription repressor,Hyla sarda,,XM_056565461.1,XP_056421436.1,,model,,default-seq
+130393726,bcl6aa,BCL6A transcription repressor a,Gadus chalcogrammus,walleye pollock,XM_056604436.1,XP_056460411.1,,model,,default-seq
+130425167,bcl6aa,BCL6A transcription repressor a,Triplophysa dalaica,,XM_056751259.1,XP_056607237.1,,model,,default-seq
+130455835,BCL6,BCL6 transcription repressor,Monodelphis domestica,gray short-tailed opossum,XM_056807464.1,XP_056663442.1,,model,,default-seq
+130477563,BCL6,BCL6 transcription repressor,Euleptes europaea,tarantolino,XM_056849568.1,XP_056705546.1,,model,,default-seq
+130528749,bcl6aa,BCL6A transcription repressor a,Takifugu flavidus,sansaifugu,XM_057038435.1,XP_056894415.1,,model,,default-seq
+130549561,bcl6aa,BCL6A transcription repressor a,Triplophysa rosa,,XM_057326794.1,XP_057182777.1,,model,,default-seq
+130579651,BCL6,BCL6 transcription repressor,Malurus melanocephalus,red-backed fairy wren,XM_057376607.1,XP_057232590.1,,model,,default-seq
+130608950,BCL6,BCL6 transcription repressor,Pezoporus wallicus,ground parrot,XM_057427437.1,XP_057283420.1,,model,,default-seq
+130855134,BCL6,BCL6 transcription repressor,Hippopotamus amphibius kiboko,,XM_057738157.1,XP_057594140.1,,model,,default-seq
+130871156,Bcl6,BCL6 transcription repressor,Chionomys nivalis,European snow vole,XM_057764440.1,XP_057620423.1,,model,,default-seq
+130918612,bcl6aa,BCL6A transcription repressor a,Corythoichthys intestinalis,scribbled pipefish,XM_057840455.1,XP_057696438.1,,model,,default-seq
+131087373,BCL6,BCL6 transcription repressor,Melospiza georgiana,,XM_058030994.1,XP_057886977.1,,model,,default-seq
+131129866,bcl6aa,BCL6A transcription repressor a,Doryrhamphus excisus,bluestripe pipefish,XM_058073789.1,XP_057929772.1,,model,,default-seq
+131200711,BCL6,BCL6 transcription repressor,Ahaetulla prasina,,XM_058187891.1,XP_058043874.1,,model,,default-seq
+131361783,bcl6aa,BCL6A transcription repressor a,Hemibagrus wyckioides,,XM_058403332.1,XP_058259315.1,,model,,default-seq
+131414873,BCL6,BCL6 transcription repressor,Diceros bicornis minor,,XM_058556134.1,XP_058412117.1,,model,,default-seq
+131466065,bcl6aa,BCL6A transcription repressor a,Solea solea,common sole,XM_058639134.1,XP_058495117.1,,model,,default-seq
+131512312,BCL6,BCL6 transcription repressor,Neofelis nebulosa,Clouded leopard,XM_058730815.1,XP_058586798.1,,model,,default-seq
+131542688,bcl6aa,BCL6A transcription repressor a,Onychostoma macrolepis,,XM_058779601.1,XP_058635584.1,,model,,default-seq
+131562244,BCL6,BCL6 transcription repressor,Ammospiza caudacuta,,XM_058811834.1,XP_058667817.1,,model,,default-seq
+131581838,BCL6,BCL6 transcription repressor,Poecile atricapillus,Black-capped chickadee,XM_058844538.1,XP_058700521.1,,model,,default-seq
+131757466,BCL6,BCL6 transcription repressor,Kogia breviceps,pygmy sperm whale,XM_059064959.1,XP_058920942.1,,model,,default-seq
+131824739,BCL6,BCL6 transcription repressor,Mustela lutreola,European mink,XM_059163169.1,XP_059019152.1,,model,,default-seq
+131922336,Bcl6,BCL6 transcription repressor,Peromyscus eremicus,cactus mouse,XM_059277119.1,XP_059133102.1,,model,,default-seq
+131978222,bcl6aa,BCL6A transcription repressor a,Centropristis striata,black seabass,XM_059341785.1,XP_059197768.1,,model,,default-seq
+132011943,BCL6,BCL6 transcription repressor,Mustela nigripes,black-footed ferret,XM_059391303.1,XP_059247286.1,,model,,default-seq
+132077616,BCL6,BCL6 transcription repressor,Ammospiza nelsoni,,XM_059479432.1,XP_059335415.1,,model,,default-seq
+132230224,BCL6,BCL6 transcription repressor,Myotis daubentonii,Daubenton's bat,XM_059687342.1,XP_059543325.1,,model,,default-seq
+132331752,BCL6,BCL6 transcription repressor,Haemorhous mexicanus,house finch,XM_059855518.1,XP_059711501.1,,model,,default-seq
+132364715,BCL6,BCL6 transcription repressor,Balaenoptera ricei,Rice's whale,XM_059920748.1,XP_059776731.1,,model,,default-seq
+132406048,bcl6aa,BCL6A transcription repressor a,Hypanus sabinus,Atlantic stingray,XM_059991227.1,XP_059847210.1,,model,,default-seq
+132424835,BCL6,BCL6 transcription repressor,Delphinus delphis,saddleback dolphin,XM_060010954.1,XP_059866937.1,,model,,default-seq
+132468774,bcl6aa,BCL6A transcription repressor a,Gadus macrocephalus,Pacific cod,XM_060066571.1,XP_059922554.1,,model,,default-seq
+132490748,BCL6,BCL6 transcription repressor,Mesoplodon densirostris,Blainville's beaked whale,XM_060099280.1,XP_059955263.1,,model,,default-seq
+132521074,BCL6,BCL6 transcription repressor,Lagenorhynchus albirostris,white-beaked dolphin,XM_060150261.1,XP_060006244.1,,model,,default-seq
+132574497,BCL6,BCL6 transcription repressor,Heteronotia binoei,prickly gecko,XM_060242853.1,XP_060098836.1,,model,,default-seq
+132683504,BCL6,BCL6 transcription repressor,Panthera onca,jaguar,XM_060639507.1,XP_060495490.1,,model,,default-seq
+132770373,BCL6,BCL6 transcription repressor,Anolis sagrei ordinatus,,XM_060767272.1,XP_060623255.1,,model,,default-seq
+132821824,bcl6aa,BCL6A transcription repressor a,Hemiscyllium ocellatum,epaulette shark,XM_060834664.1,XP_060690647.1,,model,,default-seq
+132844366,bcl6aa,BCL6A transcription repressor a,Tachysurus vachellii,,XM_060867726.1,XP_060723709.1,,model,,default-seq
+132885295,bcl6aa,BCL6A transcription repressor a,Neoarius graeffei,lesser salmon catfish,XM_060919809.1,XP_060775792.1,,model,,default-seq
+132956936,bcl6aa,BCL6A transcription repressor a,Labrus mixtus,cuckoo wrasse,XM_061030527.1,XP_060886510.1,,model,,default-seq
+133010815,bcl6aa,BCL6A transcription repressor a,Limanda limanda,common dab,XM_061078455.1,XP_060934438.1,,model,,default-seq
+133073408,BCL6,BCL6 transcription repressor,Dama dama,fallow deer,XM_061166802.1,XP_061022785.1,,model,,default-seq
+133093995,BCL6,BCL6 transcription repressor,Eubalaena glacialis,North Atlantic right whale,XM_061194358.1,XP_061050341.1,,model,,default-seq
+133127756,bcl6aa,BCL6A transcription repressor a,Conger conger,European conger,XM_061240896.1,XP_061096880.1,,model,,default-seq
+133166808,bcl6aa,BCL6A transcription repressor a,Syngnathus typhle,broad-nosed pipefish,XM_061297092.1,XP_061153076.1,,model,,default-seq
+133209905,BCL6,BCL6 transcription repressor,Neopsephotus bourkii,Bourke's parrot,XM_061348839.1,XP_061204823.1,,model,,default-seq
+133245378,BCL6,BCL6 transcription repressor,Bos javanicus,banteng,XM_061413260.1,XP_061269244.1,,model,,default-seq
+133268699,BCL6,BCL6 transcription repressor,Pezoporus flaviventris,,XM_061452184.1,XP_061308168.1,,model,,default-seq
+133389618,BCL6,BCL6 transcription repressor,Rhineura floridana,,XM_061637605.1,XP_061493589.1,,model,,default-seq
+133406305,bcl6aa,BCL6A transcription repressor a,Phycodurus eques,leafy seadragon,XM_061683818.1,XP_061539802.1,,model,,default-seq
+133458069,bcl6aa,BCL6A transcription repressor a,Cololabis saira,Pacific saury,XM_061737589.1,XP_061593573.1,,model,,default-seq
+133481137,bcl6aa,BCL6A transcription repressor a,Phyllopteryx taeniolatus,common seadragon,XM_061780154.1,XP_061636138.1,,model,,default-seq
+133503906,bcl6aa,BCL6A transcription repressor a,Syngnathoides biaculeatus,alligator pipefish,XM_061825896.1,XP_061681880.1,,model,,default-seq

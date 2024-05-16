@@ -1,0 +1,317 @@
+IQ-TREE 2.1.2 COVID-edition built Mar 30 2021
+
+Input file name: /Volumes/Expansion/MelnickLab/LIPSA/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 581716
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 33 sequences with 9444 nucleotide sites
+Number of constant sites: 7424 (= 78.6108% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 7424 (= 78.6108% of all sites)
+Number of parsimony informative sites: 1103
+Number of distinct site patterns: 1221
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: HKY+F+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+HKY+F+G4         -29706.656   59549.312 -  0.00201   59550.313 -   0.0021   60035.725 +    0.372
+TPM3+F+G4        -29702.484   59542.969 -   0.0479   59543.999 -   0.0494   60036.535 +    0.248
+TPM3u+F+G4       -29702.485   59542.969 -   0.0479   59544.000 -   0.0494   60036.535 +    0.248
+HKY+F+I+G4       -29704.671   59547.343 -  0.00538   59548.373 -  0.00555   60040.909 -   0.0279
+TPM2+F+G4        -29704.859   59547.718 -  0.00446   59548.749 -   0.0046   60041.284 -   0.0231
+TPM2u+F+G4       -29704.859   59547.718 -  0.00446   59548.749 -   0.0046   60041.284 -   0.0231
+TPM3u+F+I+G4     -29700.513   59541.025 +    0.127   59542.086 +    0.129   60041.744 -   0.0184
+TPM3+F+I+G4      -29700.513   59541.026 +    0.127   59542.087 +    0.129   60041.746 -   0.0183
+K3Pu+F+G4        -29706.153   59550.306 -  0.00122   59551.337 -  0.00126   60043.873 -  0.00634
+TN+F+G4          -29706.391   59550.783 - 0.000964   59551.813 - 0.000993   60044.349 -  0.00499
+TIM3+F+G4        -29702.230   59544.461 -   0.0227   59545.521 -   0.0231   60045.180 -   0.0033
+TPM2+F+I+G4      -29702.881   59545.761 -   0.0119   59546.822 -   0.0121   60046.481 -  0.00172
+TPM2u+F+I+G4     -29702.881   59545.761 -   0.0119   59546.822 -   0.0121   60046.481 -  0.00172
+K3Pu+F+I+G4      -29704.165   59548.330 -  0.00329   59549.391 -  0.00334   60049.050 - 0.000476
+TVM+F+G4         -29699.800   59541.600 +    0.095   59542.691 +    0.095   60049.473 - 0.000385
+TN+F+I+G4        -29704.411   59548.821 -  0.00257   59549.882 -  0.00261   60049.541 - 0.000372
+TIM2+F+G4        -29704.581   59549.162 -  0.00217   59550.222 -   0.0022   60049.881 - 0.000314
+TIM3+F+I+G4      -29700.264   59542.527 +   0.0598   59543.618 +   0.0598   60050.400 - 0.000242
+TIM+F+G4         -29705.898   59551.796 - 0.000581   59552.857 - 0.000589   60052.516 - 8.41e-05
+TVM+F+I+G4       -29697.835   59539.670 +     0.25   59540.791 +    0.246   60054.695 - 2.83e-05
+TIM2+F+I+G4      -29702.607   59547.214 -  0.00574   59548.305 -  0.00574   60055.087 - 2.33e-05
+TIM+F+I+G4       -29703.915   59549.830 -  0.00155   59550.921 -  0.00155   60057.703 - 6.29e-06
+GTR+F+G4         -29699.534   59543.068 -   0.0456   59544.190 -   0.0449   60058.094 - 5.17e-06
+GTR+F+I+G4       -29697.573   59541.146 +    0.119   59542.299 +    0.116   60063.325 - 3.78e-07
+GTR+F+I          -29709.397   59562.794 - 2.38e-06   59563.916 - 2.34e-06   60077.820 - 2.69e-10
+GTR+F+R2         -29706.405   59558.810 - 1.74e-05   59559.963 - 1.69e-05   60080.989 - 5.52e-11
+GTR+F+R3         -29700.933   59551.865 - 0.000561   59553.082 - 0.000527   60088.351 - 1.39e-12
+TNe+G4           -29818.135   59768.271 - 5.72e-51   59769.214 - 6.15e-51   60240.378 - 1.35e-45
+K2P+G4           -29823.278   59776.555 - 9.08e-53   59777.470 - 9.91e-53   60241.509 - 7.68e-46
+TNe+I+G4         -29816.003   59766.006 - 1.77e-50   59766.978 - 1.88e-50   60245.266 - 1.17e-46
+K2P+I+G4         -29821.127   59774.254 - 2.87e-52   59775.197 - 3.09e-52   60246.361 - 6.79e-47
+TIM3e+G4         -29816.989   59767.979 - 6.61e-51   59768.951 - 7.02e-51   60247.239 - 4.38e-47
+TIMe+G4          -29817.338   59768.677 - 4.67e-51   59769.649 - 4.95e-51   60247.937 - 3.09e-47
+K3P+G4           -29822.480   59776.960 - 7.42e-53   59777.903 - 7.99e-53   60249.067 - 1.76e-47
+TIM2e+G4         -29817.943   59769.885 - 2.55e-51   59770.857 - 2.71e-51   60249.145 - 1.69e-47
+TIM3e+I+G4       -29814.869   59765.739 - 2.03e-50   59766.740 - 2.12e-50   60252.152 - 3.75e-48
+TIMe+I+G4        -29815.203   59766.407 - 1.45e-50   59767.408 - 1.52e-50   60252.820 - 2.69e-48
+K3P+I+G4         -29820.328   59774.655 - 2.35e-52   59775.627 - 2.49e-52   60253.915 - 1.55e-48
+TIM2e+I+G4       -29815.805   59767.609 - 7.96e-51   59768.610 - 8.32e-51   60254.022 - 1.47e-48
+SYM+G4           -29815.859   59769.718 - 2.77e-51   59770.748 - 2.86e-51   60263.284 - 1.44e-50
+TVMe+G4          -29821.019   59778.039 - 4.33e-53   59779.040 - 4.52e-53   60264.452 - 8.01e-51
+SYM+I+G4         -29813.732   59767.464 - 8.55e-51   59768.525 - 8.68e-51   60268.184 - 1.24e-51
+TVMe+I+G4        -29818.875   59775.750 - 1.36e-52   59776.781 -  1.4e-52   60269.317 - 7.04e-52
+GTR+F            -29938.742   60019.485 - 1.61e-105   60020.576 - 1.61e-105   60527.357 - 6.52e-108
+F81+F+G4         -30556.043   61246.086 -        0   61247.057 -        0   61725.346 -        0
+F81+F+I+G4       -30554.339   61244.678 -        0   61245.679 -        0   61731.091 -        0
+JC+G4            -30670.020   61468.041 -        0   61468.928 -        0   61925.841 -        0
+JC+I+G4          -30668.266   61466.532 -        0   61467.447 -        0   61931.486 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: HKY+F+G4
+
+Rate parameter R:
+
+  A-C: 1.0000
+  A-G: 5.4049
+  A-T: 1.0000
+  C-G: 1.0000
+  C-T: 5.4049
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3068
+  pi(C) = 0.2147
+  pi(G) = 0.2262
+  pi(T) = 0.2523
+
+Rate matrix Q:
+
+  A   -0.9215    0.1171    0.6668    0.1376
+  C    0.1674    -1.034    0.1234    0.7436
+  G    0.9045    0.1171    -1.159    0.1376
+  T    0.1674    0.6328    0.1234   -0.9236
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.44
+
+ Category  Relative_rate  Proportion
+  1         0.02287        0.25
+  2         0.2109         0.25
+  3         0.7711         0.25
+  4         2.995          0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -29706.6560 (s.e. 323.5230)
+Unconstrained log-likelihood (without tree): -37753.3845
+Number of free parameters (#branches + #model parameters): 68
+Akaike information criterion (AIC) score: 59549.3119
+Corrected Akaike information criterion (AICc) score: 59550.3129
+Bayesian information criterion (BIC) score: 60035.7251
+
+Total tree length (sum of branch lengths): 0.3104
+Sum of internal branch lengths: 0.1325 (42.6982% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA
+|
+|  +--XM_009428857_4_PREDICTED_Pan_troglodytes_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
++--| (100)
+|  +--XM_008951999_4_PREDICTED_Pan_paniscus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X3_mRNA
+|
+|  +--XM_031007795_2_PREDICTED_Gorilla_gorilla_gorilla_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
++--| (100)
+   |     +--XM_024232346_2_PREDICTED_Pongo_abelii_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+   |  +--| (100)
+   |  |  +--XM_054451786_1_PREDICTED_Pongo_pygmaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+   +--| (100)
+      |        +--XM_030814260_1_PREDICTED_Nomascus_leucogenys_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      |     +--| (73)
+      |     |  +--XM_032175320_2_PREDICTED_Hylobates_moloch_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      |  +--| (100)
+      |  |  +--XM_055278811_1_PREDICTED_Symphalangus_syndactylus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      +--| (99)
+         |                  +--XM_025390742_1_PREDICTED_Theropithecus_gelada_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |               +--| (99)
+         |               |  +--XM_021940444_2_PREDICTED_Papio_anubis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |            +--| (79)
+         |            |  |  +--XM_012034853_1_PREDICTED_Cercocebus_atys_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |            |  +--| (93)
+         |            |     +--XM_011989336_1_PREDICTED_Mandrillus_leucophaeus_MGA_MAX_dimerization_protein_MGA_mRNA
+         |         +--| (100)
+         |         |  |        +--XM_015141992_2_PREDICTED_Macaca_mulatta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |         |  |     +--| (97)
+         |         |  |     |  +--XM_045397180_1_PREDICTED_Macaca_fascicularis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |         |  |  +--| (96)
+         |         |  |  |  +--XM_011758612_2_PREDICTED_Macaca_nemestrina_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |         |  +--| (100)
+         |         |     +--XM_050799312_1_PREDICTED_Macaca_thibetana_thibetana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |      +--| (100)
+         |      |  +--XM_008016968_2_PREDICTED_Chlorocebus_sabaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  +---| (100)
+         |  |   |     +--XM_023198369_1_PREDICTED_Piliocolobus_tephrosceles_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  |   |  +--| (99)
+         |  |   |  |  +--XM_011961043_1_PREDICTED_Colobus_angolensis_palliatus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |  |   +--| (100)
+         |  |      |     +--XM_030921180_1_PREDICTED_Rhinopithecus_roxellana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  |      |  +--| (100)
+         |  |      |  |  +--XM_017895420_1_PREDICTED_Rhinopithecus_bieti_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |  |      +--| (99)
+         |  |         +--XM_033190487_1_PREDICTED_Trachypithecus_francoisi_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         +--| (100)
+            |               +----------XM_021668798_1_PREDICTED_Aotus_nancymaae_MGA_MAX_dimerization_protein_MGA_mRNA
+            |            +--| (69)
+            |            |  |  +--XM_032251206_1_PREDICTED_Sapajus_apella_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            |            |  +--| (100)
+            |            |     +--XM_037739443_1_PREDICTED_Cebus_imitator_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            |  +---------| (100)
+            |  |         +----XM_035259730_2_PREDICTED_Callithrix_jacchus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            +--| (100)
+               |                           +-------XM_045538785_1_PREDICTED_Lemur_catta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+               |                      +----| (100)
+               |                      |    |  +--------XM_012766487_2_PREDICTED_Microcebus_murinus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+               |                      |    +--| (70)
+               |                      |       +-------XM_012649125_1_PREDICTED_Propithecus_coquereli_MGA_MAX_dimerization_protein_MGA_mRNA
+               |            +---------| (100)
+               |            |         |                  +------XM_023514264_1_PREDICTED_Otolemur_garnettii_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+               |            |         +------------------| (100)
+               |            |                            +--------XM_053593491_1_PREDICTED_Nycticebus_coucang_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+               +------------| (100)
+                            +----------------------------XM_008048426_2_PREDICTED_Carlito_syrichta_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+
+Tree in newick format:
+
+(NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA:0.0024787800,(XM_009428857_4_PREDICTED_Pan_troglodytes_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0006426885,XM_008951999_4_PREDICTED_Pan_paniscus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X3_mRNA:0.0010735041)100:0.0006436599,(XM_031007795_2_PREDICTED_Gorilla_gorilla_gorilla_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0035321280,((XM_024232346_2_PREDICTED_Pongo_abelii_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0004057426,XM_054451786_1_PREDICTED_Pongo_pygmaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0003441180)100:0.0040024169,(((XM_030814260_1_PREDICTED_Nomascus_leucogenys_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0014856517,XM_032175320_2_PREDICTED_Hylobates_moloch_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0014161037)73:0.0001762856,XM_055278811_1_PREDICTED_Symphalangus_syndactylus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0012334625)100:0.0045585096,((((((XM_025390742_1_PREDICTED_Theropithecus_gelada_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0013963750,XM_021940444_2_PREDICTED_Papio_anubis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0010728580)99:0.0007791817,(XM_012034853_1_PREDICTED_Cercocebus_atys_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0015511291,XM_011989336_1_PREDICTED_Mandrillus_leucophaeus_MGA_MAX_dimerization_protein_MGA_mRNA:0.0028686614)93:0.0004912768)79:0.0002485249,(((XM_015141992_2_PREDICTED_Macaca_mulatta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0002134047,XM_045397180_1_PREDICTED_Macaca_fascicularis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0001066156)97:0.0003200142,XM_011758612_2_PREDICTED_Macaca_nemestrina_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0015007927)96:0.0003205109,XM_050799312_1_PREDICTED_Macaca_thibetana_thibetana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0013929945)100:0.0011137974)100:0.0008247105,XM_008016968_2_PREDICTED_Chlorocebus_sabaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0035521449)100:0.0013766693,((XM_023198369_1_PREDICTED_Piliocolobus_tephrosceles_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0024917115,XM_011961043_1_PREDICTED_Colobus_angolensis_palliatus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0034527231)99:0.0008510967,((XM_030921180_1_PREDICTED_Rhinopithecus_roxellana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0008579320,XM_017895420_1_PREDICTED_Rhinopithecus_bieti_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0003198790)100:0.0009694576,XM_033190487_1_PREDICTED_Trachypithecus_francoisi_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0019324219)99:0.0005361531)100:0.0015456892)100:0.0070400121,(((XM_021668798_1_PREDICTED_Aotus_nancymaae_MGA_MAX_dimerization_protein_MGA_mRNA:0.0172864842,(XM_032251206_1_PREDICTED_Sapajus_apella_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0016451485,XM_037739443_1_PREDICTED_Cebus_imitator_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0020620261)100:0.0045322462)69:0.0002504256,XM_035259730_2_PREDICTED_Callithrix_jacchus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0082018642)100:0.0154591006,(((XM_045538785_1_PREDICTED_Lemur_catta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0135780346,(XM_012766487_2_PREDICTED_Microcebus_murinus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0152745724,XM_012649125_1_PREDICTED_Propithecus_coquereli_MGA_MAX_dimerization_protein_MGA_mRNA:0.0126536823)70:0.0006497262)100:0.0087198848,(XM_023514264_1_PREDICTED_Otolemur_garnettii_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0110315716,XM_053593491_1_PREDICTED_Nycticebus_coucang_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0152603338)100:0.0294072759)100:0.0157728320,XM_008048426_2_PREDICTED_Carlito_syrichta_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0455664456)100:0.0210571413)100:0.0046832113)100:0.0019820986)99:0.0009857404)100:0.0018139879)100:0.0014364231);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -29706.655952
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA
+|
+|  +--XM_009428857_4_PREDICTED_Pan_troglodytes_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
++--| (100)
+|  +--XM_008951999_4_PREDICTED_Pan_paniscus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X3_mRNA
+|
+|  +--XM_031007795_2_PREDICTED_Gorilla_gorilla_gorilla_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
++--| (100)
+   |     +--XM_024232346_2_PREDICTED_Pongo_abelii_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+   |  +--| (100)
+   |  |  +--XM_054451786_1_PREDICTED_Pongo_pygmaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+   +--| (100)
+      |        +--XM_030814260_1_PREDICTED_Nomascus_leucogenys_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      |     +--| (73)
+      |     |  +--XM_032175320_2_PREDICTED_Hylobates_moloch_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      |  +--| (100)
+      |  |  +--XM_055278811_1_PREDICTED_Symphalangus_syndactylus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+      +--| (99)
+         |                  +--XM_025390742_1_PREDICTED_Theropithecus_gelada_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |               +--| (99)
+         |               |  +--XM_021940444_2_PREDICTED_Papio_anubis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |            +--| (79)
+         |            |  |  +--XM_012034853_1_PREDICTED_Cercocebus_atys_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |            |  +--| (93)
+         |            |     +--XM_011989336_1_PREDICTED_Mandrillus_leucophaeus_MGA_MAX_dimerization_protein_MGA_mRNA
+         |         +--| (100)
+         |         |  |        +--XM_015141992_2_PREDICTED_Macaca_mulatta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |         |  |     +--| (97)
+         |         |  |     |  +--XM_045397180_1_PREDICTED_Macaca_fascicularis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |         |  |  +--| (96)
+         |         |  |  |  +--XM_011758612_2_PREDICTED_Macaca_nemestrina_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |         |  +--| (100)
+         |         |     +--XM_050799312_1_PREDICTED_Macaca_thibetana_thibetana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |      +--| (100)
+         |      |  +--XM_008016968_2_PREDICTED_Chlorocebus_sabaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  +---| (100)
+         |  |   |     +--XM_023198369_1_PREDICTED_Piliocolobus_tephrosceles_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  |   |  +--| (99)
+         |  |   |  |  +--XM_011961043_1_PREDICTED_Colobus_angolensis_palliatus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |  |   +--| (100)
+         |  |      |     +--XM_030921180_1_PREDICTED_Rhinopithecus_roxellana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         |  |      |  +--| (100)
+         |  |      |  |  +--XM_017895420_1_PREDICTED_Rhinopithecus_bieti_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+         |  |      +--| (99)
+         |  |         +--XM_033190487_1_PREDICTED_Trachypithecus_francoisi_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+         +--| (100)
+            |               +----------XM_021668798_1_PREDICTED_Aotus_nancymaae_MGA_MAX_dimerization_protein_MGA_mRNA
+            |            +--| (69)
+            |            |  |  +--XM_032251206_1_PREDICTED_Sapajus_apella_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            |            |  +--| (100)
+            |            |     +--XM_037739443_1_PREDICTED_Cebus_imitator_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            |  +---------| (100)
+            |  |         +----XM_035259730_2_PREDICTED_Callithrix_jacchus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+            +--| (100)
+               |                           +-------XM_045538785_1_PREDICTED_Lemur_catta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+               |                      +----| (100)
+               |                      |    |  +--------XM_012766487_2_PREDICTED_Microcebus_murinus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+               |                      |    +--| (70)
+               |                      |       +-------XM_012649125_1_PREDICTED_Propithecus_coquereli_MGA_MAX_dimerization_protein_MGA_mRNA
+               |            +---------| (100)
+               |            |         |                  +------XM_023514264_1_PREDICTED_Otolemur_garnettii_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+               |            |         +------------------| (100)
+               |            |                            +--------XM_053593491_1_PREDICTED_Nycticebus_coucang_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA
+               +------------| (100)
+                            +----------------------------XM_008048426_2_PREDICTED_Carlito_syrichta_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA
+
+
+Consensus tree in newick format: 
+
+(NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA:0.0024791273,(XM_009428857_4_PREDICTED_Pan_troglodytes_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0006432187,XM_008951999_4_PREDICTED_Pan_paniscus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X3_mRNA:0.0010742230)100:0.0006441752,(XM_031007795_2_PREDICTED_Gorilla_gorilla_gorilla_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0035315663,((XM_024232346_2_PREDICTED_Pongo_abelii_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0004056871,XM_054451786_1_PREDICTED_Pongo_pygmaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0003435186)100:0.0040023502,(((XM_030814260_1_PREDICTED_Nomascus_leucogenys_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0014857790,XM_032175320_2_PREDICTED_Hylobates_moloch_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0014163247)73:0.0001769353,XM_055278811_1_PREDICTED_Symphalangus_syndactylus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0012327113)100:0.0045570917,((((((XM_025390742_1_PREDICTED_Theropithecus_gelada_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0013971700,XM_021940444_2_PREDICTED_Papio_anubis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0010733297)99:0.0007797206,(XM_012034853_1_PREDICTED_Cercocebus_atys_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0015513954,XM_011989336_1_PREDICTED_Mandrillus_leucophaeus_MGA_MAX_dimerization_protein_MGA_mRNA:0.0028696096)93:0.0004909610)79:0.0002486496,(((XM_015141992_2_PREDICTED_Macaca_mulatta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0002139739,XM_045397180_1_PREDICTED_Macaca_fascicularis_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0001067881)97:0.0003208633,XM_011758612_2_PREDICTED_Macaca_nemestrina_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0015018419)96:0.0003213018,XM_050799312_1_PREDICTED_Macaca_thibetana_thibetana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0013939232)100:0.0011131527)100:0.0008251859,XM_008016968_2_PREDICTED_Chlorocebus_sabaeus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0035523419)100:0.0013755941,((XM_023198369_1_PREDICTED_Piliocolobus_tephrosceles_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0024923229,XM_011961043_1_PREDICTED_Colobus_angolensis_palliatus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0034534427)99:0.0008506130,((XM_030921180_1_PREDICTED_Rhinopithecus_roxellana_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0008579531,XM_017895420_1_PREDICTED_Rhinopithecus_bieti_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0003206234)100:0.0009693620,XM_033190487_1_PREDICTED_Trachypithecus_francoisi_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0019326958)99:0.0005363684)100:0.0015460303)100:0.0070400980,(((XM_021668798_1_PREDICTED_Aotus_nancymaae_MGA_MAX_dimerization_protein_MGA_mRNA:0.0172856558,(XM_032251206_1_PREDICTED_Sapajus_apella_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0016437956,XM_037739443_1_PREDICTED_Cebus_imitator_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0020613809)100:0.0045325013)69:0.0002498715,XM_035259730_2_PREDICTED_Callithrix_jacchus_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0082026799)100:0.0154603451,(((XM_045538785_1_PREDICTED_Lemur_catta_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0135776690,(XM_012766487_2_PREDICTED_Microcebus_murinus_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0152748324,XM_012649125_1_PREDICTED_Propithecus_coquereli_MGA_MAX_dimerization_protein_MGA_mRNA:0.0126534445)70:0.0006490238)100:0.0087202022,(XM_023514264_1_PREDICTED_Otolemur_garnettii_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0110314280,XM_053593491_1_PREDICTED_Nycticebus_coucang_MAX_dimerization_protein_MGA_MGA_transcript_variant_X1_mRNA:0.0152612130)100:0.0294071695)100:0.0157730807,XM_008048426_2_PREDICTED_Carlito_syrichta_MGA_MAX_dimerization_protein_MGA_transcript_variant_X1_mRNA:0.0455656586)100:0.0210562483)100:0.0046822799)100:0.0019812832)99:0.0009856558)100:0.0018150000)100:0.0014370028);
+
+TIME STAMP
+----------
+
+Date and time: Tue May 14 15:08:01 2024
+Total CPU time used: 19.026667 seconds (0h:0m:19s)
+Total wall-clock time used: 6.524682045 seconds (0h:0m:6s)
+

@@ -1,0 +1,8 @@
+{"__default__": 
+  {
+  "cluster" : "sbatch",
+  "nodes": 1,
+  "ppn": 4,
+  "name": "panda",
+  "walltime": "168:00:00"
+}}

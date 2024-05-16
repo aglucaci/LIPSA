@@ -1,0 +1,19 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 8
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Fri Apr 19 10:36:03 2024]
+rule AssignLineages:
+    input: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/LIPSA/results/GnathostomataBCL6/GnathoBCL6.RDP.fasta.treefile.labelled
+    jobid: 0
+    reason: Forced execution
+    wildcards: sample=GnathoBCL6.RDP.fasta
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+[Fri Apr 19 10:36:04 2024]
+Finished job 0.
+1 of 1 steps (100%) done

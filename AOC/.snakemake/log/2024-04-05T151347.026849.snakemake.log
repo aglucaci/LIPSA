@@ -1,0 +1,204 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+FEL             7
+all             1
+fasttree        6
+total          14
+
+Select jobs to execute...
+
+[Fri Apr  5 15:13:47 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    jobid: 11
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Fri Apr  5 15:13:47 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    jobid: 13
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Fri Apr  5 15:13:47 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    jobid: 8
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+
+[Fri Apr  5 15:13:47 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    jobid: 10
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 15:13:49 2024]
+Finished job 8.
+1 of 14 steps (7%) done
+Select jobs to execute...
+
+[Fri Apr  5 15:13:49 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json
+    jobid: 16
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json
+    wildcards: sample=GnathostomataBCL6.2.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 15:13:55 2024]
+Finished job 11.
+2 of 14 steps (14%) done
+Select jobs to execute...
+
+[Fri Apr  5 15:13:55 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json
+    jobid: 18
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.4.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 15:14:02 2024]
+Finished job 13.
+3 of 14 steps (21%) done
+Select jobs to execute...
+
+[Fri Apr  5 15:14:02 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json
+    jobid: 20
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.6.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 15:14:14 2024]
+Finished job 10.
+4 of 14 steps (29%) done
+Select jobs to execute...
+
+[Fri Apr  5 15:14:14 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json
+    jobid: 17
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.3.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 18:32:36 2024]
+Finished job 18.
+5 of 14 steps (36%) done
+Select jobs to execute...
+
+[Fri Apr  5 18:32:36 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json
+    jobid: 15
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 20:08:33 2024]
+Finished job 20.
+6 of 14 steps (43%) done
+Select jobs to execute...
+
+[Fri Apr  5 20:08:33 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    jobid: 12
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 20:08:35 2024]
+Finished job 12.
+7 of 14 steps (50%) done
+Select jobs to execute...
+
+[Fri Apr  5 20:08:35 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json
+    jobid: 19
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.5.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 20:34:05 2024]
+Finished job 19.
+8 of 14 steps (57%) done
+Select jobs to execute...
+
+[Fri Apr  5 20:34:05 2024]
+rule fasttree:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    jobid: 14
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile; Code has changed since last execution
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 20:34:10 2024]
+Finished job 14.
+9 of 14 steps (64%) done
+Select jobs to execute...
+
+[Fri Apr  5 20:34:10 2024]
+rule FEL:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json
+    jobid: 21
+    reason: Missing output files: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json; Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile
+    wildcards: sample=GnathostomataBCL6.7.codon.fas
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 20:38:11 2024]
+Finished job 15.
+10 of 14 steps (71%) done
+[Fri Apr  5 21:54:47 2024]
+Finished job 21.
+11 of 14 steps (79%) done
+[Fri Apr  5 22:12:22 2024]
+Finished job 16.
+12 of 14 steps (86%) done
+[Fri Apr  5 23:32:16 2024]
+Finished job 17.
+13 of 14 steps (93%) done
+Select jobs to execute...
+
+[Fri Apr  5 23:32:16 2024]
+localrule all:
+    input: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.dst, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json
+    jobid: 0
+    reason: Input files updated by another job: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.6.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.2.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.5.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.3.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.7.codon.fas.treefile, /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.4.codon.fas.FEL.json
+    resources: tmpdir=/scratchLocal/agl4001_11164823
+
+[Fri Apr  5 23:32:16 2024]
+Finished job 0.
+14 of 14 steps (100%) done
+Complete log: .snakemake/log/2024-04-05T151347.026849.snakemake.log

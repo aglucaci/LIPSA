@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in rule FEL in file /athena/melnicklab/users/scratch/agl4001/AOC/Snakefile_Recombinants, line 147:
+Missing input files for rule FEL:
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.FEL.json
+    wildcards: sample=GnathostomataBCL6.1.codon.fas
+    affected files:
+        /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.1.codon.fas.tree.nwk

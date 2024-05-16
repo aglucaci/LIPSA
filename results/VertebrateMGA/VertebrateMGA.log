@@ -1,0 +1,759 @@
+
+# Average sequence length is (PROTEIN AA ungapped): 3033.183970856102
+# Average sequence length is (NUCLEOTIDE NUC): 9099.551912568306
+
+
+# Processing: NP_001387154.1 MAX gene-associated protein isoform 3 [Homo sapiens]
+# Species: Homo sapiens
+# Match: NM_001400225.1 Homo sapiens MAX dimerization protein MGA (MGA), transcript variant 3, mRNA 
+
+
+
+# Processing: NP_038748.2 MAX gene-associated protein isoform 1 [Mus musculus]
+# Species: Mus musculus
+# Match: NM_013720.2 Mus musculus MAX gene associated (Mga), transcript variant 1, mRNA 
+
+
+
+# Processing: XP_025006625.2 MAX gene-associated protein isoform X1 [Gallus gallus]
+# Species: Gallus gallus
+# Match: XM_025150857.3 PREDICTED: Gallus gallus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009427132.2 MAX gene-associated protein isoform X1 [Pan troglodytes]
+# Species: Pan troglodytes
+# Match: XM_009428857.4 PREDICTED: Pan troglodytes MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013964894.1 MAX gene-associated protein isoform X17 [Canis lupus familiaris]
+# Species: Canis lupus familiaris
+# Match: XM_014109419.3 PREDICTED: Canis lupus familiaris MAX dimerization protein MGA (MGA), transcript variant X29, mRNA 
+
+
+
+# Processing: XP_006234859.1 MAX gene-associated protein isoform X1 [Rattus norvegicus]
+# Species: Rattus norvegicus
+# Match: XM_006234797.4 PREDICTED: Rattus norvegicus MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_024853386.1 MAX gene-associated protein isoform X1 [Bos taurus]
+# Species: Bos taurus
+# Match: XM_024997618.2 PREDICTED: Bos taurus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005158676.1 MAX gene-associated protein isoform X1 [Danio rerio]
+# Species: Danio rerio
+# Match: XM_005158619.4 PREDICTED: Danio rerio MGA, MAX dimerization protein a (mgaa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014997478.1 MAX gene-associated protein isoform X1 [Macaca mulatta]
+# Species: Macaca mulatta
+# Match: XM_015141992.2 PREDICTED: Macaca mulatta MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056666275.1 MAX gene-associated protein isoform X1 [Monodelphis domestica]
+# Species: Monodelphis domestica
+# Match: XM_056810297.1 PREDICTED: Monodelphis domestica MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_012824488.2 MAX gene-associated protein [Xenopus tropicalis]
+# Species: Xenopus tropicalis
+# Match: XM_012969034.3 PREDICTED: Xenopus tropicalis MGA, MAX dimerization protein (mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023475209.1 MAX gene-associated protein isoform X1 [Equus caballus]
+# Species: Equus caballus
+# Match: XM_023619441.1 PREDICTED: Equus caballus MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039769795.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Ornithorhynchus anatinus]
+# Skipping this sequence due to quality issues XP_039769795.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Ornithorhynchus anatinus]
+
+
+# Processing: XP_020953037.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Sus scrofa]
+# Skipping this sequence due to quality issues XP_020953037.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Sus scrofa]
+
+
+# Processing: XP_024088114.2 MAX gene-associated protein isoform X1 [Pongo abelii]
+# Species: Pongo abelii
+# Match: XM_024232346.2 PREDICTED: Pongo abelii MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030130191.3 LOW QUALITY PROTEIN: MAX gene-associated protein [Taeniopygia guttata]
+# Skipping this sequence due to quality issues XP_030130191.3 LOW QUALITY PROTEIN: MAX gene-associated protein [Taeniopygia guttata]
+
+
+# Processing: XP_008267363.1 MAX gene-associated protein isoform X1 [Oryctolagus cuniculus]
+# Species: Oryctolagus cuniculus
+# Match: XM_008269141.3 PREDICTED: Oryctolagus cuniculus MAX dimerization protein MGA (MGA), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_035115621.1 MAX gene-associated protein isoform X1 [Callithrix jacchus]
+# Species: Callithrix jacchus
+# Match: XM_035259730.2 PREDICTED: Callithrix jacchus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034516999.1 MAX gene-associated protein isoform X1 [Ailuropoda melanoleuca]
+# Species: Ailuropoda melanoleuca
+# Match: XM_034661108.1 PREDICTED: Ailuropoda melanoleuca MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008102509.1 PREDICTED: MAX gene-associated protein isoform X1 [Anolis carolinensis]
+# Species: Anolis carolinensis
+# Match: XM_008104302.2 PREDICTED: Anolis carolinensis MGA, MAX dimerization protein (mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030670120.1 MAX gene-associated protein isoform X1 [Nomascus leucogenys]
+# Species: Nomascus leucogenys
+# Match: XM_030814260.1 PREDICTED: Nomascus leucogenys MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023414450.1 MAX gene-associated protein isoform X1 [Loxodonta africana]
+# Species: Loxodonta africana
+# Match: XM_023558682.1 PREDICTED: Loxodonta africana MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019204044.1 uncharacterized protein LOC100701498 [Oreochromis niloticus]
+# Species: Oreochromis niloticus
+# Match: XM_019348499.2 PREDICTED: Oreochromis niloticus uncharacterized LOC100701498 (LOC100701498), mRNA 
+
+
+
+# Processing: XP_023423281.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Cavia porcellus]
+# Skipping this sequence due to quality issues XP_023423281.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Cavia porcellus]
+
+
+# Processing: XP_027277940.1 MAX gene-associated protein isoform X1 [Cricetulus griseus]
+# Species: Cricetulus griseus
+# Match: XM_027422139.2 PREDICTED: Cricetulus griseus MAX dimerization protein MGA (Mga), transcript variant X7, mRNA 
+
+
+
+# Processing: XP_031807985.1 MAX gene-associated protein isoform X1 [Sarcophilus harrisii]
+# Species: Sarcophilus harrisii
+# Match: XM_031952125.1 PREDICTED: Sarcophilus harrisii MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023370032.1 MAX gene-associated protein isoform X1 [Otolemur garnettii]
+# Species: Otolemur garnettii
+# Match: XM_023514264.1 PREDICTED: Otolemur garnettii MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008950247.2 MAX gene-associated protein isoform X1 [Pan paniscus]
+# Species: Pan paniscus
+# Match: XM_008951999.4 PREDICTED: Pan paniscus MAX dimerization protein MGA (MGA), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_021796136.2 MAX gene-associated protein isoform X1 [Papio anubis]
+# Species: Papio anubis
+# Match: XM_021940444.2 PREDICTED: Papio anubis MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039318800.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Saimiri boliviensis boliviensis]
+# Skipping this sequence due to quality issues XP_039318800.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Saimiri boliviensis boliviensis]
+
+
+# Processing: XP_029688827.1 MAX gene-associated protein-like isoform X1 [Takifugu rubripes]
+# Species: Takifugu rubripes
+# Match: XM_029832967.1 PREDICTED: Takifugu rubripes MAX gene-associated protein-like (LOC101076865), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044915435.1 MAX gene-associated protein isoform X1 [Felis catus]
+# Species: Felis catus
+# Match: XM_045059500.1 PREDICTED: Felis catus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042108942.1 MAX gene-associated protein isoform X1 [Ovis aries]
+# Species: Ovis aries
+# Match: XM_042253008.1 PREDICTED: Ovis aries MAX dimerization protein MGA (MGA), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_030863655.2 MAX gene-associated protein isoform X1 [Gorilla gorilla gorilla]
+# Species: Gorilla gorilla gorilla
+# Match: XM_031007795.2 PREDICTED: Gorilla gorilla gorilla MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023807807.1 uncharacterized protein LOC101164266 isoform X1 [Oryzias latipes]
+# Species: Oryzias latipes
+# Match: XM_023952039.1 PREDICTED: Oryzias latipes uncharacterized LOC101164266 (LOC101164266), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033291607.1 MAX gene-associated protein isoform X1 [Orcinus orca]
+# Species: Orcinus orca
+# Match: XM_033435716.2 PREDICTED: Orcinus orca MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019790882.1 MAX gene-associated protein isoform X1 [Tursiops truncatus]
+# Species: Tursiops truncatus
+# Match: XM_019935323.2 PREDICTED: Tursiops truncatus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023590912.1 MAX gene-associated protein isoform X1 [Trichechus manatus latirostris]
+# Species: Trichechus manatus latirostris
+# Match: XM_023735144.1 PREDICTED: Trichechus manatus latirostris MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004400461.1 PREDICTED: MAX gene-associated protein isoform X1 [Odobenus rosmarus divergens]
+# Species: Odobenus rosmarus divergens
+# Match: XM_004400404.2 PREDICTED: Odobenus rosmarus divergens MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014636071.1 PREDICTED: MAX gene-associated protein isoform X1 [Ceratotherium simum simum]
+# Species: Ceratotherium simum simum
+# Match: XM_014780585.1 PREDICTED: Ceratotherium simum simum MGA, MAX dimerization protein (LOC101398914), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058149942.1 MAX gene-associated protein isoform X1 [Dasypus novemcinctus]
+# Species: Dasypus novemcinctus
+# Match: XM_058293959.1 PREDICTED: Dasypus novemcinctus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004569954.1 uncharacterized protein LOC101465247 isoform X1 [Maylandia zebra]
+# Species: Maylandia zebra
+# Match: XM_004569897.4 PREDICTED: Maylandia zebra uncharacterized LOC101465247 (LOC101465247), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058522004.1 MAX gene-associated protein isoform X1 [Ochotona princeps]
+# Species: Ochotona princeps
+# Match: XM_058666021.1 PREDICTED: Ochotona princeps MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054986527.1 MAX gene-associated protein isoform X1 [Sorex araneus]
+# Species: Sorex araneus
+# Match: XM_055130552.1 PREDICTED: Sorex araneus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023567038.1 MAX gene-associated protein isoform X1 [Octodon degus]
+# Species: Octodon degus
+# Match: XM_023711270.1 PREDICTED: Octodon degus MGA, MAX dimerization protein (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045013210.1 MAX gene-associated protein isoform X1 [Jaculus jaculus]
+# Species: Jaculus jaculus
+# Match: XM_045157275.1 PREDICTED: Jaculus jaculus MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004687948.1 PREDICTED: MAX gene-associated protein isoform X1 [Condylura cristata]
+# Species: Condylura cristata
+# Match: XM_004687891.2 PREDICTED: Condylura cristata MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045144143.1 MAX gene-associated protein isoform X1 [Echinops telfairi]
+# Species: Echinops telfairi
+# Match: XM_045288208.1 PREDICTED: Echinops telfairi MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004751212.1 MAX gene-associated protein isoform X1 [Mustela putorius furo]
+# Species: Mustela putorius furo
+# Match: XM_004751155.3 PREDICTED: Mustela putorius furo MAX dimerization protein MGA (MGA), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_021097432.1 MAX gene-associated protein isoform X1 [Heterocephalus glaber]
+# Species: Heterocephalus glaber
+# Match: XM_021241773.1 PREDICTED: Heterocephalus glaber MGA, MAX dimerization protein (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027313275.1 MAX gene-associated protein isoform X1 [Anas platyrhynchos]
+# Species: Anas platyrhynchos
+# Match: XM_027457474.2 PREDICTED: Anas platyrhynchos MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005047077.1 PREDICTED: MAX gene-associated protein isoform X1 [Ficedula albicollis]
+# Species: Ficedula albicollis
+# Match: XM_005047020.1 PREDICTED: Ficedula albicollis MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040602005.1 MAX gene-associated protein isoform X1 [Mesocricetus auratus]
+# Species: Mesocricetus auratus
+# Match: XM_040746071.1 PREDICTED: Mesocricetus auratus MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030900373.2 MAX gene-associated protein [Melopsittacus undulatus]
+# Species: Melopsittacus undulatus
+# Match: XM_031044513.2 PREDICTED: Melopsittacus undulatus MAX dimerization protein MGA (LOC101872065), mRNA 
+
+
+
+# Processing: XP_055669661.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Falco peregrinus]
+# Skipping this sequence due to quality issues XP_055669661.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Falco peregrinus]
+
+
+# Processing: XP_008168136.1 MAX gene-associated protein isoform X1 [Chrysemys picta bellii]
+# Species: Chrysemys picta bellii
+# Match: XM_008169914.3 PREDICTED: Chrysemys picta bellii MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013214725.1 MAX gene-associated protein isoform X1 [Ictidomys tridecemlineatus]
+# Species: Ictidomys tridecemlineatus
+# Match: XM_013359271.3 PREDICTED: Ictidomys tridecemlineatus MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013208089.1 MAX gene-associated protein isoform X1 [Microtus ochrogaster]
+# Species: Microtus ochrogaster
+# Match: XM_013352635.2 PREDICTED: Microtus ochrogaster MGA, MAX dimerization protein (Mga), transcript variant X6, mRNA 
+
+
+
+# Processing: XP_013368029.1 PREDICTED: MAX gene-associated protein isoform X1 [Chinchilla lanigera]
+# Species: Chinchilla lanigera
+# Match: XM_013512575.1 PREDICTED: Chinchilla lanigera MGA, MAX dimerization protein (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030911661.1 MAX gene-associated protein [Geospiza fortis]
+# Species: Geospiza fortis
+# Match: XM_031055801.1 PREDICTED: Geospiza fortis MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_055571091.1 MAX gene-associated protein isoform X1 [Falco cherrug]
+# Species: Falco cherrug
+# Match: XM_055715116.1 PREDICTED: Falco cherrug MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014123188.1 MAX gene-associated protein isoform X1 [Zonotrichia albicollis]
+# Species: Zonotrichia albicollis
+# Match: XM_014267713.2 PREDICTED: Zonotrichia albicollis MGA, MAX dimerization protein (MGA), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_005502264.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Columba livia]
+# Skipping this sequence due to quality issues XP_005502264.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Columba livia]
+
+
+# Processing: XP_014107444.1 PREDICTED: MAX gene-associated protein isoform X1 [Pseudopodoces humilis]
+# Species: Pseudopodoces humilis
+# Match: XM_014251969.1 PREDICTED: Pseudopodoces humilis MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045253115.1 MAX gene-associated protein isoform X1 [Macaca fascicularis]
+# Species: Macaca fascicularis
+# Match: XM_045397180.1 PREDICTED: Macaca fascicularis MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013822448.1 PREDICTED: MAX gene-associated protein isoform X1 [Capra hircus]
+# Species: Capra hircus
+# Match: XM_013966994.2 PREDICTED: Capra hircus MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013771037.1 PREDICTED: uncharacterized protein LOC102197833 [Pundamilia nyererei]
+# Species: Pundamilia nyererei
+# Match: XM_013915583.1 PREDICTED: Pundamilia nyererei uncharacterized LOC102197833 (LOC102197833), mRNA 
+
+
+
+# Processing: XP_023208992.1 uncharacterized protein LOC102227721 isoform X1 [Xiphophorus maculatus]
+# Species: Xiphophorus maculatus
+# Match: XM_023353224.1 PREDICTED: Xiphophorus maculatus uncharacterized LOC102227721 (LOC102227721), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014390295.1 PREDICTED: MAX gene-associated protein isoform X1 [Myotis brandtii]
+# Species: Myotis brandtii
+# Match: XM_014534809.1 PREDICTED: Myotis brandtii MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005904030.1 PREDICTED: MAX gene-associated protein isoform X1 [Bos mutus]
+# Species: Bos mutus
+# Match: XM_005903968.2 PREDICTED: Bos mutus MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042069363.1 MAX dimerization protein MGA a isoform X1 [Haplochromis burtoni]
+# Species: Haplochromis burtoni
+# Match: XM_042213429.1 PREDICTED: Haplochromis burtoni MAX dimerization protein MGA a (mgaa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025061061.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Alligator sinensis]
+# Skipping this sequence due to quality issues XP_025061061.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Alligator sinensis]
+
+
+# Processing: XP_044781119.1 MAX gene-associated protein isoform X1 [Bubalus bubalis]
+# Species: Bubalus bubalis
+# Match: XM_044925184.2 PREDICTED: Bubalus bubalis MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014314945.1 MAX gene-associated protein isoform X1 [Myotis lucifugus]
+# Species: Myotis lucifugus
+# Match: XM_014459459.2 PREDICTED: Myotis lucifugus MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027631600.1 MAX gene-associated protein isoform X1 [Tupaia chinensis]
+# Species: Tupaia chinensis
+# Match: XM_027775799.1 PREDICTED: Tupaia chinensis MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032337332.1 MAX gene-associated protein isoform X1 [Camelus ferus]
+# Species: Camelus ferus
+# Match: XM_032481441.1 PREDICTED: Camelus ferus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015092631.1 MAX gene-associated protein isoform X1 [Vicugna pacos]
+# Species: Vicugna pacos
+# Match: XM_015237145.2 PREDICTED: Vicugna pacos MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019352084.1 MAX gene-associated protein isoform X1 [Alligator mississippiensis]
+# Species: Alligator mississippiensis
+# Match: XM_019496539.2 PREDICTED: Alligator mississippiensis MAX dimerization protein MGA (MGA), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_015206324.1 PREDICTED: MAX gene-associated protein isoform X1 [Lepisosteus oculatus]
+# Species: Lepisosteus oculatus
+# Match: XM_015350838.1 PREDICTED: Lepisosteus oculatus MGA, MAX dimerization protein (mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030887424.1 MAX gene-associated protein isoform X1 [Leptonychotes weddellii]
+# Species: Leptonychotes weddellii
+# Match: XM_031031564.1 PREDICTED: Leptonychotes weddellii MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006778218.1 PREDICTED: MAX gene-associated protein [Myotis davidii]
+# Species: Myotis davidii
+# Match: XM_006778155.2 PREDICTED: Myotis davidii MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_006800713.2 MAX dimerization protein MGA a [Neolamprologus brichardi]
+# Species: Neolamprologus brichardi
+# Match: XM_006800650.2 PREDICTED: Neolamprologus brichardi MAX dimerization protein MGA a (mgaa), mRNA 
+
+
+
+# Processing: XP_006831811.1 PREDICTED: MAX gene-associated protein isoform X1 [Chrysochloris asiatica]
+# Species: Chrysochloris asiatica
+# Match: XM_006831748.1 PREDICTED: Chrysochloris asiatica MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006883051.1 PREDICTED: MAX gene-associated protein isoform X1 [Elephantulus edwardii]
+# Species: Elephantulus edwardii
+# Match: XM_006882989.1 PREDICTED: Elephantulus edwardii MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015451404.1 MAX gene-associated protein isoform X1 [Pteropus alecto]
+# Species: Pteropus alecto
+# Match: XM_015595918.2 PREDICTED: Pteropus alecto MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015864996.1 MAX gene-associated protein isoform X1 [Peromyscus maniculatus bairdii]
+# Species: Peromyscus maniculatus bairdii
+# Match: XM_016009510.2 PREDICTED: Peromyscus maniculatus bairdii MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027673944.2 MAX gene-associated protein isoform X1 [Chelonia mydas]
+# Species: Chelonia mydas
+# Match: XM_027818143.3 PREDICTED: Chelonia mydas MAX dimerization protein MGA (MGA), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_042845023.1 MAX gene-associated protein isoform X1 [Panthera tigris]
+# Species: Panthera tigris
+# Match: XM_042989089.1 PREDICTED: Panthera tigris MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054944279.1 MAX gene-associated protein [Physeter catodon]
+# Species: Physeter catodon
+# Match: XM_055088304.1 PREDICTED: Physeter catodon MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_007180415.2 MAX gene-associated protein isoform X1 [Balaenoptera acutorostrata]
+# Species: Balaenoptera acutorostrata
+# Match: XM_007180353.3 PREDICTED: Balaenoptera acutorostrata MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007251955.3 MAX dimerization protein MGA a isoform X1 [Astyanax mexicanus]
+# Species: Astyanax mexicanus
+# Match: XM_007251893.4 PREDICTED: Astyanax mexicanus MAX dimerization protein MGA a (mgaa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025027637.1 MAX gene-associated protein isoform X1 [Python bivittatus]
+# Species: Python bivittatus
+# Match: XM_025171869.1 PREDICTED: Python bivittatus MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007460264.1 PREDICTED: MAX gene-associated protein [Lipotes vexillifer]
+# Species: Lipotes vexillifer
+# Match: XM_007460202.1 PREDICTED: Lipotes vexillifer MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_060030999.1 MAX gene-associated protein isoform X1 [Erinaceus europaeus]
+# Species: Erinaceus europaeus
+# Match: XM_060175016.1 PREDICTED: Erinaceus europaeus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_016517718.1 PREDICTED: uncharacterized protein LOC103153855 isoform X1 [Poecilia formosa]
+# Species: Poecilia formosa
+# Match: XM_016662232.1 PREDICTED: Poecilia formosa uncharacterized LOC103153855 (LOC103153855), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007887737.2 MAX dimerization protein MGA a isoform X1 [Callorhinchus milii]
+# Species: Callorhinchus milii
+# Match: XM_007889546.2 PREDICTED: Callorhinchus milii MAX dimerization protein MGA a (mgaa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_042639633.1 MAX gene-associated protein [Orycteropus afer afer]
+# Species: Orycteropus afer afer
+# Match: XM_042783699.1 PREDICTED: Orycteropus afer afer MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_008015159.2 MAX gene-associated protein isoform X1 [Chlorocebus sabaeus]
+# Species: Chlorocebus sabaeus
+# Match: XM_008016968.2 PREDICTED: Chlorocebus sabaeus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008046617.1 MAX gene-associated protein isoform X1 [Carlito syrichta]
+# Species: Carlito syrichta
+# Match: XM_008048426.2 PREDICTED: Carlito syrichta MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054572309.1 MAX gene-associated protein [Eptesicus fuscus]
+# Species: Eptesicus fuscus
+# Match: XM_054716334.1 PREDICTED: Eptesicus fuscus MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_008275305.1 PREDICTED: MAX gene-associated protein isoform X1 [Stegastes partitus]
+# Species: Stegastes partitus
+# Match: XM_008277083.1 PREDICTED: Stegastes partitus MGA, MAX dimerization protein (mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008313119.1 MAX gene-associated protein [Cynoglossus semilaevis]
+# Species: Cynoglossus semilaevis
+# Match: XM_008314897.3 PREDICTED: Cynoglossus semilaevis MGA, MAX dimerization protein (mga), mRNA 
+
+
+
+# Processing: XP_008396942.1 PREDICTED: uncharacterized protein LOC103458130 isoform X1 [Poecilia reticulata]
+# Species: Poecilia reticulata
+# Match: XM_008398720.2 PREDICTED: Poecilia reticulata uncharacterized LOC103458130 (LOC103458130), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030307429.1 MAX gene-associated protein [Calypte anna]
+# Species: Calypte anna
+# Match: XM_030451569.1 PREDICTED: Calypte anna MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_008535474.1 PREDICTED: MAX gene-associated protein isoform X1 [Equus przewalskii]
+# Species: Equus przewalskii
+# Match: XM_008537252.1 PREDICTED: Equus przewalskii MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008585751.1 PREDICTED: MAX gene-associated protein [Galeopterus variegatus]
+# Species: Galeopterus variegatus
+# Match: XM_008587529.1 PREDICTED: Galeopterus variegatus MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_017597312.1 PREDICTED: MAX gene-associated protein isoform X1 [Corvus brachyrhynchos]
+# Species: Corvus brachyrhynchos
+# Match: XM_017741823.1 PREDICTED: Corvus brachyrhynchos MGA, MAX dimerization protein (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008700445.2 MAX gene-associated protein [Ursus maritimus]
+# Species: Ursus maritimus
+# Match: XM_008702223.2 PREDICTED: Ursus maritimus MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_029426130.1 MAX gene-associated protein isoform X1 [Nannospalax galili]
+# Species: Nannospalax galili
+# Match: XM_029570270.1 PREDICTED: Nannospalax galili MAX dimerization protein MGA (Mga), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017937909.1 MAX gene-associated protein isoform X1 [Manacus vitellinus]
+# Species: Manacus vitellinus
+# Match: XM_018082420.2 PREDICTED: Manacus vitellinus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009074833.1 PREDICTED: MAX gene-associated protein, partial [Acanthisitta chloris]
+# Skipping this sequence due to quality issues XP_009074833.1 PREDICTED: MAX gene-associated protein, partial [Acanthisitta chloris]
+
+
+# Processing: XP_030095626.2 MAX gene-associated protein isoform X1 [Serinus canaria]
+# Species: Serinus canaria
+# Match: XM_030239766.2 PREDICTED: Serinus canaria MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009275826.1 PREDICTED: MAX gene-associated protein [Aptenodytes forsteri]
+# Species: Aptenodytes forsteri
+# Match: XM_009277551.2 PREDICTED: Aptenodytes forsteri MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009317494.1 PREDICTED: MAX gene-associated protein [Pygoscelis adeliae]
+# Species: Pygoscelis adeliae
+# Match: XM_009319219.1 PREDICTED: Pygoscelis adeliae MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009472041.1 PREDICTED: MAX gene-associated protein [Nipponia nippon]
+# Species: Nipponia nippon
+# Match: XM_009473766.1 PREDICTED: Nipponia nippon MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009476464.1 PREDICTED: MAX gene-associated protein [Pelecanus crispus]
+# Species: Pelecanus crispus
+# Match: XM_009478189.1 PREDICTED: Pelecanus crispus MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009510237.1 PREDICTED: MAX gene-associated protein [Phalacrocorax carbo]
+# Species: Phalacrocorax carbo
+# Match: XM_009511942.1 PREDICTED: Phalacrocorax carbo MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_053923327.1 MAX gene-associated protein isoform X1 [Cuculus canorus]
+# Species: Cuculus canorus
+# Match: XM_054067352.1 PREDICTED: Cuculus canorus MAX dimerization protein MGA (MGA), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009576549.1 PREDICTED: MAX gene-associated protein [Fulmarus glacialis]
+# Species: Fulmarus glacialis
+# Match: XM_009578254.1 PREDICTED: Fulmarus glacialis MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_035751654.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Egretta garzetta]
+# Skipping this sequence due to quality issues XP_035751654.1 LOW QUALITY PROTEIN: MAX gene-associated protein [Egretta garzetta]
+
+
+# Processing: XP_009682936.1 PREDICTED: MAX gene-associated protein [Struthio camelus australis]
+# Species: Struthio camelus australis
+# Match: XM_009684641.1 PREDICTED: Struthio camelus australis MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009696351.1 PREDICTED: MAX gene-associated protein [Cariama cristata]
+# Species: Cariama cristata
+# Match: XM_009698049.1 PREDICTED: Cariama cristata MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_059675228.1 MAX gene-associated protein isoform X2 [Gavia stellata]
+# Species: Gavia stellata
+# Match: XM_059819245.1 PREDICTED: Gavia stellata MAX dimerization protein MGA (MGA), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_009868613.1 PREDICTED: MAX gene-associated protein [Apaloderma vittatum]
+# Species: Apaloderma vittatum
+# Match: XM_009870311.1 PREDICTED: Apaloderma vittatum MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009894029.1 PREDICTED: MAX gene-associated protein [Charadrius vociferus]
+# Species: Charadrius vociferus
+# Match: XM_009895727.1 PREDICTED: Charadrius vociferus MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_054017483.1 MAX gene-associated protein [Dryobates pubescens]
+# Species: Dryobates pubescens
+# Match: XM_054161508.1 PREDICTED: Dryobates pubescens MAX dimerization protein MGA (MGA), mRNA 
+
+
+
+# Processing: XP_009915137.1 PREDICTED: MAX gene-associated protein, partial [Haliaeetus albicilla]
+# Skipping this sequence due to quality issues XP_009915137.1 PREDICTED: MAX gene-associated protein, partial [Haliaeetus albicilla]
+
+
+# Processing: XP_009931384.1 PREDICTED: MAX gene-associated protein [Opisthocomus hoazin]
+# Species: Opisthocomus hoazin
+# Match: XM_009933082.1 PREDICTED: Opisthocomus hoazin MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_009950601.1 PREDICTED: MAX gene-associated protein [Leptosomus discolor]
+# Species: Leptosomus discolor
+# Match: XM_009952299.1 PREDICTED: Leptosomus discolor MGA, MAX dimerization protein (MGA), mRNA 
+
+
+
+# Processing: XP_042646597.1 MAX gene-associated protein isoform X1 [Tyto alba]
+# Species: Tyto alba

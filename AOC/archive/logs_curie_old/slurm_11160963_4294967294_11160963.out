@@ -1,0 +1,38 @@
+# Saving to fasta: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta
+
+Analysis Description
+--------------------
+GARD : Genetic Algorithms for Recombination Detection. Implements a
+heuristic approach to screening alignments of sequences for
+recombination, by using the CHC genetic algorithm to search for
+phylogenetic incongruence among different partitions of the data. The
+number of partitions is determined using a step-up procedure, while the
+placement of breakpoints is searched for with the GA. The best fitting
+model (based on c-AIC) is returned; and additional post-hoc tests run to
+distinguish topological incongruence from rate-variation. v0.2 adds and
+spooling results to JSON after each breakpoint search conclusion
+
+- __Requirements__: A sequence alignment.
+
+- __Citation__: **Automated Phylogenetic Detection of Recombination Using a Genetic
+Algorithm**, _Mol Biol Evol 23(10), 1891–1901
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.2
+
+type: nucleotide
+rv: GDD
+>Maximum number of breakpoints to consider (permissible range = [1,100000], default value = 10000, integer): max-breakpoints: 10000
+>How many site rate classes to use (permissible range = [2,10], default value = 4, integer): rate-classes: 4
+mode: Normal
+>Loaded a nucleotide multiple sequence alignment with **29** sequences, **3315** sites (1698 of which are variable) from `/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6.RD.SA.codons.cln.fa.cluster.fasta`
+>Minimum size of a partition is set to be 55 sites
+
+
+### Fitting the baseline (single-partition; no breakpoints) model
+* Log(L) = -40410.59, AIC-c = 80964.24 (70 estimated parameters)
+
+### Performing an exhaustive single breakpoint analysis

@@ -1,0 +1,11 @@
+# Loaded config yaml file
+# Loaded cluster json file
+# Using nucleotide data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_transcript.fasta
+# Using protein data from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_refseq_protein.fasta
+# Using the analysis label: GnathostomataBCL6
+# Using the metadata from: /athena/melnicklab/users/scratch/agl4001/AOC/data/GnathostomataBCL6/BCL6_orthologs.csv
+# We are operating out of base directory: /athena/melnicklab/users/scratch/agl4001/AOC
+# We will create and store results in: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results' created
+# Directory '/athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6' created
+# Moving on to processing rules

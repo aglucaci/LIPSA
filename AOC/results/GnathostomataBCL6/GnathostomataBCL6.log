@@ -1,0 +1,3393 @@
+
+# Average sequence length is (PROTEIN AA ungapped): 714.7368421052631
+# Average sequence length is (NUCLEOTIDE NUC): 2144.210526315789
+
+
+# Processing: NP_001697.2 B-cell lymphoma 6 protein isoform 1 [Homo sapiens]
+# Species: Homo sapiens
+# Match: NM_001706.5 Homo sapiens BCL6 transcription repressor (BCL6), transcript variant 1, mRNA 
+
+
+
+# Processing: NP_033874.1 B-cell lymphoma 6 protein homolog isoform 1 [Mus musculus]
+# Species: Mus musculus
+# Match: NM_009744.5 Mus musculus B cell leukemia/lymphoma 6 (Bcl6), transcript variant 1, mRNA 
+
+
+
+# Processing: NP_001100554.1 B-cell lymphoma 6 protein [Rattus norvegicus]
+# Species: Rattus norvegicus
+# Match: NM_001107084.1 Rattus norvegicus BCL6, transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_021332488.1 B-cell lymphoma 6 protein isoform X1 [Danio rerio]
+# Species: Danio rerio
+# Match: XM_021476813.1 PREDICTED: Danio rerio B-cell CLL/lymphoma 6a (zinc finger protein 51) (bcl6a), transcript variant X1, mRNA 
+
+
+
+# Processing: NP_001012948.1 B-cell lymphoma 6 protein homolog [Gallus gallus]
+# Species: Gallus gallus
+# Match: NM_001012930.1 Gallus gallus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_001158812.1 B-cell lymphoma 6 protein [Pan troglodytes]
+# Species: Pan troglodytes
+# Match: XM_001158812.6 PREDICTED: Pan troglodytes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: NP_001182333.1 B-cell lymphoma 6 protein [Canis lupus familiaris]
+# Species: Canis lupus familiaris
+# Match: NM_001195404.1 Canis lupus familiaris BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: NP_001193379.1 B-cell lymphoma 6 protein [Bos taurus]
+# Species: Bos taurus
+# Match: NM_001206450.1 Bos taurus B cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: NP_001248255.1 B-cell lymphoma 6 protein [Macaca mulatta]
+# Species: Macaca mulatta
+# Match: NM_001261326.2 Macaca mulatta BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_029683456.1 B-cell lymphoma 6 protein isoform X1 [Takifugu rubripes]
+# Species: Takifugu rubripes
+# Match: XM_029827596.1 PREDICTED: Takifugu rubripes BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_001499832.1 B-cell lymphoma 6 protein isoform X1 [Equus caballus]
+# Species: Equus caballus
+# Match: XM_001499782.5 PREDICTED: Equus caballus B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_007667224.2 B-cell lymphoma 6 protein isoform X1 [Ornithorhynchus anatinus]
+# Species: Ornithorhynchus anatinus
+# Match: XM_007669034.3 PREDICTED: Ornithorhynchus anatinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: NP_001116278.1 B-cell lymphoma 6 protein [Xenopus tropicalis]
+# Species: Xenopus tropicalis
+# Match: NM_001122806.1 Xenopus tropicalis BCL6, transcription repressor (bcl6), mRNA 
+
+
+
+# Processing: NP_001302630.1 B-cell lymphoma 6 protein [Sus scrofa]
+# Species: Sus scrofa
+# Match: NM_001315701.1 Sus scrofa BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_030135805.3 B-cell lymphoma 6 protein isoform X1 [Taeniopygia guttata]
+# Species: Taeniopygia guttata
+# Match: XM_030279945.3 PREDICTED: Taeniopygia guttata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: NP_001153262.1 B-cell lymphoma 6 protein [Pongo abelii]
+# Species: Pongo abelii
+# Match: NM_001159790.1 Pongo abelii BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_002716546.1 B-cell lymphoma 6 protein isoform X1 [Oryctolagus cuniculus]
+# Species: Oryctolagus cuniculus
+# Match: XM_002716500.3 PREDICTED: Oryctolagus cuniculus BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_002758219.1 B-cell lymphoma 6 protein [Callithrix jacchus]
+# Species: Callithrix jacchus
+# Match: XM_002758173.4 PREDICTED: Callithrix jacchus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_002914850.1 B-cell lymphoma 6 protein isoform X1 [Ailuropoda melanoleuca]
+# Species: Ailuropoda melanoleuca
+# Match: XM_002914804.4 PREDICTED: Ailuropoda melanoleuca BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_010715060.1 B-cell lymphoma 6 protein [Meleagris gallopavo]
+# Species: Meleagris gallopavo
+# Match: XM_010716758.3 PREDICTED: Meleagris gallopavo BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_003229443.2 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Anolis carolinensis]
+# Species: Anolis carolinensis
+# Match: XM_003229395.2 PREDICTED: Anolis carolinensis B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003256686.1 B-cell lymphoma 6 protein isoform X1 [Nomascus leucogenys]
+# Species: Nomascus leucogenys
+# Match: XM_003256638.4 PREDICTED: Nomascus leucogenys BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003412960.1 B-cell lymphoma 6 protein isoform X1 [Loxodonta africana]
+# Species: Loxodonta africana
+# Match: XM_003412912.3 PREDICTED: Loxodonta africana B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005451274.1 B-cell lymphoma 6 protein isoform X1 [Oreochromis niloticus]
+# Species: Oreochromis niloticus
+# Match: XM_005451217.4 PREDICTED: Oreochromis niloticus B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003477130.1 B-cell lymphoma 6 protein isoform X1 [Cavia porcellus]
+# Species: Cavia porcellus
+# Match: XM_003477082.4 PREDICTED: Cavia porcellus B cell CLL/lymphoma 6 (Bcl6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_007640709.1 B-cell lymphoma 6 protein isoform X1 [Cricetulus griseus]
+# Species: Cricetulus griseus
+# Match: XM_007642519.4 PREDICTED: Cricetulus griseus BCL6 transcription repressor (Bcl6), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_031816965.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Sarcophilus harrisii]
+# Skipping this sequence due to quality issues XP_031816965.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Sarcophilus harrisii]
+
+
+# Processing: XP_003792759.2 B-cell lymphoma 6 protein [Otolemur garnettii]
+# Species: Otolemur garnettii
+# Match: XM_003792711.3 PREDICTED: Otolemur garnettii B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003825003.1 B-cell lymphoma 6 protein [Pan paniscus]
+# Species: Pan paniscus
+# Match: XM_003824955.5 PREDICTED: Pan paniscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_021790667.2 B-cell lymphoma 6 protein isoform X1 [Papio anubis]
+# Species: Papio anubis
+# Match: XM_021934975.2 PREDICTED: Papio anubis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003927052.1 B-cell lymphoma 6 protein [Saimiri boliviensis boliviensis]
+# Species: Saimiri boliviensis boliviensis
+# Match: XM_003927003.3 PREDICTED: Saimiri boliviensis boliviensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_003991853.1 B-cell lymphoma 6 protein [Felis catus]
+# Species: Felis catus
+# Match: XM_003991804.5 PREDICTED: Felis catus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004003098.1 B-cell lymphoma 6 protein [Ovis aries]
+# Species: Ovis aries
+# Match: XM_004003049.6 PREDICTED: Ovis aries BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_004038238.1 B-cell lymphoma 6 protein isoform X1 [Gorilla gorilla gorilla]
+# Species: Gorilla gorilla gorilla
+# Match: XM_004038190.4 PREDICTED: Gorilla gorilla gorilla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_020558298.1 B-cell lymphoma 6 protein isoform X1 [Oryzias latipes]
+# Species: Oryzias latipes
+# Match: XM_020702639.2 PREDICTED: Oryzias latipes B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004278530.1 B-cell lymphoma 6 protein [Orcinus orca]
+# Species: Orcinus orca
+# Match: XM_004278482.4 PREDICTED: Orcinus orca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004329364.1 B-cell lymphoma 6 protein [Tursiops truncatus]
+# Species: Tursiops truncatus
+# Match: XM_004329316.3 PREDICTED: Tursiops truncatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004382295.1 B-cell lymphoma 6 protein [Trichechus manatus latirostris]
+# Species: Trichechus manatus latirostris
+# Match: XM_004382238.2 PREDICTED: Trichechus manatus latirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004413485.1 PREDICTED: B-cell lymphoma 6 protein [Odobenus rosmarus divergens]
+# Species: Odobenus rosmarus divergens
+# Match: XM_004413428.1 PREDICTED: Odobenus rosmarus divergens B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_004424641.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Ceratotherium simum simum]
+# Species: Ceratotherium simum simum
+# Match: XM_004424584.2 PREDICTED: Ceratotherium simum simum B-cell CLL/lymphoma 6 (LOC101400063), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_012383937.2 B-cell lymphoma 6 protein isoform X1 [Dasypus novemcinctus]
+# Species: Dasypus novemcinctus
+# Match: XM_012528483.3 PREDICTED: Dasypus novemcinctus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004552894.1 B-cell lymphoma 6 protein isoform X1 [Maylandia zebra]
+# Species: Maylandia zebra
+# Match: XM_004552837.5 PREDICTED: Maylandia zebra B cell CLL/lymphoma 6 (bcl6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_004577833.1 B-cell lymphoma 6 protein [Ochotona princeps]
+# Species: Ochotona princeps
+# Match: XM_004577776.3 PREDICTED: Ochotona princeps BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004603073.1 B-cell lymphoma 6 protein [Sorex araneus]
+# Species: Sorex araneus
+# Match: XM_004603016.2 PREDICTED: Sorex araneus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023556714.1 B-cell lymphoma 6 protein isoform X1 [Octodon degus]
+# Species: Octodon degus
+# Match: XM_023700946.1 PREDICTED: Octodon degus B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004654340.1 B-cell lymphoma 6 protein [Jaculus jaculus]
+# Species: Jaculus jaculus
+# Match: XM_004654283.2 PREDICTED: Jaculus jaculus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004675142.1 PREDICTED: B-cell lymphoma 6 protein [Condylura cristata]
+# Species: Condylura cristata
+# Match: XM_004675085.2 PREDICTED: Condylura cristata B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004713463.1 B-cell lymphoma 6 protein isoform X1 [Echinops telfairi]
+# Species: Echinops telfairi
+# Match: XM_004713406.2 PREDICTED: Echinops telfairi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_004745289.1 B-cell lymphoma 6 protein isoform X1 [Mustela putorius furo]
+# Species: Mustela putorius furo
+# Match: XM_004745232.3 PREDICTED: Mustela putorius furo BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_004834856.1 B-cell lymphoma 6 protein isoform X1 [Heterocephalus glaber]
+# Species: Heterocephalus glaber
+# Match: XM_004834799.3 PREDICTED: Heterocephalus glaber B-cell CLL/lymphoma 6 (Bcl6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_027319891.1 B-cell lymphoma 6 protein [Anas platyrhynchos]
+# Species: Anas platyrhynchos
+# Match: XM_027464090.2 PREDICTED: Anas platyrhynchos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005051169.1 PREDICTED: B-cell lymphoma 6 protein [Ficedula albicollis]
+# Species: Ficedula albicollis
+# Match: XM_005051112.2 PREDICTED: Ficedula albicollis B-cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_005071660.1 B-cell lymphoma 6 protein [Mesocricetus auratus]
+# Species: Mesocricetus auratus
+# Match: XM_005071603.4 PREDICTED: Mesocricetus auratus BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_030898867.2 B-cell lymphoma 6 protein [Melopsittacus undulatus]
+# Species: Melopsittacus undulatus
+# Match: XM_031043007.2 PREDICTED: Melopsittacus undulatus BCL6 transcription repressor (LOC101872939), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013154849.1 B-cell lymphoma 6 protein [Falco peregrinus]
+# Species: Falco peregrinus
+# Match: XM_013299395.3 PREDICTED: Falco peregrinus BCL6 transcription repressor (BCL6), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_042699822.1 B-cell lymphoma 6 protein isoform X1 [Chrysemys picta bellii]
+# Species: Chrysemys picta bellii
+# Match: XM_042843888.1 PREDICTED: Chrysemys picta bellii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005331040.1 B-cell lymphoma 6 protein [Ictidomys tridecemlineatus]
+# Species: Ictidomys tridecemlineatus
+# Match: XM_005330983.3 PREDICTED: Ictidomys tridecemlineatus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005344820.1 B-cell lymphoma 6 protein [Microtus ochrogaster]
+# Species: Microtus ochrogaster
+# Match: XM_005344763.2 PREDICTED: Microtus ochrogaster B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005383301.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Chinchilla lanigera]
+# Species: Chinchilla lanigera
+# Match: XM_005383244.2 PREDICTED: Chinchilla lanigera B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005419020.1 B-cell lymphoma 6 protein [Geospiza fortis]
+# Species: Geospiza fortis
+# Match: XM_005418963.1 PREDICTED: Geospiza fortis BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_014139096.1 B-cell lymphoma 6 protein [Falco cherrug]
+# Species: Falco cherrug
+# Match: XM_014283621.3 PREDICTED: Falco cherrug BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_005484967.1 B-cell lymphoma 6 protein [Zonotrichia albicollis]
+# Species: Zonotrichia albicollis
+# Match: XM_005484910.3 PREDICTED: Zonotrichia albicollis B cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_005513275.1 B-cell lymphoma 6 protein [Columba livia]
+# Species: Columba livia
+# Match: XM_005513218.2 PREDICTED: Columba livia B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005525047.1 PREDICTED: B-cell lymphoma 6 protein [Pseudopodoces humilis]
+# Species: Pseudopodoces humilis
+# Match: XM_005524990.2 PREDICTED: Pseudopodoces humilis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005545496.1 B-cell lymphoma 6 protein [Macaca fascicularis]
+# Species: Macaca fascicularis
+# Match: XM_005545439.3 PREDICTED: Macaca fascicularis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005675193.2 PREDICTED: B-cell lymphoma 6 protein [Capra hircus]
+# Species: Capra hircus
+# Match: XM_005675136.3 PREDICTED: Capra hircus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005727227.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Pundamilia nyererei]
+# Species: Pundamilia nyererei
+# Match: XM_005727170.1 PREDICTED: Pundamilia nyererei B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023195487.1 B-cell lymphoma 6 protein isoform X1 [Xiphophorus maculatus]
+# Species: Xiphophorus maculatus
+# Match: XM_023339719.1 PREDICTED: Xiphophorus maculatus B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005876328.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Myotis brandtii]
+# Species: Myotis brandtii
+# Match: XM_005876266.2 PREDICTED: Myotis brandtii B-cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_005899715.1 PREDICTED: B-cell lymphoma 6 protein [Bos mutus]
+# Species: Bos mutus
+# Match: XM_005899653.2 PREDICTED: Bos mutus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_005919795.1 BCL6A transcription repressor a isoform X1 [Haplochromis burtoni]
+# Species: Haplochromis burtoni
+# Match: XM_005919733.3 PREDICTED: Haplochromis burtoni BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_005992513.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Latimeria chalumnae]
+# Species: Latimeria chalumnae
+# Match: XM_005992451.2 PREDICTED: Latimeria chalumnae B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006022476.1 B-cell lymphoma 6 protein isoform X1 [Alligator sinensis]
+# Species: Alligator sinensis
+# Match: XM_006022414.3 PREDICTED: Alligator sinensis B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_006069029.1 B-cell lymphoma 6 protein [Bubalus bubalis]
+# Species: Bubalus bubalis
+# Match: XM_006068967.3 PREDICTED: Bubalus bubalis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006084846.1 B-cell lymphoma 6 protein isoform X1 [Myotis lucifugus]
+# Species: Myotis lucifugus
+# Match: XM_006084784.3 PREDICTED: Myotis lucifugus B cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_006122274.1 B-cell lymphoma 6 protein isoform X1 [Pelodiscus sinensis]
+# Species: Pelodiscus sinensis
+# Match: XM_006122212.3 PREDICTED: Pelodiscus sinensis B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_006156792.1 B-cell lymphoma 6 protein isoform X1 [Tupaia chinensis]
+# Species: Tupaia chinensis
+# Match: XM_006156730.3 PREDICTED: Tupaia chinensis BCL6, transcription repressor (BCL6), transcript variant X5, mRNA 
+
+
+
+# Processing: XP_006188915.1 B-cell lymphoma 6 protein [Camelus ferus]
+# Species: Camelus ferus
+# Match: XM_006188853.3 PREDICTED: Camelus ferus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006201036.1 B-cell lymphoma 6 protein [Vicugna pacos]
+# Species: Vicugna pacos
+# Match: XM_006200974.3 PREDICTED: Vicugna pacos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019354598.1 B-cell lymphoma 6 protein isoform X1 [Alligator mississippiensis]
+# Species: Alligator mississippiensis
+# Match: XM_019499053.2 PREDICTED: Alligator mississippiensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015216732.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Lepisosteus oculatus]
+# Species: Lepisosteus oculatus
+# Match: XM_015361246.1 PREDICTED: Lepisosteus oculatus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006737286.1 B-cell lymphoma 6 protein [Leptonychotes weddellii]
+# Species: Leptonychotes weddellii
+# Match: XM_006737223.2 PREDICTED: Leptonychotes weddellii BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_006765920.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Myotis davidii]
+# Species: Myotis davidii
+# Match: XM_006765857.2 PREDICTED: Myotis davidii B-cell CLL/lymphoma 6 (BCL6), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_006790478.1 BCL6A transcription repressor a isoform X1 [Neolamprologus brichardi]
+# Species: Neolamprologus brichardi
+# Match: XM_006790415.2 PREDICTED: Neolamprologus brichardi BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006871947.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Chrysochloris asiatica]
+# Species: Chrysochloris asiatica
+# Match: XM_006871885.1 PREDICTED: Chrysochloris asiatica B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006925893.1 B-cell lymphoma 6 protein isoform X1 [Pteropus alecto]
+# Species: Pteropus alecto
+# Match: XM_006925831.3 PREDICTED: Pteropus alecto B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_006985139.1 B-cell lymphoma 6 protein [Peromyscus maniculatus bairdii]
+# Species: Peromyscus maniculatus bairdii
+# Match: XM_006985077.2 PREDICTED: Peromyscus maniculatus bairdii BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027676058.1 B-cell lymphoma 6 protein isoform X1 [Chelonia mydas]
+# Species: Chelonia mydas
+# Match: XM_027820257.3 PREDICTED: Chelonia mydas BCL6 transcription repressor (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_007083626.1 B-cell lymphoma 6 protein [Panthera tigris]
+# Species: Panthera tigris
+# Match: XM_007083564.2 PREDICTED: Panthera tigris BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_028347897.1 B-cell lymphoma 6 protein [Physeter catodon]
+# Species: Physeter catodon
+# Match: XM_028492096.1 PREDICTED: Physeter catodon BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_007195289.1 B-cell lymphoma 6 protein [Balaenoptera acutorostrata]
+# Species: Balaenoptera acutorostrata
+# Match: XM_007195227.3 PREDICTED: Balaenoptera acutorostrata BCL6 transcription repressor (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_007253734.3 BCL6A transcription repressor a isoform X1 [Astyanax mexicanus]
+# Species: Astyanax mexicanus
+# Match: XM_007253672.3 PREDICTED: Astyanax mexicanus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007443545.1 B-cell lymphoma 6 protein isoform X1 [Python bivittatus]
+# Species: Python bivittatus
+# Match: XM_007443483.3 PREDICTED: Python bivittatus B cell CLL/lymphoma 6 (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_007448489.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Lipotes vexillifer]
+# Species: Lipotes vexillifer
+# Match: XM_007448427.1 PREDICTED: Lipotes vexillifer B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007532791.1 B-cell lymphoma 6 protein isoform X1 [Erinaceus europaeus]
+# Species: Erinaceus europaeus
+# Match: XM_007532729.3 PREDICTED: Erinaceus europaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_016536876.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Poecilia formosa]
+# Species: Poecilia formosa
+# Match: XM_016681390.1 PREDICTED: Poecilia formosa B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042195239.1 BCL6A transcription repressor a isoform X1 [Callorhinchus milii]
+# Species: Callorhinchus milii
+# Match: XM_042339305.1 PREDICTED: Callorhinchus milii BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_007934190.1 B-cell lymphoma 6 protein [Orycteropus afer afer]
+# Species: Orycteropus afer afer
+# Match: XM_007935999.1 PREDICTED: Orycteropus afer afer BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_008007695.1 B-cell lymphoma 6 protein [Chlorocebus sabaeus]
+# Species: Chlorocebus sabaeus
+# Match: XM_008009504.2 PREDICTED: Chlorocebus sabaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008056670.1 B-cell lymphoma 6 protein [Carlito syrichta]
+# Species: Carlito syrichta
+# Match: XM_008058479.1 PREDICTED: Carlito syrichta B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008149804.2 B-cell lymphoma 6 protein [Eptesicus fuscus]
+# Species: Eptesicus fuscus
+# Match: XM_008151582.3 PREDICTED: Eptesicus fuscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008275754.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Stegastes partitus]
+# Species: Stegastes partitus
+# Match: XM_008277532.1 PREDICTED: Stegastes partitus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_024910007.1 B-cell lymphoma 6 protein isoform X1 [Cynoglossus semilaevis]
+# Species: Cynoglossus semilaevis
+# Match: XM_025054239.1 PREDICTED: Cynoglossus semilaevis B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008405896.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Poecilia reticulata]
+# Species: Poecilia reticulata
+# Match: XM_008407674.2 PREDICTED: Poecilia reticulata B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030312490.1 B-cell lymphoma 6 protein [Calypte anna]
+# Species: Calypte anna
+# Match: XM_030456630.1 PREDICTED: Calypte anna BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008527903.1 PREDICTED: B-cell lymphoma 6 protein [Equus przewalskii]
+# Species: Equus przewalskii
+# Match: XM_008529681.1 PREDICTED: Equus przewalskii B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_008578281.1 PREDICTED: B-cell lymphoma 6 protein [Galeopterus variegatus]
+# Species: Galeopterus variegatus
+# Match: XM_008580059.1 PREDICTED: Galeopterus variegatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008642786.1 PREDICTED: B-cell lymphoma 6 protein [Corvus brachyrhynchos]
+# Species: Corvus brachyrhynchos
+# Match: XM_008644564.2 PREDICTED: Corvus brachyrhynchos B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_008703392.1 B-cell lymphoma 6 protein isoform X1 [Ursus maritimus]
+# Species: Ursus maritimus
+# Match: XM_008705170.2 PREDICTED: Ursus maritimus BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_008837895.1 B-cell lymphoma 6 protein isoform X1 [Nannospalax galili]
+# Species: Nannospalax galili
+# Match: XM_008839673.3 PREDICTED: Nannospalax galili BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017930490.1 B-cell lymphoma 6 protein [Manacus vitellinus]
+# Species: Manacus vitellinus
+# Match: XM_018075001.2 PREDICTED: Manacus vitellinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_008945299.1 PREDICTED: B-cell lymphoma 6 protein [Merops nubicus]
+# Species: Merops nubicus
+# Match: XM_008947051.1 PREDICTED: Merops nubicus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009072325.1 PREDICTED: B-cell lymphoma 6 protein [Acanthisitta chloris]
+# Species: Acanthisitta chloris
+# Match: XM_009074077.1 PREDICTED: Acanthisitta chloris B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009087383.1 B-cell lymphoma 6 protein [Serinus canaria]
+# Species: Serinus canaria
+# Match: XM_009089135.4 PREDICTED: Serinus canaria BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009280637.1 PREDICTED: B-cell lymphoma 6 protein [Aptenodytes forsteri]
+# Species: Aptenodytes forsteri
+# Match: XM_009282362.1 PREDICTED: Aptenodytes forsteri B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009321862.1 PREDICTED: B-cell lymphoma 6 protein [Pygoscelis adeliae]
+# Species: Pygoscelis adeliae
+# Match: XM_009323587.1 PREDICTED: Pygoscelis adeliae B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009466721.1 PREDICTED: B-cell lymphoma 6 protein [Nipponia nippon]
+# Species: Nipponia nippon
+# Match: XM_009468446.1 PREDICTED: Nipponia nippon B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009480023.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Pelecanus crispus]
+# Species: Pelecanus crispus
+# Match: XM_009481748.1 PREDICTED: Pelecanus crispus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009503065.1 PREDICTED: B-cell lymphoma 6 protein, partial [Phalacrocorax carbo]
+# Skipping this sequence due to quality issues XP_009503065.1 PREDICTED: B-cell lymphoma 6 protein, partial [Phalacrocorax carbo]
+
+
+# Processing: XP_053930581.1 B-cell lymphoma 6 protein [Cuculus canorus]
+# Species: Cuculus canorus
+# Match: XM_054074606.1 PREDICTED: Cuculus canorus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_035747118.1 B-cell lymphoma 6 protein [Egretta garzetta]
+# Species: Egretta garzetta
+# Match: XM_035891225.1 PREDICTED: Egretta garzetta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009680436.1 PREDICTED: B-cell lymphoma 6 protein [Struthio camelus australis]
+# Species: Struthio camelus australis
+# Match: XM_009682141.1 PREDICTED: Struthio camelus australis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009692928.1 PREDICTED: B-cell lymphoma 6 protein, partial [Cariama cristata]
+# Skipping this sequence due to quality issues XP_009692928.1 PREDICTED: B-cell lymphoma 6 protein, partial [Cariama cristata]
+
+
+# Processing: XP_059678412.1 B-cell lymphoma 6 protein [Gavia stellata]
+# Species: Gavia stellata
+# Match: XM_059822429.1 PREDICTED: Gavia stellata BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_009870149.1 PREDICTED: B-cell lymphoma 6 protein [Apaloderma vittatum]
+# Species: Apaloderma vittatum
+# Match: XM_009871847.1 PREDICTED: Apaloderma vittatum B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009881658.1 PREDICTED: B-cell lymphoma 6 protein [Charadrius vociferus]
+# Species: Charadrius vociferus
+# Match: XM_009883356.1 PREDICTED: Charadrius vociferus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_054022335.1 B-cell lymphoma 6 protein [Dryobates pubescens]
+# Species: Dryobates pubescens
+# Match: XM_054166360.1 PREDICTED: Dryobates pubescens BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009915221.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Haliaeetus albicilla]
+# Species: Haliaeetus albicilla
+# Match: XM_009916919.1 PREDICTED: Haliaeetus albicilla B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_009929965.1 PREDICTED: B-cell lymphoma 6 protein [Opisthocomus hoazin]
+# Species: Opisthocomus hoazin
+# Match: XM_009931663.1 PREDICTED: Opisthocomus hoazin B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009954022.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Leptosomus discolor]
+# Species: Leptosomus discolor
+# Match: XM_009955720.1 PREDICTED: Leptosomus discolor B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042651718.1 B-cell lymphoma 6 protein [Tyto alba]
+# Species: Tyto alba
+# Match: XM_042795784.1 PREDICTED: Tyto alba BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_009988137.1 PREDICTED: B-cell lymphoma 6 protein [Tauraco erythrolophus]
+# Species: Tauraco erythrolophus
+# Match: XM_009989835.1 PREDICTED: Tauraco erythrolophus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_009998127.1 PREDICTED: B-cell lymphoma 6 protein [Chaetura pelagica]
+# Species: Chaetura pelagica
+# Match: XM_009999825.1 PREDICTED: Chaetura pelagica B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010020815.1 PREDICTED: B-cell lymphoma 6 protein [Nestor notabilis]
+# Species: Nestor notabilis
+# Match: XM_010022513.1 PREDICTED: Nestor notabilis B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010076551.1 PREDICTED: B-cell lymphoma 6 protein [Pterocles gutturalis]
+# Species: Pterocles gutturalis
+# Match: XM_010078249.1 PREDICTED: Pterocles gutturalis B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010124925.1 PREDICTED: B-cell lymphoma 6 protein [Chlamydotis macqueenii]
+# Species: Chlamydotis macqueenii
+# Match: XM_010126623.1 PREDICTED: Chlamydotis macqueenii B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010135563.1 PREDICTED: B-cell lymphoma 6 protein [Buceros rhinoceros silvestris]
+# Species: Buceros rhinoceros silvestris
+# Match: XM_010137261.1 PREDICTED: Buceros rhinoceros silvestris B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010150693.1 PREDICTED: B-cell lymphoma 6 protein [Eurypyga helias]
+# Species: Eurypyga helias
+# Match: XM_010152391.1 PREDICTED: Eurypyga helias B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010175573.1 B-cell lymphoma 6 protein isoform X1 [Antrostomus carolinensis]
+# Species: Antrostomus carolinensis
+# Match: XM_010177271.1 PREDICTED: Antrostomus carolinensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010176855.1 PREDICTED: B-cell lymphoma 6 protein [Mesitornis unicolor]
+# Species: Mesitornis unicolor
+# Match: XM_010178553.1 PREDICTED: Mesitornis unicolor B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010198435.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Colius striatus]
+# Species: Colius striatus
+# Match: XM_010200133.1 PREDICTED: Colius striatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010222687.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Tinamus guttatus]
+# Species: Tinamus guttatus
+# Match: XM_010224385.1 PREDICTED: Tinamus guttatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010285781.1 PREDICTED: B-cell lymphoma 6 protein [Phaethon lepturus]
+# Species: Phaethon lepturus
+# Match: XM_010287479.1 PREDICTED: Phaethon lepturus B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010305378.1 PREDICTED: B-cell lymphoma 6 protein [Balearica regulorum gibbericeps]
+# Species: Balearica regulorum gibbericeps
+# Match: XM_010307076.1 PREDICTED: Balearica regulorum gibbericeps B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_010350892.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Rhinopithecus roxellana]
+# Skipping this sequence due to quality issues XP_010350892.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Rhinopithecus roxellana]
+
+
+# Processing: XP_039412857.1 B-cell lymphoma 6 protein [Corvus cornix cornix]
+# Species: Corvus cornix cornix
+# Match: XM_039556923.1 PREDICTED: Corvus cornix cornix BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_010571361.1 PREDICTED: B-cell lymphoma 6 protein [Haliaeetus leucocephalus]
+# Species: Haliaeetus leucocephalus
+# Match: XM_010573059.1 PREDICTED: Haliaeetus leucocephalus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010622438.1 B-cell lymphoma 6 protein isoform X1 [Fukomys damarensis]
+# Species: Fukomys damarensis
+# Match: XM_010624136.3 PREDICTED: Fukomys damarensis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019130888.2 B-cell lymphoma 6 protein [Larimichthys crocea]
+# Species: Larimichthys crocea
+# Match: XM_019275343.2 PREDICTED: Larimichthys crocea BCL6, transcription repressor (bcl6), mRNA 
+
+
+
+# Processing: XP_010792260.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Notothenia coriiceps]
+# Species: Notothenia coriiceps
+# Match: XM_010793958.1 PREDICTED: Notothenia coriiceps B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010852225.1 PREDICTED: B-cell lymphoma 6 protein [Bison bison bison]
+# Species: Bison bison bison
+# Match: XM_010853923.1 PREDICTED: Bison bison bison B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019904262.1 BCL6A transcription repressor a isoform X1 [Esox lucius]
+# Species: Esox lucius
+# Match: XM_020048703.3 PREDICTED: Esox lucius BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010957534.1 B-cell lymphoma 6 protein [Camelus bactrianus]
+# Species: Camelus bactrianus
+# Match: XM_010959232.2 PREDICTED: Camelus bactrianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_010974424.2 B-cell lymphoma 6 protein [Camelus dromedarius]
+# Species: Camelus dromedarius
+# Match: XM_010976122.2 PREDICTED: Camelus dromedarius BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_011380066.1 B-cell lymphoma 6 protein isoform X1 [Pteropus vampyrus]
+# Species: Pteropus vampyrus
+# Match: XM_011381764.2 PREDICTED: Pteropus vampyrus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_011721459.1 B-cell lymphoma 6 protein [Macaca nemestrina]
+# Species: Macaca nemestrina
+# Match: XM_011723157.1 PREDICTED: Macaca nemestrina B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_011816989.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Colobus angolensis palliatus]
+# Species: Colobus angolensis palliatus
+# Match: XM_011961599.1 PREDICTED: Colobus angolensis palliatus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_011855271.1 PREDICTED: B-cell lymphoma 6 protein [Mandrillus leucophaeus]
+# Species: Mandrillus leucophaeus
+# Match: XM_011999881.1 PREDICTED: Mandrillus leucophaeus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_011892256.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Cercocebus atys]
+# Species: Cercocebus atys
+# Match: XM_012036866.1 PREDICTED: Cercocebus atys B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_012326293.1 B-cell lymphoma 6 protein [Aotus nancymaae]
+# Species: Aotus nancymaae
+# Match: XM_012470870.2 PREDICTED: Aotus nancymaae B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_012497059.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Propithecus coquereli]
+# Species: Propithecus coquereli
+# Match: XM_012641605.1 PREDICTED: Propithecus coquereli B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_012645068.1 B-cell lymphoma 6 protein [Microcebus murinus]
+# Species: Microcebus murinus
+# Match: XM_012789614.2 PREDICTED: Microcebus murinus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_012716639.2 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Fundulus heteroclitus]
+# Skipping this sequence due to quality issues XP_012716639.2 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Fundulus heteroclitus]
+
+
+# Processing: XP_012874894.1 PREDICTED: B-cell lymphoma 6 protein [Dipodomys ordii]
+# Species: Dipodomys ordii
+# Match: XM_013019440.1 PREDICTED: Dipodomys ordii B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013050478.2 B-cell lymphoma 6 protein [Anser cygnoides]
+# Species: Anser cygnoides
+# Match: XM_013195024.2 PREDICTED: Anser cygnoides BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_013814841.1 PREDICTED: B-cell lymphoma 6 protein [Apteryx mantelli mantelli]
+# Species: Apteryx mantelli mantelli
+# -- NO Match -- 
+
+
+
+# Processing: XP_013877806.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Austrofundulus limnaeus]
+# Species: Austrofundulus limnaeus
+# Match: XM_014022352.1 PREDICTED: Austrofundulus limnaeus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_013930379.1 PREDICTED: B-cell lymphoma 6 protein [Thamnophis sirtalis]
+# Species: Thamnophis sirtalis
+# Match: XM_014074904.1 PREDICTED: Thamnophis sirtalis B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_014005134.1 BCL6A transcription repressor a isoform X1 [Salmo salar]
+# Species: Salmo salar
+# Match: XM_014149659.2 PREDICTED: Salmo salar BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014698852.2 B-cell lymphoma 6 protein isoform X1 [Equus asinus]
+# Species: Equus asinus
+# Match: XM_014843366.2 PREDICTED: Equus asinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014727162.1 PREDICTED: B-cell lymphoma 6 protein [Sturnus vulgaris]
+# Species: Sturnus vulgaris
+# Match: XM_014871676.1 PREDICTED: Sturnus vulgaris B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_014801502.1 PREDICTED: B-cell lymphoma 6 protein [Calidris pugnax]
+# Species: Calidris pugnax
+# Match: XM_014946016.1 PREDICTED: Calidris pugnax B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014829983.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Poecilia mexicana]
+# Species: Poecilia mexicana
+# Match: XM_014974497.1 PREDICTED: Poecilia mexicana B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_014891438.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Poecilia latipinna]
+# Species: Poecilia latipinna
+# Match: XM_015035952.1 PREDICTED: Poecilia latipinna B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026917007.1 B-cell lymphoma 6 protein [Acinonyx jubatus]
+# Species: Acinonyx jubatus
+# Match: XM_027061206.2 PREDICTED: Acinonyx jubatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015236480.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Cyprinodon variegatus]
+# Species: Cyprinodon variegatus
+# Match: XM_015380994.1 PREDICTED: Cyprinodon variegatus B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015270719.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Gekko japonicus]
+# Species: Gekko japonicus
+# Match: XM_015415233.1 PREDICTED: Gekko japonicus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015355467.1 B-cell lymphoma 6 protein [Marmota marmota marmota]
+# Species: Marmota marmota marmota
+# Match: XM_015499981.2 PREDICTED: Marmota marmota marmota BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015493673.1 B-cell lymphoma 6 protein [Parus major]
+# Species: Parus major
+# Match: XM_015638187.2 PREDICTED: Parus major BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029142284.1 B-cell lymphoma 6 protein [Protobothrops mucrosquamatus]
+# Species: Protobothrops mucrosquamatus
+# Match: XM_029286451.1 PREDICTED: Protobothrops mucrosquamatus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_015727309.1 B-cell lymphoma 6 protein [Coturnix japonica]
+# Species: Coturnix japonica
+# Match: XM_015871823.2 PREDICTED: Coturnix japonica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015817853.2 BCL6A transcription repressor a isoform X1 [Nothobranchius furzeri]
+# Species: Nothobranchius furzeri
+# Match: XM_015962367.2 PREDICTED: Nothobranchius furzeri BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_015991780.1 B-cell lymphoma 6 protein [Rousettus aegyptiacus]
+# Species: Rousettus aegyptiacus
+# Match: XM_016136294.2 PREDICTED: Rousettus aegyptiacus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_016055551.1 PREDICTED: B-cell lymphoma 6 protein [Miniopterus natalensis]
+# Species: Miniopterus natalensis
+# Match: XM_016200065.1 PREDICTED: Miniopterus natalensis B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_016135033.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Sinocyclocheilus grahami]
+# Species: Sinocyclocheilus grahami
+# Match: XM_016279547.1 PREDICTED: Sinocyclocheilus grahami B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_016352714.1 PREDICTED: B-cell lymphoma 6 protein-like [Sinocyclocheilus anshuiensis]
+# Species: Sinocyclocheilus anshuiensis
+# Match: XM_016497228.1 PREDICTED: Sinocyclocheilus anshuiensis B-cell lymphoma 6 protein-like (LOC107696747), mRNA 
+
+
+
+# Processing: XP_017279028.1 BCL6A transcription repressor a isoform X1 [Kryptolebias marmoratus]
+# Species: Kryptolebias marmoratus
+# Match: XM_017423539.3 PREDICTED: Kryptolebias marmoratus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017335008.1 BCL6A transcription repressor a isoform X1 [Ictalurus punctatus]
+# Species: Ictalurus punctatus
+# Match: XM_017479519.3 PREDICTED: Ictalurus punctatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017405069.1 B-cell lymphoma 6 protein [Cebus imitator]
+# Species: Cebus imitator
+# Match: XM_017549580.2 PREDICTED: Cebus imitator BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017507963.1 B-cell lymphoma 6 protein isoform X1 [Manis javanica]
+# Species: Manis javanica
+# Match: XM_017652474.2 PREDICTED: Manis javanica BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_017553514.1 BCL6A transcription repressor a isoform X1 [Pygocentrus nattereri]
+# Species: Pygocentrus nattereri
+# Match: XM_017698025.2 PREDICTED: Pygocentrus nattereri BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017666240.1 PREDICTED: B-cell lymphoma 6 protein [Lepidothrix coronata]
+# Species: Lepidothrix coronata
+# Match: XM_017810751.1 PREDICTED: Lepidothrix coronata B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_017728903.1 PREDICTED: B-cell lymphoma 6 protein [Rhinopithecus bieti]
+# Species: Rhinopithecus bieti
+# Match: XM_017873414.1 PREDICTED: Rhinopithecus bieti B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_018431903.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Nanorana parkeri]
+# Species: Nanorana parkeri
+# Match: XM_018576401.1 PREDICTED: Nanorana parkeri B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_050933461.1 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Lates calcarifer]
+# Skipping this sequence due to quality issues XP_050933461.1 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Lates calcarifer]
+
+
+# Processing: XP_018612752.1 B-cell lymphoma 6 protein homolog [Scleropages formosus]
+# Species: Scleropages formosus
+# Match: XM_018757236.2 PREDICTED: Scleropages formosus B-cell lymphoma 6 protein homolog (LOC108937356), mRNA 
+
+
+
+# Processing: XP_042614188.1 BCL6A transcription repressor a isoform X1 [Cyprinus carpio]
+# Species: Cyprinus carpio
+# Match: XM_042758254.1 PREDICTED: Cyprinus carpio BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019319024.2 B-cell lymphoma 6 protein [Panthera pardus]
+# Species: Panthera pardus
+# Match: XM_019463479.2 PREDICTED: Panthera pardus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019359014.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Gavialis gangeticus]
+# Species: Gavialis gangeticus
+# Match: XM_019503469.1 PREDICTED: Gavialis gangeticus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019388446.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Crocodylus porosus]
+# Species: Crocodylus porosus
+# Match: XM_019532901.1 PREDICTED: Crocodylus porosus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019479046.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Hipposideros armiger]
+# Species: Hipposideros armiger
+# Match: XM_019623501.1 PREDICTED: Hipposideros armiger B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019752734.1 PREDICTED: B-cell lymphoma 6 protein isoform X1 [Hippocampus comes]
+# Species: Hippocampus comes
+# Match: XM_019897175.1 PREDICTED: Hippocampus comes B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019813813.1 PREDICTED: B-cell lymphoma 6 protein [Bos indicus]
+# Species: Bos indicus
+# Match: XM_019958254.1 PREDICTED: Bos indicus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_019936248.1 PREDICTED: B-cell lymphoma 6 protein [Paralichthys olivaceus]
+# Species: Paralichthys olivaceus
+# Match: XM_020080689.1 PREDICTED: Paralichthys olivaceus B-cell CLL/lymphoma 6 (bcl6), mRNA 
+
+
+
+# Processing: XP_020041929.1 B-cell lymphoma 6 protein isoform X1 [Castor canadensis]
+# Species: Castor canadensis
+# Match: XM_020186340.1 PREDICTED: Castor canadensis B-cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_020465745.1 B-cell lymphoma 6 protein [Monopterus albus]
+# Species: Monopterus albus
+# Match: XM_020610089.1 PREDICTED: Monopterus albus B-cell CLL/lymphoma 6 (bcl6), mRNA 
+
+
+
+# Processing: XP_020488249.1 B-cell lymphoma 6 protein isoform X1 [Labrus bergylta]
+# Species: Labrus bergylta
+# Match: XM_020632593.2 PREDICTED: Labrus bergylta BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_020671460.1 B-cell lymphoma 6 protein [Pogona vitticeps]
+# Species: Pogona vitticeps
+# Match: XM_020815801.1 PREDICTED: Pogona vitticeps B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_020725716.1 B-cell lymphoma 6 protein [Odocoileus virginianus texanus]
+# Species: Odocoileus virginianus texanus
+# Match: XM_020870057.1 PREDICTED: Odocoileus virginianus texanus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055021218.1 BCL6A transcription repressor a, partial [Boleophthalmus pectinirostris]
+# Skipping this sequence due to quality issues XP_055021218.1 BCL6A transcription repressor a, partial [Boleophthalmus pectinirostris]
+
+
+# Processing: XP_020844692.1 B-cell lymphoma 6 protein [Phascolarctos cinereus]
+# Species: Phascolarctos cinereus
+# Match: XM_020989033.1 PREDICTED: Phascolarctos cinereus B-cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_021040662.1 B-cell lymphoma 6 protein [Mus caroli]
+# Species: Mus caroli
+# Match: XM_021185003.1 PREDICTED: Mus caroli BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_021065493.1 B-cell lymphoma 6 protein [Mus pahari]
+# Species: Mus pahari
+# Match: XM_021209834.2 PREDICTED: Mus pahari BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_021251357.1 B-cell lymphoma 6 protein [Numida meleagris]
+# Species: Numida meleagris
+# Match: XM_021395682.1 PREDICTED: Numida meleagris B-cell CLL/lymphoma 6 (BCL6), mRNA 
+
+
+
+# Processing: XP_021392510.1 B-cell lymphoma 6 protein isoform X1 [Lonchura striata domestica]
+# Species: Lonchura striata domestica
+# Match: XM_021536835.2 PREDICTED: Lonchura striata domestica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036837187.1 BCL6A transcription repressor a [Oncorhynchus mykiss]
+# Species: Oncorhynchus mykiss
+# Match: XM_036981292.1 PREDICTED: Oncorhynchus mykiss BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_021490802.1 B-cell lymphoma 6 protein [Meriones unguiculatus]
+# Species: Meriones unguiculatus
+# Match: XM_021635127.2 PREDICTED: Meriones unguiculatus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_021548413.1 B-cell lymphoma 6 protein [Neomonachus schauinslandi]
+# Species: Neomonachus schauinslandi
+# Match: XM_021692738.1 PREDICTED: Neomonachus schauinslandi BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_022055334.2 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Acanthochromis polyacanthus]
+# Skipping this sequence due to quality issues XP_022055334.2 LOW QUALITY PROTEIN: BCL6A transcription repressor a [Acanthochromis polyacanthus]
+
+
+# Processing: XP_022365632.1 B-cell lymphoma 6 protein [Enhydra lutris kenyoni]
+# Species: Enhydra lutris kenyoni
+# Match: XM_022509924.1 PREDICTED: Enhydra lutris kenyoni B-cell CLL/lymphoma 6 (LOC111151749), mRNA 
+
+
+
+# Processing: XP_022425559.1 B-cell lymphoma 6 protein [Delphinapterus leucas]
+# Species: Delphinapterus leucas
+# Match: XM_022569851.2 PREDICTED: Delphinapterus leucas BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_022615127.1 B-cell lymphoma 6 protein isoform X1 [Seriola dumerili]
+# Species: Seriola dumerili
+# Match: XM_022759406.1 PREDICTED: Seriola dumerili B-cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023070497.1 B-cell lymphoma 6 protein [Piliocolobus tephrosceles]
+# Species: Piliocolobus tephrosceles
+# Match: XM_023214729.3 PREDICTED: Piliocolobus tephrosceles BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035803060.1 BCL6A transcription repressor a isoform X1 [Amphiprion ocellaris]
+# Species: Amphiprion ocellaris
+# Match: XM_035947167.2 PREDICTED: Amphiprion ocellaris BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023281737.1 B-cell lymphoma 6 protein isoform X1 [Seriola lalandi dorsalis]
+# Species: Seriola lalandi dorsalis
+# Match: XM_023425969.1 PREDICTED: Seriola lalandi dorsalis B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023804423.1 B-cell lymphoma 6 protein [Cyanistes caeruleus]
+# Species: Cyanistes caeruleus
+# Match: XM_023948655.1 PREDICTED: Cyanistes caeruleus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_023994603.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein-like [Salvelinus alpinus]
+# Skipping this sequence due to quality issues XP_023994603.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein-like [Salvelinus alpinus]
+
+
+# Processing: XP_024058156.1 B-cell lymphoma 6 protein isoform X1 [Terrapene carolina triunguis]
+# Species: Terrapene carolina triunguis
+# Match: XM_024202388.3 PREDICTED: Terrapene carolina triunguis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_024134881.1 BCL6A transcription repressor a isoform X1 [Oryzias melastigma]
+# Species: Oryzias melastigma
+# Match: XM_024279113.2 PREDICTED: Oryzias melastigma BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_024420375.2 B-cell lymphoma 6 protein [Desmodus rotundus]
+# Species: Desmodus rotundus
+# Match: XM_024564607.3 PREDICTED: Desmodus rotundus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_024622941.1 B-cell lymphoma 6 protein [Neophocaena asiaeorientalis asiaeorientalis]
+# Species: Neophocaena asiaeorientalis asiaeorientalis
+# Match: XM_024767173.1 PREDICTED: Neophocaena asiaeorientalis asiaeorientalis B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025231851.1 B-cell lymphoma 6 protein isoform X1 [Theropithecus gelada]
+# Species: Theropithecus gelada
+# Match: XM_025376066.1 PREDICTED: Theropithecus gelada B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025281110.1 B-cell lymphoma 6 protein [Canis lupus dingo]
+# Species: Canis lupus dingo
+# Match: XM_025425325.3 PREDICTED: Canis lupus dingo BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025732610.1 B-cell lymphoma 6 protein isoform X1 [Callorhinus ursinus]
+# Species: Callorhinus ursinus
+# Match: XM_025876825.1 PREDICTED: Callorhinus ursinus B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025769088.1 B-cell lymphoma 6 protein isoform X1 [Puma concolor]
+# Species: Puma concolor
+# Match: XM_025913303.1 PREDICTED: Puma concolor B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025863136.1 B-cell lymphoma 6 protein [Vulpes vulpes]
+# Species: Vulpes vulpes
+# Match: XM_026007351.1 PREDICTED: Vulpes vulpes B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025900943.1 B-cell lymphoma 6 protein isoform X1 [Nothoprocta perdicaria]
+# Species: Nothoprocta perdicaria
+# Match: XM_026045158.1 PREDICTED: Nothoprocta perdicaria B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025926675.1 B-cell lymphoma 6 protein isoform X1 [Apteryx rowi]
+# Species: Apteryx rowi
+# Match: XM_026070890.1 PREDICTED: Apteryx rowi B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_025949307.1 B-cell lymphoma 6 protein isoform X1 [Dromaius novaehollandiae]
+# Species: Dromaius novaehollandiae
+# Match: XM_026093522.1 PREDICTED: Dromaius novaehollandiae B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026014449.1 B-cell lymphoma 6 protein isoform X1 [Astatotilapia calliptera]
+# Species: Astatotilapia calliptera
+# Match: XM_026158664.1 PREDICTED: Astatotilapia calliptera B cell CLL/lymphoma 6 (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026069565.1 B-cell lymphoma 6 protein homolog isoform X1 [Carassius auratus]
+# Species: Carassius auratus
+# Match: XM_026213780.1 PREDICTED: Carassius auratus B-cell lymphoma 6 protein homolog (LOC113050614), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026160632.1 B-cell lymphoma 6 protein [Mastacembelus armatus]
+# Species: Mastacembelus armatus
+# Match: XM_026304847.1 PREDICTED: Mastacembelus armatus BCL6 transcription repressor (bcl6), mRNA 
+
+
+
+# Processing: XP_026201288.1 BCL6A transcription repressor a [Anabas testudineus]
+# Species: Anabas testudineus
+# Match: XM_026345503.1 PREDICTED: Anabas testudineus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_026245123.1 B-cell lymphoma 6 protein [Urocitellus parryii]
+# Species: Urocitellus parryii
+# Match: XM_026389338.1 PREDICTED: Urocitellus parryii B cell CLL/lymphoma 6 (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026352437.1 B-cell lymphoma 6 protein isoform X1 [Ursus arctos]
+# Species: Ursus arctos
+# Match: XM_026496652.4 PREDICTED: Ursus arctos BCL6 transcription repressor (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_026548327.1 B-cell lymphoma 6 protein, partial [Notechis scutatus]
+# Skipping this sequence due to quality issues XP_026548327.1 B-cell lymphoma 6 protein, partial [Notechis scutatus]
+
+
+# Processing: XP_026578140.1 B-cell lymphoma 6 protein isoform X3 [Pseudonaja textilis]
+# Species: Pseudonaja textilis
+# Match: XM_026722355.1 PREDICTED: Pseudonaja textilis B cell CLL/lymphoma 6 (BCL6), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_026710735.1 B-cell lymphoma 6 protein [Athene cunicularia]
+# Species: Athene cunicularia
+# Match: XM_026854934.1 PREDICTED: Athene cunicularia B cell CLL/lymphoma 6 (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026779110.1 BCL6A transcription repressor a isoform X1 [Pangasianodon hypophthalmus]
+# Species: Pangasianodon hypophthalmus
+# Match: XM_026923309.3 PREDICTED: Pangasianodon hypophthalmus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026863510.2 BCL6A transcription repressor a isoform X1 [Electrophorus electricus]
+# Species: Electrophorus electricus
+# Match: XM_027007709.2 PREDICTED: Electrophorus electricus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_026964907.1 B-cell lymphoma 6 protein [Lagenorhynchus obliquidens]
+# Species: Lagenorhynchus obliquidens
+# Match: XM_027109106.1 PREDICTED: Lagenorhynchus obliquidens BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027002448.1 BCL6A transcription repressor a isoform X1 [Tachysurus fulvidraco]
+# Species: Tachysurus fulvidraco
+# Match: XM_027146647.2 PREDICTED: Tachysurus fulvidraco BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027394230.1 B-cell lymphoma 6 protein [Bos indicus x Bos taurus]
+# Species: Bos indicus x Bos taurus
+# Match: XM_027538429.1 PREDICTED: Bos indicus x Bos taurus BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027442645.1 B-cell lymphoma 6 protein isoform X1 [Zalophus californianus]
+# Species: Zalophus californianus
+# Match: XM_027586844.2 PREDICTED: Zalophus californianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027503071.1 B-cell lymphoma 6 protein [Corapipo altera]
+# Species: Corapipo altera
+# Match: XM_027647270.1 PREDICTED: Corapipo altera BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027541353.1 B-cell lymphoma 6 protein [Neopelma chrysocephalum]
+# Species: Neopelma chrysocephalum
+# Match: XM_027685552.1 PREDICTED: Neopelma chrysocephalum BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027704552.1 B-cell lymphoma 6 protein [Vombatus ursinus]
+# Species: Vombatus ursinus
+# Match: XM_027848751.1 PREDICTED: Vombatus ursinus BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027739817.1 B-cell lymphoma 6 protein [Empidonax traillii]
+# Species: Empidonax traillii
+# Match: XM_027884016.1 PREDICTED: Empidonax traillii BCL6, transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027807251.1 B-cell lymphoma 6 protein [Marmota flaviventris]
+# Species: Marmota flaviventris
+# Match: XM_027951450.1 PREDICTED: Marmota flaviventris BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027883466.1 B-cell lymphoma 6 protein isoform X1 [Xiphophorus couchianus]
+# Species: Xiphophorus couchianus
+# Match: XM_028027665.1 PREDICTED: Xiphophorus couchianus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_027956680.1 B-cell lymphoma 6 protein isoform X1 [Eumetopias jubatus]
+# Species: Eumetopias jubatus
+# Match: XM_028100879.1 PREDICTED: Eumetopias jubatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028259983.1 B-cell lymphoma 6 protein isoform X1 [Parambassis ranga]
+# Species: Parambassis ranga
+# Match: XM_028404182.1 PREDICTED: Parambassis ranga BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028301123.1 B-cell lymphoma 6 protein isoform X1 [Gouania willdenowi]
+# Species: Gouania willdenowi
+# Match: XM_028445322.1 PREDICTED: Gouania willdenowi BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028361091.1 B-cell lymphoma 6 protein isoform X1 [Phyllostomus discolor]
+# Species: Phyllostomus discolor
+# Match: XM_028505290.2 PREDICTED: Phyllostomus discolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028443312.1 B-cell lymphoma 6 protein [Perca flavescens]
+# Species: Perca flavescens
+# Match: XM_028587511.1 PREDICTED: Perca flavescens BCL6 transcription repressor (bcl6), mRNA 
+
+
+
+# Processing: XP_028587688.1 B-cell lymphoma 6 protein isoform X1 [Podarcis muralis]
+# Species: Podarcis muralis
+# Match: XM_028731855.1 PREDICTED: Podarcis muralis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028639712.1 B-cell lymphoma 6 protein [Grammomys surdaster]
+# Species: Grammomys surdaster
+# Match: XM_028783879.1 PREDICTED: Grammomys surdaster BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028650855.1 BCL6A transcription repressor a isoform X1 [Erpetoichthys calabaricus]
+# Species: Erpetoichthys calabaricus
+# Match: XM_028795022.2 PREDICTED: Erpetoichthys calabaricus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_028731024.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Peromyscus leucopus]
+# Skipping this sequence due to quality issues XP_028731024.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Peromyscus leucopus]
+
+
+# Processing: XP_028857668.1 B-cell lymphoma 6 protein isoform X1 [Denticeps clupeoides]
+# Species: Denticeps clupeoides
+# Match: XM_029001835.1 PREDICTED: Denticeps clupeoides BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029004235.1 BCL6A transcription repressor a isoform X1 [Betta splendens]
+# Species: Betta splendens
+# Match: XM_029148402.3 PREDICTED: Betta splendens BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029070262.1 B-cell lymphoma 6 protein [Monodon monoceros]
+# Species: Monodon monoceros
+# Match: XM_029214429.1 PREDICTED: Monodon monoceros BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029285217.1 B-cell lymphoma 6 protein-like isoform X3 [Cottoperca gobio]
+# Species: Cottoperca gobio
+# Match: XM_029429357.1 PREDICTED: Cottoperca gobio B-cell lymphoma 6 protein-like (LOC115006819), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_029356673.1 B-cell lymphoma 6 protein isoform X1 [Echeneis naucrates]
+# Species: Echeneis naucrates
+# Match: XM_029500813.1 PREDICTED: Echeneis naucrates BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029471730.1 B-cell lymphoma 6 protein isoform X1 [Rhinatrema bivittatum]
+# Species: Rhinatrema bivittatum
+# Match: XM_029615870.1 PREDICTED: Rhinatrema bivittatum BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029509771.1 B-cell lymphoma 6 protein isoform X1 [Oncorhynchus nerka]
+# Species: Oncorhynchus nerka
+# Match: XM_029653911.1 PREDICTED: Oncorhynchus nerka BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029551248.1 B-cell lymphoma 6 protein isoform X1 [Salmo trutta]
+# Species: Salmo trutta
+# Match: XM_029695388.1 PREDICTED: Salmo trutta BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029795508.1 B-cell lymphoma 6 protein isoform X1 [Suricata suricatta]
+# Species: Suricata suricatta
+# Match: XM_029939648.1 PREDICTED: Suricata suricatta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029884483.1 B-cell lymphoma 6 protein [Aquila chrysaetos chrysaetos]
+# Species: Aquila chrysaetos chrysaetos
+# Match: XM_030028623.2 PREDICTED: Aquila chrysaetos chrysaetos BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029904714.1 B-cell lymphoma 6 protein isoform X1 [Myripristis murdjan]
+# Species: Myripristis murdjan
+# Match: XM_030048854.1 PREDICTED: Myripristis murdjan BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029938565.1 B-cell lymphoma 6 protein isoform X1 [Salarias fasciatus]
+# Species: Salarias fasciatus
+# Match: XM_030082705.1 PREDICTED: Salarias fasciatus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_029987401.1 B-cell lymphoma 6 protein isoform X1 [Sphaeramia orbicularis]
+# Species: Sphaeramia orbicularis
+# Match: XM_030131541.1 PREDICTED: Sphaeramia orbicularis BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030073089.1 B-cell lymphoma 6 protein isoform X1 [Microcaecilia unicolor]
+# Species: Microcaecilia unicolor
+# Match: XM_030217229.1 PREDICTED: Microcaecilia unicolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030184908.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Lynx canadensis]
+# Skipping this sequence due to quality issues XP_030184908.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Lynx canadensis]
+
+
+# Processing: XP_030228062.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein homolog [Gadus morhua]
+# Skipping this sequence due to quality issues XP_030228062.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein homolog [Gadus morhua]
+
+
+# Processing: XP_030290126.1 B-cell lymphoma 6 protein isoform X1 [Sparus aurata]
+# Species: Sparus aurata
+# Match: XM_030434266.1 PREDICTED: Sparus aurata BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030349634.1 B-cell lymphoma 6 protein [Strigops habroptila]
+# Species: Strigops habroptila
+# Match: XM_030493774.1 PREDICTED: Strigops habroptila BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030431366.1 B-cell lymphoma 6 protein isoform X1 [Gopherus evgoodei]
+# Species: Gopherus evgoodei
+# Match: XM_030575506.1 PREDICTED: Gopherus evgoodei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030583762.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein homolog [Archocentrus centrarchus]
+# Skipping this sequence due to quality issues XP_030583762.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein homolog [Archocentrus centrarchus]
+
+
+# Processing: XP_030647133.1 B-cell lymphoma 6 protein [Chanos chanos]
+# Species: Chanos chanos
+# Match: XM_030791273.1 PREDICTED: Chanos chanos BCL6 transcription repressor (bcl6), mRNA 
+
+
+
+# Processing: XP_030716853.1 B-cell lymphoma 6 protein [Globicephala melas]
+# Species: Globicephala melas
+# Match: XM_030860993.2 PREDICTED: Globicephala melas BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_030810472.1 B-cell lymphoma 6 protein [Camarhynchus parvulus]
+# Species: Camarhynchus parvulus
+# Match: XM_030954612.1 PREDICTED: Camarhynchus parvulus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_031167649.1 BCL6A transcription repressor a isoform X1 [Sander lucioperca]
+# Species: Sander lucioperca
+# Match: XM_031311789.2 PREDICTED: Sander lucioperca BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_031219388.1 B-cell lymphoma 6 protein [Mastomys coucha]
+# Species: Mastomys coucha
+# Match: XM_031363528.1 PREDICTED: Mastomys coucha BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_031459293.1 B-cell lymphoma 6 protein [Phasianus colchicus]
+# Species: Phasianus colchicus
+# Match: XM_031603433.1 PREDICTED: Phasianus colchicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039463407.1 BCL6A transcription repressor a isoform X1 [Oreochromis aureus]
+# Species: Oreochromis aureus
+# Match: XM_039607473.1 PREDICTED: Oreochromis aureus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_031728882.1 B-cell lymphoma 6 protein isoform X1 [Anarrhichthys ocellatus]
+# Species: Anarrhichthys ocellatus
+# Match: XM_031873022.1 PREDICTED: Anarrhichthys ocellatus BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_031975514.1 B-cell lymphoma 6 protein [Corvus moneduloides]
+# Species: Corvus moneduloides
+# Match: XM_032119623.1 PREDICTED: Corvus moneduloides BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_032027777.1 B-cell lymphoma 6 protein isoform X1 [Hylobates moloch]
+# Species: Hylobates moloch
+# Match: XM_032171886.2 PREDICTED: Hylobates moloch BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032049256.1 B-cell lymphoma 6 protein [Aythya fuligula]
+# Species: Aythya fuligula
+# Match: XM_032193365.1 PREDICTED: Aythya fuligula BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_032154167.1 B-cell lymphoma 6 protein [Sapajus apella]
+# Species: Sapajus apella
+# Match: XM_032298276.1 PREDICTED: Sapajus apella BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032193851.1 B-cell lymphoma 6 protein isoform X1 [Mustela erminea]
+# Species: Mustela erminea
+# Match: XM_032337960.1 PREDICTED: Mustela erminea BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032262816.1 B-cell lymphoma 6 protein [Phoca vitulina]
+# Species: Phoca vitulina
+# Match: XM_032406925.1 PREDICTED: Phoca vitulina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032382129.1 B-cell lymphoma 6 protein isoform X1 [Etheostoma spectabile]
+# Species: Etheostoma spectabile
+# Match: XM_032526238.1 PREDICTED: Etheostoma spectabile BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032427902.1 B-cell lymphoma 6 protein isoform X1 [Xiphophorus hellerii]
+# Species: Xiphophorus hellerii
+# Match: XM_032572011.1 PREDICTED: Xiphophorus hellerii BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032485738.1 B-cell lymphoma 6 protein [Phocoena sinus]
+# Species: Phocoena sinus
+# Match: XM_032629847.1 PREDICTED: Phocoena sinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032553773.1 B-cell lymphoma 6 protein isoform X1 [Chiroxiphia lanceolata]
+# Species: Chiroxiphia lanceolata
+# Match: XM_032697882.1 PREDICTED: Chiroxiphia lanceolata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032633194.1 B-cell lymphoma 6 protein isoform X1 [Chelonoidis abingdonii]
+# Species: Chelonoidis abingdonii
+# Match: XM_032777303.1 PREDICTED: Chelonoidis abingdonii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032731509.1 B-cell lymphoma 6 protein isoform X1 [Lontra canadensis]
+# Species: Lontra canadensis
+# Match: XM_032875618.1 PREDICTED: Lontra canadensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032755929.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Rattus rattus]
+# Skipping this sequence due to quality issues XP_032755929.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Rattus rattus]
+
+
+# Processing: XP_032887568.1 B-cell lymphoma 6 protein isoform X1 [Amblyraja radiata]
+# Species: Amblyraja radiata
+# Match: XM_033031677.1 PREDICTED: Amblyraja radiata BCL6 transcription repressor (bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_032924878.1 B-cell lymphoma 6 protein [Catharus ustulatus]
+# Species: Catharus ustulatus
+# Match: XM_033068987.1 PREDICTED: Catharus ustulatus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_032979695.1 B-cell lymphoma 6 protein isoform X1 [Rhinolophus ferrumequinum]
+# Species: Rhinolophus ferrumequinum
+# Match: XM_033123804.1 PREDICTED: Rhinolophus ferrumequinum BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033006804.1 B-cell lymphoma 6 protein isoform X1 [Lacerta agilis]
+# Species: Lacerta agilis
+# Match: XM_033150913.1 PREDICTED: Lacerta agilis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033068920.1 B-cell lymphoma 6 protein [Trachypithecus francoisi]
+# Species: Trachypithecus francoisi
+# Match: XM_033213029.1 PREDICTED: Trachypithecus francoisi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033478020.1 BCL6A transcription repressor a isoform X1 [Epinephelus lanceolatus]
+# Species: Epinephelus lanceolatus
+# Match: XM_033622129.1 PREDICTED: Epinephelus lanceolatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033814164.1 B-cell lymphoma 6 protein isoform X1 [Geotrypetes seraphini]
+# Species: Geotrypetes seraphini
+# Match: XM_033958273.1 PREDICTED: Geotrypetes seraphini BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033847844.1 BCL6A transcription repressor a isoform X1 [Periophthalmus magnuspinnatus]
+# Species: Periophthalmus magnuspinnatus
+# Match: XM_033991953.2 PREDICTED: Periophthalmus magnuspinnatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033936471.1 BCL6A transcription repressor a isoform X1 [Pseudochaenichthys georgianus]
+# Species: Pseudochaenichthys georgianus
+# Match: XM_034080580.1 PREDICTED: Pseudochaenichthys georgianus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_033996825.1 BCL6A transcription repressor a [Trematomus bernacchii]
+# Species: Trematomus bernacchii
+# Match: XM_034140934.1 PREDICTED: Trematomus bernacchii BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_034036564.1 BCL6A transcription repressor a isoform X1 [Thalassophryne amazonica]
+# Species: Thalassophryne amazonica
+# Match: XM_034180673.1 PREDICTED: Thalassophryne amazonica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034091476.1 BCL6A transcription repressor a isoform X1 [Gymnodraco acuticeps]
+# Species: Gymnodraco acuticeps
+# Match: XM_034235585.1 PREDICTED: Gymnodraco acuticeps BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060540741.1 B-cell lymphoma 6 protein isoform X1 [Pantherophis guttatus]
+# Species: Pantherophis guttatus
+# Match: XM_060684758.1 PREDICTED: Pantherophis guttatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034371040.1 B-cell lymphoma 6 protein [Arvicanthis niloticus]
+# Species: Arvicanthis niloticus
+# Match: XM_034515149.1 PREDICTED: Arvicanthis niloticus BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_034386303.1 BCL6A transcription repressor a isoform X2 [Cyclopterus lumpus]
+# Species: Cyclopterus lumpus
+# Match: XM_034530412.1 PREDICTED: Cyclopterus lumpus BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_034439107.1 BCL6A transcription repressor a isoform X1 [Hippoglossus hippoglossus]
+# Species: Hippoglossus hippoglossus
+# Match: XM_034583216.1 PREDICTED: Hippoglossus hippoglossus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034533747.1 BCL6A transcription repressor a isoform X1 [Notolabrus celidotus]
+# Species: Notolabrus celidotus
+# Match: XM_034677856.1 PREDICTED: Notolabrus celidotus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034637509.1 B-cell lymphoma 6 protein isoform X1 [Trachemys scripta elegans]
+# Species: Trachemys scripta elegans
+# Match: XM_034781618.1 PREDICTED: Trachemys scripta elegans BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_034736303.1 BCL6A transcription repressor a isoform X1 [Etheostoma cragini]
+# Species: Etheostoma cragini
+# Match: XM_034880412.1 PREDICTED: Etheostoma cragini BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_034855694.1 B-cell lymphoma 6 protein isoform X1 [Mirounga leonina]
+# Species: Mirounga leonina
+# Match: XM_034999803.1 PREDICTED: Mirounga leonina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060130227.1 B-cell lymphoma 6 protein isoform X1 [Zootoca vivipara]
+# Species: Zootoca vivipara
+# Match: XM_060274244.1 PREDICTED: Zootoca vivipara BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035032278.1 BCL6A transcription repressor a isoform X1 [Hippoglossus stenolepis]
+# Species: Hippoglossus stenolepis
+# Match: XM_035176387.2 PREDICTED: Hippoglossus stenolepis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035190489.1 B-cell lymphoma 6 protein [Oxyura jamaicensis]
+# Species: Oxyura jamaicensis
+# Match: XM_035334598.1 PREDICTED: Oxyura jamaicensis BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_035271729.1 BCL6A transcription repressor a [Anguilla anguilla]
+# Species: Anguilla anguilla
+# Match: XM_035415838.1 PREDICTED: Anguilla anguilla BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_035400497.1 B-cell lymphoma 6 protein [Cygnus atratus]
+# Species: Cygnus atratus
+# Match: XM_035544604.2 PREDICTED: Cygnus atratus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035502906.1 BCL6A transcription repressor a isoform X1 [Scophthalmus maximus]
+# Species: Scophthalmus maximus
+# Match: XM_035647013.2 PREDICTED: Scophthalmus maximus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035508882.1 BCL6A transcription repressor a isoform X3 [Morone saxatilis]
+# Species: Morone saxatilis
+# Match: XM_035652989.1 PREDICTED: Morone saxatilis BCL6A transcription repressor a (bcl6aa), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_052331605.1 BCL6A transcription repressor a isoform X1 [Oncorhynchus keta]
+# Species: Oncorhynchus keta
+# Match: XM_052475645.1 PREDICTED: Oncorhynchus keta BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_035965685.1 B-cell lymphoma 6 protein isoform X1 [Halichoerus grypus]
+# Species: Halichoerus grypus
+# Match: XM_036109792.1 PREDICTED: Halichoerus grypus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036059700.1 B-cell lymphoma 6 protein [Onychomys torridus]
+# Species: Onychomys torridus
+# Match: XM_036203807.1 PREDICTED: Onychomys torridus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036098318.1 B-cell lymphoma 6 protein [Molossus molossus]
+# Species: Molossus molossus
+# Match: XM_036242425.1 PREDICTED: Molossus molossus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036207109.1 B-cell lymphoma 6 protein isoform X1 [Myotis myotis]
+# Species: Myotis myotis
+# Match: XM_036351216.1 PREDICTED: Myotis myotis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036244783.1 B-cell lymphoma 6 protein [Molothrus ater]
+# Species: Molothrus ater
+# Match: XM_036388890.2 PREDICTED: Molothrus ater BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_036304585.1 B-cell lymphoma 6 protein isoform X1 [Pipistrellus kuhlii]
+# Species: Pipistrellus kuhlii
+# Match: XM_036448692.1 PREDICTED: Pipistrellus kuhlii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036378232.1 BCL6A transcription repressor a isoform X1 [Megalops cyprinoides]
+# Species: Megalops cyprinoides
+# Match: XM_036522339.1 PREDICTED: Megalops cyprinoides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036426260.1 BCL6A transcription repressor a isoform X1 [Colossoma macropomum]
+# Species: Colossoma macropomum
+# Match: XM_036570367.1 PREDICTED: Colossoma macropomum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036611261.1 B-cell lymphoma 6 protein [Trichosurus vulpecula]
+# Species: Trichosurus vulpecula
+# Match: XM_036755366.1 PREDICTED: Trichosurus vulpecula BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036705677.1 B-cell lymphoma 6 protein isoform X1 [Balaenoptera musculus]
+# Species: Balaenoptera musculus
+# Match: XM_036849782.1 PREDICTED: Balaenoptera musculus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036731213.1 B-cell lymphoma 6 protein [Manis pentadactyla]
+# Species: Manis pentadactyla
+# Match: XM_036875318.2 PREDICTED: Manis pentadactyla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036893532.1 B-cell lymphoma 6 protein [Sturnira hondurensis]
+# Species: Sturnira hondurensis
+# Match: XM_037037637.1 PREDICTED: Sturnira hondurensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036971394.1 BCL6A transcription repressor a isoform X1 [Acanthopagrus latus]
+# Species: Acanthopagrus latus
+# Match: XM_037115499.1 PREDICTED: Acanthopagrus latus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_036987624.2 B-cell lymphoma 6 protein isoform X1 [Artibeus jamaicensis]
+# Species: Artibeus jamaicensis
+# Match: XM_037131729.2 PREDICTED: Artibeus jamaicensis BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_037106517.1 BCL6A transcription repressor a isoform X1 [Syngnathus acus]
+# Species: Syngnathus acus
+# Match: XM_037250622.1 PREDICTED: Syngnathus acus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_037263031.1 B-cell lymphoma 6 protein [Falco rusticolus]
+# Species: Falco rusticolus
+# Match: XM_037407134.1 PREDICTED: Falco rusticolus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_037325711.1 BCL6A transcription repressor a isoform X4 [Pungitius pungitius]
+# Species: Pungitius pungitius
+# Match: XM_037469814.1 PREDICTED: Pungitius pungitius BCL6A transcription repressor a (bcl6aa), transcript variant X4, mRNA 
+
+
+
+# Processing: XP_037381165.1 B-cell lymphoma 6 protein [Talpa occidentalis]
+# Species: Talpa occidentalis
+# Match: XM_037525268.2 PREDICTED: Talpa occidentalis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_037530927.1 BCL6A transcription repressor a [Nematolebias whitei]
+# Species: Nematolebias whitei
+# Match: XM_037674999.1 PREDICTED: Nematolebias whitei BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_037626715.1 BCL6A transcription repressor a isoform X1 [Sebastes umbrosus]
+# Species: Sebastes umbrosus
+# Match: XM_037770787.1 PREDICTED: Sebastes umbrosus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_037694444.1 B-cell lymphoma 6 protein [Choloepus didactylus]
+# Species: Choloepus didactylus
+# Match: XM_037838516.1 PREDICTED: Choloepus didactylus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_038001605.1 B-cell lymphoma 6 protein [Motacilla alba alba]
+# Species: Motacilla alba alba
+# Match: XM_038145677.1 PREDICTED: Motacilla alba alba BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_038160015.1 BCL6A transcription repressor a isoform X1 [Cyprinodon tularosa]
+# Species: Cyprinodon tularosa
+# Match: XM_038304087.1 PREDICTED: Cyprinodon tularosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_038201137.1 B-cell lymphoma 6 protein [Arvicola amphibius]
+# Species: Arvicola amphibius
+# Match: XM_038345209.2 PREDICTED: Arvicola amphibius BCL6 transcription repressor (Bcl6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_038272722.1 B-cell lymphoma 6 protein isoform X1 [Dermochelys coriacea]
+# Species: Dermochelys coriacea
+# Match: XM_038416794.2 PREDICTED: Dermochelys coriacea BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_038572607.1 BCL6A transcription repressor a isoform X1 [Micropterus salmoides]
+# Species: Micropterus salmoides
+# Match: XM_038716679.1 PREDICTED: Micropterus salmoides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_038605143.1 B-cell lymphoma 6 protein [Tachyglossus aculeatus]
+# Species: Tachyglossus aculeatus
+# Match: XM_038749215.1 PREDICTED: Tachyglossus aculeatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_038671606.1 BCL6A transcription repressor a isoform X1 [Scyliorhinus canicula]
+# Species: Scyliorhinus canicula
+# Match: XM_038815678.1 PREDICTED: Scyliorhinus canicula BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_038856653.1 BCL6A transcription repressor a [Salvelinus namaycush]
+# Species: Salvelinus namaycush
+# Match: XM_039000725.1 PREDICTED: Salvelinus namaycush BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_039090138.1 B-cell lymphoma 6 protein [Hyaena hyaena]
+# Species: Hyaena hyaena
+# Match: XM_039234207.1 PREDICTED: Hyaena hyaena BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039174419.1 B-cell lymphoma 6 protein isoform X1 [Crotalus tigris]
+# Species: Crotalus tigris
+# Match: XM_039318485.1 PREDICTED: Crotalus tigris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039233970.1 B-cell lymphoma 6 protein [Pipra filicauda]
+# Species: Pipra filicauda
+# Match: XM_039378036.1 PREDICTED: Pipra filicauda BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039344711.1 B-cell lymphoma 6 protein isoform X1 [Mauremys reevesii]
+# Species: Mauremys reevesii
+# Match: XM_039488777.1 PREDICTED: Mauremys reevesii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039547406.1 BCL6A transcription repressor a isoform X1 [Pimephales promelas]
+# Species: Pimephales promelas
+# Match: XM_039691472.1 PREDICTED: Pimephales promelas BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039569293.1 B-cell lymphoma 6 protein [Passer montanus]
+# Species: Passer montanus
+# Match: XM_039713359.1 PREDICTED: Passer montanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039621704.1 BCL6A transcription repressor a isoform X1 [Polypterus senegalus]
+# Species: Polypterus senegalus
+# Match: XM_039765770.1 PREDICTED: Polypterus senegalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039667574.1 BCL6A transcription repressor a isoform X1 [Perca fluviatilis]
+# Species: Perca fluviatilis
+# Match: XM_039811640.1 PREDICTED: Perca fluviatilis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039706818.1 B-cell lymphoma 6 protein isoform X1 [Pteropus giganteus]
+# Species: Pteropus giganteus
+# Match: XM_039850884.1 PREDICTED: Pteropus giganteus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039896007.1 BCL6A transcription repressor a isoform X1 [Simochromis diagramma]
+# Species: Simochromis diagramma
+# Match: XM_040040073.1 PREDICTED: Simochromis diagramma BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_039930261.1 B-cell lymphoma 6 protein [Hirundo rustica]
+# Species: Hirundo rustica
+# Match: XM_040074327.2 PREDICTED: Hirundo rustica BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_039985213.1 BCL6A transcription repressor a isoform X3 [Xiphias gladius]
+# Species: Xiphias gladius
+# Match: XM_040129279.1 PREDICTED: Xiphias gladius BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_040039552.1 BCL6A transcription repressor a isoform X1 [Gasterosteus aculeatus aculeatus]
+# Species: Gasterosteus aculeatus aculeatus
+# Match: XM_040183618.1 PREDICTED: Gasterosteus aculeatus aculeatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040108957.1 B-cell lymphoma 6 protein [Oryx dammah]
+# Species: Oryx dammah
+# Match: XM_040253023.1 PREDICTED: Oryx dammah BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040205522.1 B-cell lymphoma 6 protein isoform X1 [Rana temporaria]
+# Species: Rana temporaria
+# Match: XM_040349588.1 PREDICTED: Rana temporaria BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040284325.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Bufo bufo]
+# Skipping this sequence due to quality issues XP_040284325.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Bufo bufo]
+
+
+# Processing: XP_040337003.1 B-cell lymphoma 6 protein isoform X1 [Puma yagouaroundi]
+# Species: Puma yagouaroundi
+# Match: XM_040481069.1 PREDICTED: Puma yagouaroundi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040423679.1 B-cell lymphoma 6 protein [Cygnus olor]
+# Species: Cygnus olor
+# Match: XM_040567745.1 PREDICTED: Cygnus olor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040469317.1 B-cell lymphoma 6 protein [Falco naumanni]
+# Species: Falco naumanni
+# Match: XM_040613383.1 PREDICTED: Falco naumanni BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040859028.1 B-cell lymphoma 6 protein [Ochotona curzoniae]
+# Species: Ochotona curzoniae
+# Match: XM_041003094.1 PREDICTED: Ochotona curzoniae BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_040896968.1 BCL6A transcription repressor a isoform X1 [Toxotes jaculatrix]
+# Species: Toxotes jaculatrix
+# Match: XM_041041034.1 PREDICTED: Toxotes jaculatrix BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041038728.1 BCL6A transcription repressor a isoform X1 [Carcharodon carcharias]
+# Species: Carcharodon carcharias
+# Match: XM_041182794.1 PREDICTED: Carcharodon carcharias BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041261896.1 B-cell lymphoma 6 protein [Onychostruthus taczanowskii]
+# Species: Onychostruthus taczanowskii
+# Match: XM_041405962.1 PREDICTED: Onychostruthus taczanowskii BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_041323825.1 B-cell lymphoma 6 protein [Pyrgilauda ruficollis]
+# Species: Pyrgilauda ruficollis
+# Match: XM_041467891.1 PREDICTED: Pyrgilauda ruficollis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041534093.1 B-cell lymphoma 6 protein [Microtus oregoni]
+# Species: Microtus oregoni
+# Match: XM_041678159.1 PREDICTED: Microtus oregoni BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_041587406.1 B-cell lymphoma 6 protein [Vulpes lagopus]
+# Species: Vulpes lagopus
+# Match: XM_041731472.1 PREDICTED: Vulpes lagopus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041646369.1 BCL6A transcription repressor a isoform X1 [Cheilinus undulatus]
+# Species: Cheilinus undulatus
+# Match: XM_041790435.1 PREDICTED: Cheilinus undulatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041791170.1 BCL6A transcription repressor a isoform X1 [Chelmon rostratus]
+# Species: Chelmon rostratus
+# Match: XM_041935236.1 PREDICTED: Chelmon rostratus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041862791.1 BCL6A transcription repressor a isoform X1 [Melanotaenia boesemani]
+# Species: Melanotaenia boesemani
+# Match: XM_042006857.1 PREDICTED: Melanotaenia boesemani BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_041898073.1 B-cell lymphoma 6 protein [Corvus kubaryi]
+# Species: Corvus kubaryi
+# Match: XM_042042139.1 PREDICTED: Corvus kubaryi BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_041967638.1 BCL6A transcription repressor a isoform X1 [Alosa sapidissima]
+# Species: Alosa sapidissima
+# Match: XM_042111704.1 PREDICTED: Alosa sapidissima BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042273445.1 BCL6A transcription repressor a [Thunnus maccoyii]
+# Species: Thunnus maccoyii
+# Match: XM_042417511.1 PREDICTED: Thunnus maccoyii BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_042313073.1 B-cell lymphoma 6 protein isoform X1 [Sceloporus undulatus]
+# Species: Sceloporus undulatus
+# Match: XM_042457139.1 PREDICTED: Sceloporus undulatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042371008.1 BCL6A transcription repressor a [Plectropomus leopardus]
+# Species: Plectropomus leopardus
+# Match: XM_042515074.1 PREDICTED: Plectropomus leopardus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_042523686.1 B-cell lymphoma 6 protein isoform X1 [Dipodomys spectabilis]
+# Species: Dipodomys spectabilis
+# Match: XM_042667752.1 PREDICTED: Dipodomys spectabilis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042561512.1 BCL6A transcription repressor a isoform X1 [Clupea harengus]
+# Species: Clupea harengus
+# Match: XM_042705578.1 PREDICTED: Clupea harengus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042676756.1 B-cell lymphoma 6 protein [Centrocercus urophasianus]
+# Species: Centrocercus urophasianus
+# Match: XM_042820822.1 PREDICTED: Centrocercus urophasianus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042734222.1 B-cell lymphoma 6 protein [Lagopus leucura]
+# Species: Lagopus leucura
+# Match: XM_042878288.1 PREDICTED: Lagopus leucura BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_042759760.1 B-cell lymphoma 6 protein [Panthera leo]
+# Species: Panthera leo
+# Match: XM_042903826.1 PREDICTED: Panthera leo BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043097602.1 BCL6A transcription repressor a isoform X2 [Puntigrus tetrazona]
+# Species: Puntigrus tetrazona
+# Match: XM_043241667.1 PREDICTED: Puntigrus tetrazona BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_043329376.1 B-cell lymphoma 6 protein [Cervus canadensis]
+# Species: Cervus canadensis
+# Match: XM_043473441.1 PREDICTED: Cervus canadensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043450555.1 B-cell lymphoma 6 protein isoform X1 [Prionailurus bengalensis]
+# Species: Prionailurus bengalensis
+# Match: XM_043594620.1 PREDICTED: Prionailurus bengalensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043729882.1 B-cell lymphoma 6 protein [Cervus elaphus]
+# Species: Cervus elaphus
+# Match: XM_043873947.1 PREDICTED: Cervus elaphus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043847461.1 B-cell lymphoma 6 protein [Dromiciops gliroides]
+# Species: Dromiciops gliroides
+# Match: XM_043991526.1 PREDICTED: Dromiciops gliroides BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043900322.1 BCL6A transcription repressor a isoform X1 [Solea senegalensis]
+# Species: Solea senegalensis
+# Match: XM_044044387.1 PREDICTED: Solea senegalensis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043926152.1 B-cell lymphoma 6 protein isoform X1 [Protopterus annectens]
+# Species: Protopterus annectens
+# Match: XM_044070217.1 PREDICTED: Protopterus annectens BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_043984745.1 BCL6A transcription repressor a isoform X1 [Gambusia affinis]
+# Species: Gambusia affinis
+# Match: XM_044128810.1 PREDICTED: Gambusia affinis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044054161.1 BCL6A transcription repressor a isoform X1 [Siniperca chuatsi]
+# Species: Siniperca chuatsi
+# Match: XM_044198226.1 PREDICTED: Siniperca chuatsi BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044107904.1 B-cell lymphoma 6 protein isoform X1 [Neogale vison]
+# Species: Neogale vison
+# -- NO Match -- 
+
+
+
+# Processing: XP_044129100.1 B-cell lymphoma 6 protein isoform X1 [Bufo gargarizans]
+# Species: Bufo gargarizans
+# Match: XM_044273165.1 PREDICTED: Bufo gargarizans BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044217656.1 BCL6A transcription repressor a isoform X1 [Thunnus albacares]
+# Species: Thunnus albacares
+# Match: XM_044361721.1 PREDICTED: Thunnus albacares BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044312179.1 B-cell lymphoma 6 protein isoform X1 [Varanus komodoensis]
+# Species: Varanus komodoensis
+# Match: XM_044456244.1 PREDICTED: Varanus komodoensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_044886056.1 B-cell lymphoma 6 protein isoform X1 [Mauremys mutica]
+# Species: Mauremys mutica
+# Match: XM_045030121.1 PREDICTED: Mauremys mutica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045358581.1 B-cell lymphoma 6 protein isoform X1 [Leopardus geoffroyi]
+# Species: Leopardus geoffroyi
+# Match: XM_045502625.1 PREDICTED: Leopardus geoffroyi BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045395856.1 B-cell lymphoma 6 protein isoform X1 [Lemur catta]
+# Species: Lemur catta
+# Match: XM_045539900.1 PREDICTED: Lemur catta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045667199.1 B-cell lymphoma 6 protein isoform X1 [Ursus americanus]
+# Species: Ursus americanus
+# Match: XM_045811243.1 PREDICTED: Ursus americanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045706776.1 B-cell lymphoma 6 protein [Phyllostomus hastatus]
+# Species: Phyllostomus hastatus
+# Match: XM_045850820.1 PREDICTED: Phyllostomus hastatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045759121.1 B-cell lymphoma 6 protein isoform X1 [Mirounga angustirostris]
+# Species: Mirounga angustirostris
+# Match: XM_045903165.2 PREDICTED: Mirounga angustirostris BCL6 transcription repressor (BCL6), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_045858089.1 B-cell lymphoma 6 protein [Meles meles]
+# Species: Meles meles
+# Match: XM_046002133.1 PREDICTED: Meles meles BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_045906332.1 BCL6A transcription repressor a isoform X2 [Micropterus dolomieu]
+# Species: Micropterus dolomieu
+# Match: XM_046050376.1 PREDICTED: Micropterus dolomieu BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_046155644.1 BCL6A transcription repressor a isoform X1 [Oncorhynchus gorbuscha]
+# Species: Oncorhynchus gorbuscha
+# Match: XM_046299688.1 PREDICTED: Oncorhynchus gorbuscha BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_046248318.1 BCL6A transcription repressor a isoform X2 [Scatophagus argus]
+# Species: Scatophagus argus
+# Match: XM_046392362.1 PREDICTED: Scatophagus argus BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_046318468.1 B-cell lymphoma 6 protein [Marmota monax]
+# Species: Marmota monax
+# Match: XM_046462512.1 PREDICTED: Marmota monax BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_046515292.1 B-cell lymphoma 6 protein isoform X1 [Equus quagga]
+# Species: Equus quagga
+# Match: XM_046659336.1 PREDICTED: Equus quagga BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_046704341.1 BCL6A transcription repressor a isoform X1 [Silurus meridionalis]
+# Species: Silurus meridionalis
+# Match: XM_046848385.1 PREDICTED: Silurus meridionalis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_046892826.1 BCL6A transcription repressor a isoform X1 [Hypomesus transpacificus]
+# Species: Hypomesus transpacificus
+# Match: XM_047036870.1 PREDICTED: Hypomesus transpacificus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_046954939.1 B-cell lymphoma 6 protein [Lynx rufus]
+# Species: Lynx rufus
+# Match: XM_047098983.1 PREDICTED: Lynx rufus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047231539.1 BCL6A transcription repressor a isoform X1 [Girardinichthys multiradiatus]
+# Species: Girardinichthys multiradiatus
+# Match: XM_047375583.1 PREDICTED: Girardinichthys multiradiatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047419525.1 B-cell lymphoma 6 protein [Sciurus carolinensis]
+# Species: Sciurus carolinensis
+# Match: XM_047563569.1 PREDICTED: Sciurus carolinensis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047442355.1 BCL6A transcription repressor a isoform X1 [Mugil cephalus]
+# Species: Mugil cephalus
+# Match: XM_047586399.1 PREDICTED: Mugil cephalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047588563.1 B-cell lymphoma 6 protein [Lutra lutra]
+# Species: Lutra lutra
+# Match: XM_047732607.1 PREDICTED: Lutra lutra BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047644565.1 B-cell lymphoma 6 protein [Phacochoerus africanus]
+# Species: Phacochoerus africanus
+# Match: XM_047788609.1 PREDICTED: Phacochoerus africanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_047731104.1 B-cell lymphoma 6 protein [Prionailurus viverrinus]
+# Species: Prionailurus viverrinus
+# Match: XM_047875148.1 PREDICTED: Prionailurus viverrinus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048055674.1 BCL6A transcription repressor a isoform X2 [Megalobrama amblycephala]
+# Species: Megalobrama amblycephala
+# Match: XM_048199717.1 PREDICTED: Megalobrama amblycephala BCL6A transcription repressor a (bcl6aa), transcript variant X2, mRNA 
+
+
+
+# Processing: XP_048108221.1 BCL6A transcription repressor a isoform X1 [Alosa alosa]
+# Species: Alosa alosa
+# Match: XM_048252264.1 PREDICTED: Alosa alosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048170511.1 B-cell lymphoma 6 protein [Corvus hawaiiensis]
+# Species: Corvus hawaiiensis
+# Match: XM_048314554.1 PREDICTED: Corvus hawaiiensis BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_048202929.1 B-cell lymphoma 6 protein [Perognathus longimembris pacificus]
+# Species: Perognathus longimembris pacificus
+# Match: XM_048346972.1 PREDICTED: Perognathus longimembris pacificus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048309844.1 B-cell lymphoma 6 protein [Myodes glareolus]
+# Species: Myodes glareolus
+# Match: XM_048453887.1 PREDICTED: Myodes glareolus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048362938.1 B-cell lymphoma 6 protein [Sphaerodactylus townsendi]
+# Species: Sphaerodactylus townsendi
+# Match: XM_048506981.1 PREDICTED: Sphaerodactylus townsendi BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_048398738.1 BCL6A transcription repressor a [Stegostoma tigrinum]
+# Species: Stegostoma tigrinum
+# Match: XM_048542781.2 PREDICTED: Stegostoma tigrinum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048721452.1 B-cell lymphoma 6 protein isoform X1 [Caretta caretta]
+# Species: Caretta caretta
+# Match: XM_048865495.1 PREDICTED: Caretta caretta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_048810564.1 B-cell lymphoma 6 protein [Lagopus muta]
+# Species: Lagopus muta
+# Match: XM_048954607.1 PREDICTED: Lagopus muta BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_048832200.1 BCL6A transcription repressor a isoform X1 [Brienomyrus brachyistius]
+# Species: Brienomyrus brachyistius
+# Match: XM_048976243.1 PREDICTED: Brienomyrus brachyistius BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049442977.1 BCL6A transcription repressor a isoform X3 [Epinephelus fuscoguttatus]
+# Species: Epinephelus fuscoguttatus
+# Match: XM_049587020.1 PREDICTED: Epinephelus fuscoguttatus BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_049485466.1 B-cell lymphoma 6 protein [Panthera uncia]
+# Species: Panthera uncia
+# Match: XM_049629509.1 PREDICTED: Panthera uncia BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049578916.1 BCL6A transcription repressor a isoform X1 [Syngnathus scovelli]
+# Species: Syngnathus scovelli
+# Match: XM_049722959.1 PREDICTED: Syngnathus scovelli BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049631659.1 B-cell lymphoma 6 protein [Suncus etruscus]
+# Species: Suncus etruscus
+# Match: XM_049775702.1 PREDICTED: Suncus etruscus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049658941.1 B-cell lymphoma 6 protein [Accipiter gentilis]
+# Species: Accipiter gentilis
+# Match: XM_049802984.1 PREDICTED: Accipiter gentilis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049750586.1 B-cell lymphoma 6 protein isoform X1 [Elephas maximus indicus]
+# Species: Elephas maximus indicus
+# Match: XM_049894629.1 PREDICTED: Elephas maximus indicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_049910721.1 BCL6A transcription repressor a [Epinephelus moara]
+# Species: Epinephelus moara
+# Match: XM_050054764.1 PREDICTED: Epinephelus moara BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_050015939.1 B-cell lymphoma 6 protein [Microtus fortis]
+# Species: Microtus fortis
+# Match: XM_050159982.1 PREDICTED: Microtus fortis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_050164097.1 B-cell lymphoma 6 protein [Myiozetetes cayanensis]
+# Species: Myiozetetes cayanensis
+# Match: XM_050308140.1 PREDICTED: Myiozetetes cayanensis BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_050635240.1 B-cell lymphoma 6 protein isoform X1 [Macaca thibetana thibetana]
+# Species: Macaca thibetana thibetana
+# Match: XM_050779283.1 PREDICTED: Macaca thibetana thibetana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_050758565.1 B-cell lymphoma 6 protein [Gymnogyps californianus]
+# Species: Gymnogyps californianus
+# Match: XM_050902608.1 PREDICTED: Gymnogyps californianus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_050820729.1 B-cell lymphoma 6 protein isoform X1 [Gopherus flavomarginatus]
+# Species: Gopherus flavomarginatus
+# Match: XM_050964772.1 PREDICTED: Gopherus flavomarginatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_050968242.1 BCL6A transcription repressor a isoform X1 [Labeo rohita]
+# Species: Labeo rohita
+# Match: XM_051112285.1 PREDICTED: Labeo rohita BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_051006742.1 B-cell lymphoma 6 protein [Acomys russatus]
+# Species: Acomys russatus
+# Match: XM_051150785.1 PREDICTED: Acomys russatus BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_051047180.1 B-cell lymphoma 6 protein [Phodopus roborovskii]
+# Species: Phodopus roborovskii
+# Match: XM_051191223.1 PREDICTED: Phodopus roborovskii BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_051232780.1 BCL6A transcription repressor a isoform X1 [Dicentrarchus labrax]
+# Species: Dicentrarchus labrax
+# Match: XM_051376820.1 PREDICTED: Dicentrarchus labrax BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_051482193.1 B-cell lymphoma 6 protein [Apus apus]
+# Species: Apus apus
+# Match: XM_051626233.1 PREDICTED: Apus apus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_051638280.1 B-cell lymphoma 6 protein [Manacus candei]
+# Species: Manacus candei
+# Match: XM_051782320.1 PREDICTED: Manacus candei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_051752284.1 BCL6A transcription repressor a [Ctenopharyngodon idella]
+# Species: Ctenopharyngodon idella
+# Match: XM_051896324.1 PREDICTED: Ctenopharyngodon idella BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_051847621.1 B-cell lymphoma 6 protein [Antechinus flavipes]
+# Species: Antechinus flavipes
+# Match: XM_051991661.1 PREDICTED: Antechinus flavipes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_051928998.1 BCL6A transcription repressor a isoform X1 [Hippocampus zosterae]
+# Species: Hippocampus zosterae
+# Match: XM_052073038.1 PREDICTED: Hippocampus zosterae BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_052013986.1 B-cell lymphoma 6 protein [Apodemus sylvaticus]
+# Species: Apodemus sylvaticus
+# Match: XM_052158026.1 PREDICTED: Apodemus sylvaticus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_052491620.1 B-cell lymphoma 6 protein [Budorcas taxicolor]
+# Species: Budorcas taxicolor
+# Match: XM_052635660.1 PREDICTED: Budorcas taxicolor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_052541917.1 B-cell lymphoma 6 protein [Tympanuchus pallidicinctus]
+# Species: Tympanuchus pallidicinctus
+# Match: XM_052685957.1 PREDICTED: Tympanuchus pallidicinctus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_052609823.1 B-cell lymphoma 6 protein [Peromyscus californicus insignis]
+# Species: Peromyscus californicus insignis
+# Match: XM_052753863.1 PREDICTED: Peromyscus californicus insignis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_052659818.1 B-cell lymphoma 6 protein [Harpia harpyja]
+# Species: Harpia harpyja
+# Match: XM_052803858.1 PREDICTED: Harpia harpyja BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053162821.1 B-cell lymphoma 6 protein isoform X1 [Hemicordylus capensis]
+# Species: Hemicordylus capensis
+# Match: XM_053306846.1 PREDICTED: Hemicordylus capensis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053177957.1 BCL6A transcription repressor a [Scomber japonicus]
+# Species: Scomber japonicus
+# Match: XM_053321982.1 PREDICTED: Scomber japonicus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_053243333.1 B-cell lymphoma 6 protein isoform X1 [Podarcis raffonei]
+# Species: Podarcis raffonei
+# Match: XM_053387358.1 PREDICTED: Podarcis raffonei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053285692.1 BCL6A transcription repressor a [Pleuronectes platessa]
+# Species: Pleuronectes platessa
+# Match: XM_053429717.1 PREDICTED: Pleuronectes platessa BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_053314504.1 B-cell lymphoma 6 protein [Spea bombifrons]
+# Species: Spea bombifrons
+# Match: XM_053458529.1 PREDICTED: Spea bombifrons BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053355161.1 BCL6A transcription repressor a isoform X1 [Clarias gariepinus]
+# Species: Clarias gariepinus
+# Match: XM_053499186.1 PREDICTED: Clarias gariepinus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053420863.1 B-cell lymphoma 6 protein [Nycticebus coucang]
+# Species: Nycticebus coucang
+# Match: XM_053564888.1 PREDICTED: Nycticebus coucang BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053492636.1 BCL6A transcription repressor a isoform X1 [Ictalurus furcatus]
+# Species: Ictalurus furcatus
+# Match: XM_053636661.1 PREDICTED: Ictalurus furcatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053566229.1 B-cell lymphoma 6 protein [Bombina bombina]
+# Species: Bombina bombina
+# Match: XM_053710254.1 PREDICTED: Bombina bombina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053708906.1 BCL6A transcription repressor a isoform X1 [Synchiropus splendidus]
+# Species: Synchiropus splendidus
+# Match: XM_053852931.1 PREDICTED: Synchiropus splendidus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053807459.1 B-cell lymphoma 6 protein [Vidua chalybeata]
+# Species: Vidua chalybeata
+# Match: XM_053951484.1 PREDICTED: Vidua chalybeata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053842122.1 B-cell lymphoma 6 protein [Vidua macroura]
+# Species: Vidua macroura
+# Match: XM_053986147.1 PREDICTED: Vidua macroura BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_053896577.1 B-cell lymphoma 6 protein isoform X1 [Malaclemys terrapin pileata]
+# Species: Malaclemys terrapin pileata
+# Match: XM_054040602.1 PREDICTED: Malaclemys terrapin pileata BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054061150.1 B-cell lymphoma 6 protein [Rissa tridactyla]
+# Species: Rissa tridactyla
+# Match: XM_054205175.1 PREDICTED: Rissa tridactyla BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054138425.1 B-cell lymphoma 6 protein [Melozone crissalis]
+# Species: Melozone crissalis
+# Match: XM_054282450.1 PREDICTED: Melozone crissalis BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_054241773.1 B-cell lymphoma 6 protein [Indicator indicator]
+# Species: Indicator indicator
+# Match: XM_054385798.1 PREDICTED: Indicator indicator BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_054337158.1 B-cell lymphoma 6 protein [Pongo pygmaeus]
+# Species: Pongo pygmaeus
+# Match: XM_054481183.1 PREDICTED: Pongo pygmaeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054441074.1 B-cell lymphoma 6 protein isoform X1 [Pteronotus parnellii mesoamericanus]
+# Species: Pteronotus parnellii mesoamericanus
+# Match: XM_054585099.1 PREDICTED: Pteronotus parnellii mesoamericanus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054458558.1 BCL6A transcription repressor a isoform X1 [Anoplopoma fimbria]
+# Species: Anoplopoma fimbria
+# Match: XM_054602583.1 PREDICTED: Anoplopoma fimbria BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054495369.1 B-cell lymphoma 6 protein isoform X1 [Agelaius phoeniceus]
+# Species: Agelaius phoeniceus
+# Match: XM_054639394.1 PREDICTED: Agelaius phoeniceus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054644816.1 BCL6A transcription repressor a isoform X1 [Dunckerocampus dactyliophorus]
+# Species: Dunckerocampus dactyliophorus
+# Match: XM_054788841.1 PREDICTED: Dunckerocampus dactyliophorus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054691357.1 B-cell lymphoma 6 protein [Grus americana]
+# Species: Grus americana
+# Match: XM_054835382.1 PREDICTED: Grus americana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054839620.1 B-cell lymphoma 6 protein isoform X1 [Eublepharis macularius]
+# Species: Eublepharis macularius
+# Match: XM_054983645.1 PREDICTED: Eublepharis macularius BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_054903422.1 BCL6A transcription repressor a isoform X1 [Poeciliopsis prolifica]
+# Species: Poeciliopsis prolifica
+# Match: XM_055047447.1 PREDICTED: Poeciliopsis prolifica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055069427.1 BCL6A transcription repressor a isoform X1 [Misgurnus anguillicaudatus]
+# Species: Misgurnus anguillicaudatus
+# Match: XM_055213452.1 PREDICTED: Misgurnus anguillicaudatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055163685.1 B-cell lymphoma 6 protein [Nyctereutes procyonoides]
+# Species: Nyctereutes procyonoides
+# Match: XM_055307710.1 PREDICTED: Nyctereutes procyonoides BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055264285.1 B-cell lymphoma 6 protein [Moschus berezovskii]
+# Species: Moschus berezovskii
+# Match: XM_055408310.1 PREDICTED: Moschus berezovskii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055424733.1 B-cell lymphoma 6 protein [Bubalus kerabau]
+# Species: Bubalus kerabau
+# Match: XM_055568758.1 PREDICTED: Bubalus kerabau BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055480990.1 B-cell lymphoma 6 protein [Psammomys obesus]
+# Species: Psammomys obesus
+# Match: XM_055625015.1 PREDICTED: Psammomys obesus BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055797112.1 BCL6A transcription repressor a isoform X1 [Salvelinus fontinalis]
+# Species: Salvelinus fontinalis
+# Match: XM_055941137.1 PREDICTED: Salvelinus fontinalis BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_055977303.1 B-cell lymphoma 6 protein [Sorex fumeus]
+# Species: Sorex fumeus
+# Match: XM_056121328.1 PREDICTED: Sorex fumeus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056102304.1 BCL6A transcription repressor a isoform X1 [Rhinichthys klamathensis goyatoka]
+# Species: Rhinichthys klamathensis goyatoka
+# Match: XM_056246329.1 PREDICTED: Rhinichthys klamathensis goyatoka BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056132427.1 BCL6A transcription repressor a [Lampris incognitus]
+# Species: Lampris incognitus
+# Match: XM_056276452.1 PREDICTED: Lampris incognitus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_056214403.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Falco biarmicus]
+# Skipping this sequence due to quality issues XP_056214403.1 LOW QUALITY PROTEIN: B-cell lymphoma 6 protein [Falco biarmicus]
+
+
+# Processing: XP_056235427.1 BCL6A transcription repressor a [Seriola aureovittata]
+# Species: Seriola aureovittata
+# Match: XM_056379452.1 PREDICTED: Seriola aureovittata BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_056271006.1 BCL6A transcription repressor a [Pseudoliparis swirei]
+# Species: Pseudoliparis swirei
+# Match: XM_056415031.1 PREDICTED: Pseudoliparis swirei BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056315900.1 BCL6A transcription repressor a [Danio aesculapii]
+# Species: Danio aesculapii
+# Match: XM_056459925.1 PREDICTED: Danio aesculapii BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_056354255.1 B-cell lymphoma 6 protein [Oenanthe melanoleuca]
+# Species: Oenanthe melanoleuca
+# Match: XM_056498280.1 PREDICTED: Oenanthe melanoleuca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056421436.1 B-cell lymphoma 6 protein [Hyla sarda]
+# Species: Hyla sarda
+# Match: XM_056565461.1 PREDICTED: Hyla sarda BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056460411.1 BCL6A transcription repressor a [Gadus chalcogrammus]
+# Species: Gadus chalcogrammus
+# Match: XM_056604436.1 PREDICTED: Gadus chalcogrammus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_056607237.1 BCL6A transcription repressor a isoform X1 [Triplophysa dalaica]
+# Species: Triplophysa dalaica
+# Match: XM_056751259.1 PREDICTED: Triplophysa dalaica BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056663442.1 B-cell lymphoma 6 protein [Monodelphis domestica]
+# Species: Monodelphis domestica
+# Match: XM_056807464.1 PREDICTED: Monodelphis domestica BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_056705546.1 B-cell lymphoma 6 protein [Euleptes europaea]
+# Species: Euleptes europaea
+# Match: XM_056849568.1 PREDICTED: Euleptes europaea BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_056894415.1 BCL6A transcription repressor a [Takifugu flavidus]
+# Species: Takifugu flavidus
+# Match: XM_057038435.1 PREDICTED: Takifugu flavidus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_057182777.1 BCL6A transcription repressor a isoform X1 [Triplophysa rosa]
+# Species: Triplophysa rosa
+# Match: XM_057326794.1 PREDICTED: Triplophysa rosa BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_057232590.1 B-cell lymphoma 6 protein [Malurus melanocephalus]
+# Species: Malurus melanocephalus
+# Match: XM_057376607.1 PREDICTED: Malurus melanocephalus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_057283420.1 B-cell lymphoma 6 protein [Pezoporus wallicus]
+# Species: Pezoporus wallicus
+# Match: XM_057427437.1 PREDICTED: Pezoporus wallicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_057594140.1 B-cell lymphoma 6 protein isoform X1 [Hippopotamus amphibius kiboko]
+# Species: Hippopotamus amphibius kiboko
+# Match: XM_057738157.1 PREDICTED: Hippopotamus amphibius kiboko BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_057620423.1 B-cell lymphoma 6 protein [Chionomys nivalis]
+# Species: Chionomys nivalis
+# Match: XM_057764440.1 PREDICTED: Chionomys nivalis BCL6 transcription repressor (Bcl6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_057696438.1 BCL6A transcription repressor a isoform X3 [Corythoichthys intestinalis]
+# Species: Corythoichthys intestinalis
+# Match: XM_057840455.1 PREDICTED: Corythoichthys intestinalis BCL6A transcription repressor a (bcl6aa), transcript variant X3, mRNA 
+
+
+
+# Processing: XP_057886977.1 B-cell lymphoma 6 protein [Melospiza georgiana]
+# Species: Melospiza georgiana
+# Match: XM_058030994.1 PREDICTED: Melospiza georgiana BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_057929772.1 BCL6A transcription repressor a isoform X1 [Doryrhamphus excisus]
+# Species: Doryrhamphus excisus
+# Match: XM_058073789.1 PREDICTED: Doryrhamphus excisus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058043874.1 B-cell lymphoma 6 protein isoform X1 [Ahaetulla prasina]
+# Species: Ahaetulla prasina
+# Match: XM_058187891.1 PREDICTED: Ahaetulla prasina BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058259315.1 BCL6A transcription repressor a isoform X1 [Hemibagrus wyckioides]
+# Species: Hemibagrus wyckioides
+# Match: XM_058403332.1 PREDICTED: Hemibagrus wyckioides BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058412117.1 B-cell lymphoma 6 protein [Diceros bicornis minor]
+# Species: Diceros bicornis minor
+# Match: XM_058556134.1 PREDICTED: Diceros bicornis minor BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058495117.1 BCL6A transcription repressor a isoform X1 [Solea solea]
+# Species: Solea solea
+# Match: XM_058639134.1 PREDICTED: Solea solea BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058586798.1 B-cell lymphoma 6 protein [Neofelis nebulosa]
+# Species: Neofelis nebulosa
+# Match: XM_058730815.1 PREDICTED: Neofelis nebulosa BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058635584.1 BCL6A transcription repressor a isoform X4 [Onychostoma macrolepis]
+# Species: Onychostoma macrolepis
+# Match: XM_058779601.1 PREDICTED: Onychostoma macrolepis BCL6A transcription repressor a (bcl6aa), transcript variant X6, mRNA 
+
+
+
+# Processing: XP_058667817.1 B-cell lymphoma 6 protein [Ammospiza caudacuta]
+# Species: Ammospiza caudacuta
+# Match: XM_058811834.1 PREDICTED: Ammospiza caudacuta BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058700521.1 B-cell lymphoma 6 protein [Poecile atricapillus]
+# Species: Poecile atricapillus
+# Match: XM_058844538.1 PREDICTED: Poecile atricapillus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_058920942.1 B-cell lymphoma 6 protein [Kogia breviceps]
+# Species: Kogia breviceps
+# Match: XM_059064959.1 PREDICTED: Kogia breviceps BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059019152.1 B-cell lymphoma 6 protein [Mustela lutreola]
+# Species: Mustela lutreola
+# Match: XM_059163169.1 PREDICTED: Mustela lutreola BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059133102.1 B-cell lymphoma 6 protein [Peromyscus eremicus]
+# Species: Peromyscus eremicus
+# Match: XM_059277119.1 PREDICTED: Peromyscus eremicus BCL6 transcription repressor (Bcl6), mRNA 
+
+
+
+# Processing: XP_059197768.1 BCL6A transcription repressor a isoform X1 [Centropristis striata]
+# Species: Centropristis striata
+# Match: XM_059341785.1 PREDICTED: Centropristis striata BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059247286.1 B-cell lymphoma 6 protein [Mustela nigripes]
+# Species: Mustela nigripes
+# Match: XM_059391303.1 PREDICTED: Mustela nigripes BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059335415.1 B-cell lymphoma 6 protein [Ammospiza nelsoni]
+# Species: Ammospiza nelsoni
+# Match: XM_059479432.1 PREDICTED: Ammospiza nelsoni BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059543325.1 B-cell lymphoma 6 protein isoform X1 [Myotis daubentonii]
+# Species: Myotis daubentonii
+# Match: XM_059687342.1 PREDICTED: Myotis daubentonii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059711501.1 B-cell lymphoma 6 protein [Haemorhous mexicanus]
+# Species: Haemorhous mexicanus
+# Match: XM_059855518.1 PREDICTED: Haemorhous mexicanus BCL6 transcription repressor (BCL6), mRNA 
+
+
+
+# Processing: XP_059776731.1 B-cell lymphoma 6 protein [Balaenoptera ricei]
+# Species: Balaenoptera ricei
+# Match: XM_059920748.1 PREDICTED: Balaenoptera ricei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059847210.1 BCL6A transcription repressor a [Hypanus sabinus]
+# Species: Hypanus sabinus
+# Match: XM_059991227.1 PREDICTED: Hypanus sabinus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059866937.1 B-cell lymphoma 6 protein isoform X1 [Delphinus delphis]
+# Species: Delphinus delphis
+# Match: XM_060010954.1 PREDICTED: Delphinus delphis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059922554.1 BCL6A transcription repressor a isoform X1 [Gadus macrocephalus]
+# Species: Gadus macrocephalus
+# Match: XM_060066571.1 PREDICTED: Gadus macrocephalus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_059955263.1 B-cell lymphoma 6 protein [Mesoplodon densirostris]
+# Species: Mesoplodon densirostris
+# Match: XM_060099280.1 PREDICTED: Mesoplodon densirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060006244.1 B-cell lymphoma 6 protein isoform X1 [Lagenorhynchus albirostris]
+# Species: Lagenorhynchus albirostris
+# Match: XM_060150261.1 PREDICTED: Lagenorhynchus albirostris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060098836.1 B-cell lymphoma 6 protein isoform X1 [Heteronotia binoei]
+# Species: Heteronotia binoei
+# Match: XM_060242853.1 PREDICTED: Heteronotia binoei BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060495490.1 B-cell lymphoma 6 protein [Panthera onca]
+# Species: Panthera onca
+# Match: XM_060639507.1 PREDICTED: Panthera onca BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060623255.1 B-cell lymphoma 6 protein isoform X1 [Anolis sagrei ordinatus]
+# Species: Anolis sagrei ordinatus
+# Match: XM_060767272.1 PREDICTED: Anolis sagrei ordinatus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060690647.1 BCL6A transcription repressor a isoform X1 [Hemiscyllium ocellatum]
+# Species: Hemiscyllium ocellatum
+# Match: XM_060834664.1 PREDICTED: Hemiscyllium ocellatum BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060723709.1 BCL6A transcription repressor a isoform X1 [Tachysurus vachellii]
+# Species: Tachysurus vachellii
+# Match: XM_060867726.1 PREDICTED: Tachysurus vachellii BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060775792.1 BCL6A transcription repressor a isoform X1 [Neoarius graeffei]
+# Species: Neoarius graeffei
+# Match: XM_060919809.1 PREDICTED: Neoarius graeffei BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060886510.1 BCL6A transcription repressor a isoform X1 [Labrus mixtus]
+# Species: Labrus mixtus
+# Match: XM_061030527.1 PREDICTED: Labrus mixtus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_060934438.1 BCL6A transcription repressor a [Limanda limanda]
+# Species: Limanda limanda
+# Match: XM_061078455.1 PREDICTED: Limanda limanda BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_061022785.1 B-cell lymphoma 6 protein [Dama dama]
+# Species: Dama dama
+# Match: XM_061166802.1 PREDICTED: Dama dama BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061050341.1 B-cell lymphoma 6 protein [Eubalaena glacialis]
+# Species: Eubalaena glacialis
+# Match: XM_061194358.1 PREDICTED: Eubalaena glacialis BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061096880.1 BCL6A transcription repressor a [Conger conger]
+# Species: Conger conger
+# Match: XM_061240896.1 PREDICTED: Conger conger BCL6A transcription repressor a (bcl6aa), mRNA 
+
+
+
+# Processing: XP_061153076.1 BCL6A transcription repressor a isoform X1 [Syngnathus typhle]
+# Species: Syngnathus typhle
+# Match: XM_061297092.1 PREDICTED: Syngnathus typhle BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061204823.1 B-cell lymphoma 6 protein [Neopsephotus bourkii]
+# Species: Neopsephotus bourkii
+# Match: XM_061348839.1 PREDICTED: Neopsephotus bourkii BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061269244.1 B-cell lymphoma 6 protein [Bos javanicus]
+# Species: Bos javanicus
+# Match: XM_061413260.1 PREDICTED: Bos javanicus BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061308168.1 B-cell lymphoma 6 protein [Pezoporus flaviventris]
+# Species: Pezoporus flaviventris
+# Match: XM_061452184.1 PREDICTED: Pezoporus flaviventris BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061493589.1 B-cell lymphoma 6 protein isoform X1 [Rhineura floridana]
+# Species: Rhineura floridana
+# Match: XM_061637605.1 PREDICTED: Rhineura floridana BCL6 transcription repressor (BCL6), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061539802.1 BCL6A transcription repressor a isoform X1 [Phycodurus eques]
+# Species: Phycodurus eques
+# Match: XM_061683818.1 PREDICTED: Phycodurus eques BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061593573.1 BCL6A transcription repressor a isoform X1 [Cololabis saira]
+# Species: Cololabis saira
+# Match: XM_061737589.1 PREDICTED: Cololabis saira BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061636138.1 BCL6A transcription repressor a isoform X1 [Phyllopteryx taeniolatus]
+# Species: Phyllopteryx taeniolatus
+# Match: XM_061780154.1 PREDICTED: Phyllopteryx taeniolatus BCL6A transcription repressor a (bcl6aa), transcript variant X1, mRNA 
+
+
+
+# Processing: XP_061681880.1 BCL6A transcription repressor a [Syngnathoides biaculeatus]
+# Species: Syngnathoides biaculeatus
+# Match: XM_061825896.1 PREDICTED: Syngnathoides biaculeatus BCL6A transcription repressor a (bcl6aa), mRNA 
+
+# Writing data to: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6
+--- The following had no matches
+XP_013814841.1 PREDICTED: B-cell lymphoma 6 protein [Apteryx mantelli mantelli]
+XP_044107904.1 B-cell lymphoma 6 protein isoform X1 [Neogale vison]

@@ -1,0 +1,35 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+23269,MGA,MAX dimerization protein MGA,Homo sapiens,human,NM_001400225.1,NP_001387154.1,,curated,RefseqSelect,default-seq
+453353,MGA,MAX dimerization protein MGA,Pan troglodytes,chimpanzee,XM_009428857.4,XP_009427132.2,,model,,default-seq
+706849,MGA,MAX dimerization protein MGA,Macaca mulatta,Rhesus monkey,XM_015141992.2,XP_014997478.1,,model,,default-seq
+100172823,MGA,MAX dimerization protein MGA,Pongo abelii,Sumatran orangutan,XM_024232346.2,XP_024088114.2,,model,,default-seq
+100401904,MGA,MAX dimerization protein MGA,Callithrix jacchus,white-tufted-ear marmoset,XM_035259730.2,XP_035115621.1,,model,,default-seq
+100581829,MGA,MAX dimerization protein MGA,Nomascus leucogenys,northern white-cheeked gibbon,XM_030814260.1,XP_030670120.1,,model,,default-seq
+100961640,MGA,MAX dimerization protein MGA,Otolemur garnettii,small-eared galago,XM_023514264.1,XP_023370032.1,,model,,default-seq
+100987736,MGA,MAX dimerization protein MGA,Pan paniscus,pygmy chimpanzee,XM_008951999.4,XP_008950247.2,,model,,default-seq
+100998283,MGA,MAX dimerization protein MGA,Papio anubis,olive baboon,XM_021940444.2,XP_021796136.2,,model,,default-seq
+101039624,MGA,MAX dimerization protein MGA,Saimiri boliviensis,Bolivian squirrel monkey,XM_039462866.1,XP_039318800.1,,model,,default-seq
+101135617,MGA,MAX dimerization protein MGA,Gorilla gorilla gorilla,western lowland gorilla,XM_031007795.2,XP_030863655.2,,model,,default-seq
+102136367,MGA,MAX dimerization protein MGA,Macaca fascicularis,crab-eating macaque,XM_045397180.1,XP_045253115.1,,model,,default-seq
+103245800,MGA,MAX dimerization protein MGA,Chlorocebus sabaeus,green monkey,XM_008016968.2,XP_008015159.2,,model,,default-seq
+103249801,MGA,MAX dimerization protein MGA,Carlito syrichta,Philippine tarsier,XM_008048426.2,XP_008046617.1,,model,,default-seq
+104666906,MGA,MAX dimerization protein MGA,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030921180.1,XP_030777040.1,,model,,default-seq
+105491898,MGA,MAX dimerization protein MGA,Macaca nemestrina,pig-tailed macaque,XM_011758612.2,XP_011756914.1,,model,,default-seq
+105525427,MGA,MAX dimerization protein MGA,Colobus angolensis palliatus,,XM_011961043.1,XP_011816433.1,,model,,default-seq
+105546212,MGA,MAX dimerization protein MGA,Mandrillus leucophaeus,drill,XM_011989336.1,XP_011844726.1,,model,,default-seq
+105574205,MGA,MAX dimerization protein MGA,Cercocebus atys,sooty mangabey,XM_012034853.1,XP_011890243.1,,model,,default-seq
+105724075,MGA,MAX dimerization protein MGA,Aotus nancymaae,Ma's night monkey,XM_021668798.1,XP_021524473.1,,model,,default-seq
+105814231,MGA,MAX dimerization protein MGA,Propithecus coquereli,Coquerel's sifaka,XM_012649125.1,XP_012504579.1,,model,,default-seq
+105872483,MGA,MAX dimerization protein MGA,Microcebus murinus,gray mouse lemur,XM_012766487.2,XP_012621941.1,,model,,default-seq
+108306194,MGA,MAX dimerization protein MGA,Cebus imitator,Panamanian white-faced capuchin,XM_037739443.1,XP_037595371.1,,model,,default-seq
+108544346,MGA,MAX dimerization protein MGA,Rhinopithecus bieti,black snub-nosed monkey,XM_017895420.1,XP_017750909.1,,model,,default-seq
+111531140,MGA,MAX dimerization protein MGA,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023198369.1,XP_023054137.1,,model,,default-seq
+112627981,MGA,MAX dimerization protein MGA,Theropithecus gelada,gelada,XM_025390742.1,XP_025246527.1,,model,,default-seq
+116482126,MGA,MAX dimerization protein MGA,Hylobates moloch,silvery gibbon,XM_032175320.2,XP_032031211.1,,model,,default-seq
+116532110,MGA,MAX dimerization protein MGA,Sapajus apella,tufted capuchin,XM_032251206.1,XP_032107097.1,,model,,default-seq
+117070837,MGA,MAX dimerization protein MGA,Trachypithecus francoisi,Francois's langur,XM_033190487.1,XP_033046378.1,,model,,default-seq
+123628793,MGA,MAX dimerization protein MGA,Lemur catta,Ring-tailed lemur,XM_045538785.1,XP_045394741.1,,model,,default-seq
+126959778,MGA,MAX dimerization protein MGA,Macaca thibetana thibetana,,XM_050799312.1,XP_050655269.1,,model,,default-seq
+128587419,MGA,MAX dimerization protein MGA,Nycticebus coucang,slow loris,XM_053593491.1,XP_053449466.1,,model,,default-seq
+129014410,MGA,MAX dimerization protein MGA,Pongo pygmaeus,Bornean orangutan,XM_054451786.1,XP_054307761.1,,model,,default-seq
+129482679,MGA,MAX dimerization protein MGA,Symphalangus syndactylus,siamang,XM_055278811.1,XP_055134786.1,,model,,default-seq

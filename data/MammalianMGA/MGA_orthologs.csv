@@ -1,0 +1,223 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+23269,MGA,MAX dimerization protein MGA,Homo sapiens,human,NM_001400225.1,NP_001387154.1,,curated,RefseqSelect,default-seq
+29808,Mga,MAX gene associated,Mus musculus,house mouse,NM_013720.2,NP_038748.2,,curated,RefseqSelect,default-seq
+453353,MGA,MAX dimerization protein MGA,Pan troglodytes,chimpanzee,XM_009428857.4,XP_009427132.2,,model,,default-seq
+478266,MGA,MAX dimerization protein MGA,Canis lupus familiaris,dog,XM_014109419.3,XP_013964894.1,,model,,default-seq
+499874,Mga,MAX dimerization protein MGA,Rattus norvegicus,Norway rat,XM_006234797.4,XP_006234859.1,,model,,default-seq
+532556,MGA,MAX dimerization protein MGA,Bos taurus,cattle,XM_024997618.2,XP_024853386.1,,model,,default-seq
+706849,MGA,MAX dimerization protein MGA,Macaca mulatta,Rhesus monkey,XM_015141992.2,XP_014997478.1,,model,,default-seq
+100032155,MGA,MAX dimerization protein MGA,Monodelphis domestica,gray short-tailed opossum,XM_056810297.1,XP_056666275.1,,model,,default-seq
+100056831,MGA,MAX dimerization protein MGA,Equus caballus,horse,XM_023619441.1,XP_023475209.1,,model,,default-seq
+100091699,MGA,MAX dimerization protein MGA,Ornithorhynchus anatinus,platypus,XM_039913861.1,XP_039769795.1,,model,,default-seq
+100156980,MGA,MAX dimerization protein MGA,Sus scrofa,pig,XM_021097378.1,XP_020953037.1,,model,,default-seq
+100172823,MGA,MAX dimerization protein MGA,Pongo abelii,Sumatran orangutan,XM_024232346.2,XP_024088114.2,,model,,default-seq
+100342567,MGA,MAX dimerization protein MGA,Oryctolagus cuniculus,rabbit,XM_008269141.3,XP_008267363.1,,model,,default-seq
+100401904,MGA,MAX dimerization protein MGA,Callithrix jacchus,white-tufted-ear marmoset,XM_035259730.2,XP_035115621.1,,model,,default-seq
+100480151,MGA,MAX dimerization protein MGA,Ailuropoda melanoleuca,giant panda,XM_034661108.1,XP_034516999.1,,model,,default-seq
+100581829,MGA,MAX dimerization protein MGA,Nomascus leucogenys,northern white-cheeked gibbon,XM_030814260.1,XP_030670120.1,,model,,default-seq
+100666575,MGA,MAX dimerization protein MGA,Loxodonta africana,African savanna elephant,XM_023558682.1,XP_023414450.1,,model,,default-seq
+100720731,Mga,MAX dimerization protein MGA,Cavia porcellus,domestic guinea pig,XM_023567513.1,XP_023423281.1,,model,,default-seq
+100761540,Mga,MAX dimerization protein MGA,Cricetulus griseus,Chinese hamster,XM_027422139.2,XP_027277940.1,,model,,default-seq
+100914082,MGA,MAX dimerization protein MGA,Sarcophilus harrisii,Tasmanian devil,XM_031952125.1,XP_031807985.1,,model,,default-seq
+100961640,MGA,MAX dimerization protein MGA,Otolemur garnettii,small-eared galago,XM_023514264.1,XP_023370032.1,,model,,default-seq
+100987736,MGA,MAX dimerization protein MGA,Pan paniscus,pygmy chimpanzee,XM_008951999.4,XP_008950247.2,,model,,default-seq
+100998283,MGA,MAX dimerization protein MGA,Papio anubis,olive baboon,XM_021940444.2,XP_021796136.2,,model,,default-seq
+101039624,MGA,MAX dimerization protein MGA,Saimiri boliviensis,Bolivian squirrel monkey,XM_039462866.1,XP_039318800.1,,model,,default-seq
+101084202,MGA,MAX dimerization protein MGA,Felis catus,domestic cat,XM_045059500.1,XP_044915435.1,,model,,default-seq
+101114361,MGA,MAX dimerization protein MGA,Ovis aries,sheep,XM_042253008.1,XP_042108942.1,,model,,default-seq
+101135617,MGA,MAX dimerization protein MGA,Gorilla gorilla gorilla,western lowland gorilla,XM_031007795.2,XP_030863655.2,,model,,default-seq
+101271683,MGA,MAX dimerization protein MGA,Orcinus orca,killer whale,XM_033435716.2,XP_033291607.1,,model,,default-seq
+101334267,MGA,MAX dimerization protein MGA,Tursiops truncatus,common bottlenose dolphin,XM_019935323.2,XP_019790882.1,,model,,default-seq
+101353571,LOC101353571,MAX dimerization protein MGA,Trichechus manatus latirostris,Florida manatee,XM_023735144.1,XP_023590912.1,,model,,default-seq
+101363621,MGA,MAX dimerization protein MGA,Odobenus rosmarus divergens,Pacific walrus,XM_004400404.2,XP_004400461.1,,model,,default-seq
+101398914,LOC101398914,MAX dimerization protein MGA,Ceratotherium simum simum,southern white rhinoceros,XM_014780585.1,XP_014636071.1,,model,,default-seq
+101416466,MGA,MAX dimerization protein MGA,Dasypus novemcinctus,nine-banded armadillo,XM_058293959.1,XP_058149942.1,,model,,default-seq
+101525161,MGA,MAX dimerization protein MGA,Ochotona princeps,American pika,XM_058666021.1,XP_058522004.1,,model,,default-seq
+101556711,MGA,MAX dimerization protein MGA,Sorex araneus,European shrew,XM_055130552.1,XP_054986527.1,,model,,default-seq
+101567113,Mga,MAX dimerization protein MGA,Octodon degus,degu,XM_023711270.1,XP_023567038.1,,model,,default-seq
+101616134,Mga,MAX dimerization protein MGA,Jaculus jaculus,lesser Egyptian jerboa,XM_045157275.1,XP_045013210.1,,model,,default-seq
+101621666,MGA,MAX dimerization protein MGA,Condylura cristata,star-nosed mole,XM_004687891.2,XP_004687948.1,,model,,default-seq
+101640527,MGA,MAX dimerization protein MGA,Echinops telfairi,small Madagascar hedgehog,XM_045288208.1,XP_045144143.1,,model,,default-seq
+101691305,MGA,MAX dimerization protein MGA,Mustela putorius furo,domestic ferret,XM_004751155.3,XP_004751212.1,,model,,default-seq
+101701209,Mga,MAX dimerization protein MGA,Heterocephalus glaber,naked mole-rat,XM_021241773.1,XP_021097432.1,,model,,default-seq
+101833973,Mga,MAX dimerization protein MGA,Mesocricetus auratus,golden hamster,XM_040746071.1,XP_040602005.1,,model,,default-seq
+101969419,Mga,MAX dimerization protein MGA,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_013359271.3,XP_013214725.1,,model,,default-seq
+101985082,Mga,MAX dimerization protein MGA,Microtus ochrogaster,prairie vole,XM_013352635.2,XP_013208089.1,,model,,default-seq
+102009603,Mga,MAX dimerization protein MGA,Chinchilla lanigera,long-tailed chinchilla,XM_013512575.1,XP_013368029.1,,model,,default-seq
+102136367,MGA,MAX dimerization protein MGA,Macaca fascicularis,crab-eating macaque,XM_045397180.1,XP_045253115.1,,model,,default-seq
+102186021,MGA,MAX dimerization protein MGA,Capra hircus,goat,XM_013966994.2,XP_013822448.1,,model,,default-seq
+102262443,MGA,MAX dimerization protein MGA,Myotis brandtii,Brandt's bat,XM_014534809.1,XP_014390295.1,,model,,default-seq
+102280996,MGA,MAX dimerization protein MGA,Bos mutus,wild yak,XM_005903968.2,XP_005904030.1,,model,,default-seq
+102400579,MGA,MAX dimerization protein MGA,Bubalus bubalis,water buffalo,XM_044925184.2,XP_044781119.1,,model,,default-seq
+102416982,MGA,MAX dimerization protein MGA,Myotis lucifugus,little brown bat,XM_014459459.2,XP_014314945.1,,model,,default-seq
+102474740,MGA,MAX dimerization protein MGA,Tupaia chinensis,Chinese tree shrew,XM_027775799.1,XP_027631600.1,,model,,default-seq
+102515406,MGA,MAX dimerization protein MGA,Camelus ferus,Wild Bactrian camel,XM_032481441.1,XP_032337332.1,,model,,default-seq
+102528155,MGA,MAX dimerization protein MGA,Vicugna pacos,alpaca,XM_015237145.2,XP_015092631.1,,model,,default-seq
+102745355,MGA,MAX dimerization protein MGA,Leptonychotes weddellii,Weddell seal,XM_031031564.1,XP_030887424.1,,model,,default-seq
+102755442,MGA,MAX dimerization protein MGA,Myotis davidii,,XM_006778155.2,XP_006778218.1,,model,,default-seq
+102815115,MGA,MAX dimerization protein MGA,Chrysochloris asiatica,Cape golden mole,XM_006831748.1,XP_006831811.1,,model,,default-seq
+102855982,MGA,MAX dimerization protein MGA,Elephantulus edwardii,Cape elephant shrew,XM_006882989.1,XP_006883051.1,,model,,default-seq
+102888927,MGA,MAX dimerization protein MGA,Pteropus alecto,black flying fox,XM_015595918.2,XP_015451404.1,,model,,default-seq
+102903856,Mga,MAX dimerization protein MGA,Peromyscus maniculatus bairdii,prairie deer mouse,XM_016009510.2,XP_015864996.1,,model,,default-seq
+102958253,MGA,MAX dimerization protein MGA,Panthera tigris,tiger,XM_042989089.1,XP_042845023.1,,model,,default-seq
+102987803,MGA,MAX dimerization protein MGA,Physeter catodon,sperm whale,XM_055088304.1,XP_054944279.1,,model,,default-seq
+103001015,MGA,MAX dimerization protein MGA,Balaenoptera acutorostrata,minke whale,XM_007180353.3,XP_007180415.2,,model,,default-seq
+103084894,MGA,MAX dimerization protein MGA,Lipotes vexillifer,Yangtze River dolphin,XM_007460202.1,XP_007460264.1,,model,,default-seq
+103125541,MGA,MAX dimerization protein MGA,Erinaceus europaeus,western European hedgehog,XM_060175016.1,XP_060030999.1,,model,,default-seq
+103192311,MGA,MAX dimerization protein MGA,Orycteropus afer afer,,XM_042783699.1,XP_042639633.1,,model,,default-seq
+103245800,MGA,MAX dimerization protein MGA,Chlorocebus sabaeus,green monkey,XM_008016968.2,XP_008015159.2,,model,,default-seq
+103249801,MGA,MAX dimerization protein MGA,Carlito syrichta,Philippine tarsier,XM_008048426.2,XP_008046617.1,,model,,default-seq
+103287516,MGA,MAX dimerization protein MGA,Eptesicus fuscus,big brown bat,XM_054716334.1,XP_054572309.1,,model,,default-seq
+103562254,MGA,MAX dimerization protein MGA,Equus przewalskii,Przewalski's horse,XM_008537252.1,XP_008535474.1,,model,,default-seq
+103603050,MGA,MAX dimerization protein MGA,Galeopterus variegatus,Sunda flying lemur,XM_008587529.1,XP_008585751.1,,model,,default-seq
+103673435,MGA,MAX dimerization protein MGA,Ursus maritimus,polar bear,XM_008702223.2,XP_008700445.2,,model,,default-seq
+103744938,Mga,MAX dimerization protein MGA,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_029570270.1,XP_029426130.1,,model,,default-seq
+104666906,MGA,MAX dimerization protein MGA,Rhinopithecus roxellana,golden snub-nosed monkey,XM_030921180.1,XP_030777040.1,,model,,default-seq
+104862638,Mga,MAX dimerization protein MGA,Fukomys damarensis,Damara mole-rat,XM_033764988.1,XP_033620879.1,,model,,default-seq
+104994436,MGA,MAX dimerization protein MGA,Bison bison bison,,XM_010847993.1,XP_010846295.1,,model,,default-seq
+105077053,MGA,MAX dimerization protein MGA,Camelus bactrianus,Bactrian camel,XM_010965333.2,XP_010963635.1,,model,,default-seq
+105096851,MGA,MAX dimerization protein MGA,Camelus dromedarius,Arabian camel,XM_031453259.1,XP_031309119.1,,model,,default-seq
+105288663,MGA,MAX dimerization protein MGA,Pteropus vampyrus,large flying fox,XM_011354950.2,XP_011353252.1,,model,,default-seq
+105491898,MGA,MAX dimerization protein MGA,Macaca nemestrina,pig-tailed macaque,XM_011758612.2,XP_011756914.1,,model,,default-seq
+105525427,MGA,MAX dimerization protein MGA,Colobus angolensis palliatus,,XM_011961043.1,XP_011816433.1,,model,,default-seq
+105546212,MGA,MAX dimerization protein MGA,Mandrillus leucophaeus,drill,XM_011989336.1,XP_011844726.1,,model,,default-seq
+105574205,MGA,MAX dimerization protein MGA,Cercocebus atys,sooty mangabey,XM_012034853.1,XP_011890243.1,,model,,default-seq
+105724075,MGA,MAX dimerization protein MGA,Aotus nancymaae,Ma's night monkey,XM_021668798.1,XP_021524473.1,,model,,default-seq
+105814231,MGA,MAX dimerization protein MGA,Propithecus coquereli,Coquerel's sifaka,XM_012649125.1,XP_012504579.1,,model,,default-seq
+105872483,MGA,MAX dimerization protein MGA,Microcebus murinus,gray mouse lemur,XM_012766487.2,XP_012621941.1,,model,,default-seq
+105981101,Mga,MAX dimerization protein MGA,Dipodomys ordii,Ord's kangaroo rat,XM_013010103.1,XP_012865557.1,,model,,default-seq
+106841350,MGA,MAX dimerization protein MGA,Equus asinus,ass,XM_014857329.2,XP_014712815.2,,model,,default-seq
+106968517,MGA,MAX dimerization protein MGA,Acinonyx jubatus,cheetah,XM_027066980.2,XP_026922781.2,,model,,default-seq
+107138198,Mga,MAX dimerization protein MGA,Marmota marmota marmota,Alpine marmot,XM_048792894.1,XP_048648851.1,,model,,default-seq
+107514501,MGA,MAX dimerization protein MGA,Rousettus aegyptiacus,Egyptian rousette,XM_036238241.1,XP_036094134.1,,model,,default-seq
+107536554,MGA,MAX dimerization protein MGA,Miniopterus natalensis,,XM_016212313.1,XP_016067799.1,,model,,default-seq
+108306194,MGA,MAX dimerization protein MGA,Cebus imitator,Panamanian white-faced capuchin,XM_037739443.1,XP_037595371.1,,model,,default-seq
+108385405,MGA,MAX dimerization protein MGA,Manis javanica,Malayan pangolin,XM_017642828.2,XP_017498317.2,,model,,default-seq
+108544346,MGA,MAX dimerization protein MGA,Rhinopithecus bieti,black snub-nosed monkey,XM_017895420.1,XP_017750909.1,,model,,default-seq
+109263113,MGA,MAX dimerization protein MGA,Panthera pardus,leopard,XM_053889168.1,XP_053745143.1,,model,,default-seq
+109383982,MGA,MAX dimerization protein MGA,Hipposideros armiger,great roundleaf bat,XM_019644861.1,XP_019500406.1,,model,,default-seq
+109564973,MGA,MAX dimerization protein MGA,Bos indicus,zebu cattle,XM_019968572.1,XP_019824131.1,,model,,default-seq
+109693135,Mga,MAX dimerization protein MGA,Castor canadensis,American beaver,XM_020174234.1,XP_020029823.1,,model,,default-seq
+110127375,MGA,MAX dimerization protein MGA,Odocoileus virginianus,white-tailed deer,XM_020877558.1,XP_020733217.1,10828330,model,,default-seq
+110223598,MGA,MAX dimerization protein MGA,Phascolarctos cinereus,koala,XM_021009204.1,XP_020864863.1,,model,,default-seq
+110310122,Mga,MAX dimerization protein MGA,Mus caroli,Ryukyu mouse,XM_029470392.1,XP_029326252.1,,model,,default-seq
+110318825,Mga,MAX dimerization protein MGA,Mus pahari,shrew mouse,XM_029535789.1,XP_029391649.1,,model,,default-seq
+110554761,Mga,MAX dimerization protein MGA,Meriones unguiculatus,Mongolian gerbil,XM_060371617.1,XP_060227600.1,,model,,default-seq
+110585414,MGA,MAX dimerization protein MGA,Neomonachus schauinslandi,Hawaiian monk seal,XM_021695610.2,XP_021551285.2,,model,,default-seq
+111158227,MGA,MAX dimerization protein MGA,Enhydra lutris kenyoni,northern sea otter,XM_022520152.1,XP_022375860.1,,model,,default-seq
+111181705,MGA,MAX dimerization protein MGA,Delphinapterus leucas,beluga whale,XM_022587391.2,XP_022443099.1,,model,,default-seq
+111531140,MGA,MAX dimerization protein MGA,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023198369.1,XP_023054137.1,,model,,default-seq
+112311643,MGA,MAX dimerization protein MGA,Desmodus rotundus,common vampire bat,XM_045201196.2,XP_045057131.1,,model,,default-seq
+112391148,MGA,MAX dimerization protein MGA,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024732347.1,XP_024588115.1,,model,,default-seq
+112627981,MGA,MAX dimerization protein MGA,Theropithecus gelada,gelada,XM_025390742.1,XP_025246527.1,,model,,default-seq
+112676076,MGA,MAX dimerization protein MGA,Canis lupus dingo,dingo,XM_049104410.1,XP_048960367.1,,model,,default-seq
+112832801,MGA,MAX dimerization protein MGA,Callorhinus ursinus,northern fur seal,XM_025883581.1,XP_025739366.1,,model,,default-seq
+112855370,MGA,MAX dimerization protein MGA,Puma concolor,puma,XM_025919005.1,XP_025774790.1,,model,,default-seq
+112919973,MGA,MAX dimerization protein MGA,Vulpes vulpes,red fox,XM_025998510.1,XP_025854295.1,,model,,default-seq
+113184021,Mga,MAX dimerization protein MGA,Urocitellus parryii,Arctic ground squirrel,XM_026390625.1,XP_026246410.1,,model,,default-seq
+113241999,MGA,MAX dimerization protein MGA,Ursus arctos,brown bear,XM_057306240.1,XP_057162223.1,,model,,default-seq
+113608051,MGA,MAX dimerization protein MGA,Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027083977.1,XP_026939778.1,,model,,default-seq
+113900131,MGA,MAX dimerization protein MGA,Bos indicus x Bos taurus,hybrid cattle,XM_027553602.1,XP_027409403.1,,model,,default-seq
+113908819,MGA,MAX dimerization protein MGA,Zalophus californianus,California sea lion,XM_027569295.2,XP_027425096.2,,model,,default-seq
+114048797,MGA,MAX dimerization protein MGA,Vombatus ursinus,common wombat,XM_027869890.1,XP_027725691.1,,model,,default-seq
+114084179,Mga,MAX dimerization protein MGA,Marmota flaviventris,yellow-bellied marmot,XM_027925347.1,XP_027781148.1,,model,,default-seq
+114201660,MGA,MAX dimerization protein MGA,Eumetopias jubatus,Steller sea lion,XM_028094448.1,XP_027950249.1,,model,,default-seq
+114492226,MGA,MAX dimerization protein MGA,Phyllostomus discolor,pale spear-nosed bat,XM_028506376.2,XP_028362177.1,,model,,default-seq
+114620769,Mga,MAX dimerization protein MGA,Grammomys surdaster,,XM_028766891.1,XP_028622724.1,,model,,default-seq
+114681135,Mga,MAX dimerization protein MGA,Peromyscus leucopus,white-footed mouse,XM_037205127.1,XP_037061022.1,,model,,default-seq
+114903368,MGA,MAX dimerization protein MGA,Monodon monoceros,narwhal,XM_029236128.1,XP_029091961.1,,model,,default-seq
+115300769,MGA,MAX dimerization protein MGA,Suricata suricatta,meerkat,XM_029950293.1,XP_029806153.1,,model,,default-seq
+115516055,MGA,MAX dimerization protein MGA,Lynx canadensis,Canada lynx,XM_030318429.2,XP_030174289.1,,model,,default-seq
+115845251,MGA,MAX dimerization protein MGA,Globicephala melas,long-finned pilot whale,XM_060294439.1,XP_060150422.1,,model,,default-seq
+116090739,Mga,MAX dimerization protein MGA,Mastomys coucha,southern multimammate mouse,XM_031371543.1,XP_031227403.1,,model,,default-seq
+116482126,MGA,MAX dimerization protein MGA,Hylobates moloch,silvery gibbon,XM_032175320.2,XP_032031211.1,,model,,default-seq
+116532110,MGA,MAX dimerization protein MGA,Sapajus apella,tufted capuchin,XM_032251206.1,XP_032107097.1,,model,,default-seq
+116590939,MGA,MAX dimerization protein MGA,Mustela erminea,ermine,XM_032343361.1,XP_032199252.1,,model,,default-seq
+116640804,MGA,MAX dimerization protein MGA,Phoca vitulina,harbor seal,XM_032418051.1,XP_032273942.1,,model,,default-seq
+116748693,MGA,MAX dimerization protein MGA,Phocoena sinus,vaquita,XM_032621861.1,XP_032477752.1,,model,,default-seq
+116867227,MGA,MAX dimerization protein MGA,Lontra canadensis,Northern American river otter,XM_032856762.1,XP_032712653.1,,model,,default-seq
+116901823,Mga,MAX dimerization protein MGA,Rattus rattus,black rat,XM_032903982.1,XP_032759873.1,,model,,default-seq
+117022966,MGA,MAX dimerization protein MGA,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033107243.1,XP_032963134.1,,model,,default-seq
+117070837,MGA,MAX dimerization protein MGA,Trachypithecus francoisi,Francois's langur,XM_033190487.1,XP_033046378.1,,model,,default-seq
+117702887,Mga,MAX dimerization protein MGA,Arvicanthis niloticus,Nile rat,XM_034494110.1,XP_034350001.1,,model,,default-seq
+118003352,MGA,MAX dimerization protein MGA,Mirounga leonina,Southern elephant seal,XM_034994279.1,XP_034850170.1,,model,,default-seq
+118530875,MGA,MAX dimerization protein MGA,Halichoerus grypus,gray seal,XM_036084569.1,XP_035940462.1,,model,,default-seq
+118581415,Mga,MAX dimerization protein MGA,Onychomys torridus,southern grasshopper mouse,XM_036183512.1,XP_036039405.1,,model,,default-seq
+118618604,MGA,MAX dimerization protein MGA,Molossus molossus,Pallas's mastiff bat,XM_036244959.1,XP_036100852.1,,model,,default-seq
+118650142,MGA,MAX dimerization protein MGA,Myotis myotis,,XM_036298085.1,XP_036153978.1,,model,,default-seq
+118723207,MGA,MAX dimerization protein MGA,Pipistrellus kuhlii,Kuhl's pipistrelle,XM_036445325.2,XP_036301218.1,,model,,default-seq
+118827907,MGA,MAX dimerization protein MGA,Trichosurus vulpecula,common brushtail,XM_036734255.1,XP_036590150.1,,model,,default-seq
+118891305,MGA,MAX dimerization protein MGA,Balaenoptera musculus,blue whale,XM_036845105.1,XP_036701000.1,,model,,default-seq
+118931353,MGA,MAX dimerization protein MGA,Manis pentadactyla,Chinese pangolin,XM_036923769.2,XP_036779664.2,,model,,default-seq
+118993547,MGA,MAX dimerization protein MGA,Sturnira hondurensis,,XM_037056006.1,XP_036911901.1,,model,,default-seq
+119061286,MGA,MAX dimerization protein MGA,Artibeus jamaicensis,Jamaican fruit-eating bat,XM_053665708.1,XP_053521683.1,,model,,default-seq
+119238520,MGA,MAX dimerization protein MGA,Talpa occidentalis,Iberian mole,XM_037502264.2,XP_037358161.1,,model,,default-seq
+119532133,MGA,MAX dimerization protein MGA,Choloepus didactylus,southern two-toed sloth,XM_037834248.1,XP_037690176.1,,model,,default-seq
+119814187,Mga,MAX dimerization protein MGA,Arvicola amphibius,Eurasian water vole,XM_038329616.2,XP_038185544.1,,model,,default-seq
+119920859,MGA,MAX dimerization protein MGA,Tachyglossus aculeatus,Australian echidna,XM_038741081.1,XP_038597009.1,,model,,default-seq
+120232294,MGA,MAX dimerization protein MGA,Hyaena hyaena,striped hyena,XM_039232923.1,XP_039088854.1,,model,,default-seq
+120622756,MGA,MAX dimerization protein MGA,Pteropus giganteus,Indian flying fox,XM_039888424.1,XP_039744358.1,,model,,default-seq
+120853168,MGA,MAX dimerization protein MGA,Oryx dammah,scimitar-horned oryx,XM_040226854.1,XP_040082788.1,,model,,default-seq
+121041549,MGA,MAX dimerization protein MGA,Puma yagouaroundi,jaguarundi,XM_040492347.1,XP_040348281.1,,model,,default-seq
+121465581,Mga,MAX dimerization protein MGA,Microtus oregoni,creeping vole,XM_041678821.1,XP_041534755.1,,model,,default-seq
+121484239,MGA,MAX dimerization protein MGA,Vulpes lagopus,Arctic fox,XM_041743170.1,XP_041599104.1,,model,,default-seq
+122114600,Mga,MAX dimerization protein MGA,Dipodomys spectabilis,banner-tailed kangaroo rat,XM_042687869.1,XP_042543803.1,,model,,default-seq
+122222154,MGA,MAX dimerization protein MGA,Panthera leo,lion,XM_042942327.1,XP_042798261.1,,model,,default-seq
+122443426,MGA,MAX dimerization protein MGA,Cervus canadensis,,XM_043471534.1,XP_043327469.1,,model,,default-seq
+122468732,MGA,MAX dimerization protein MGA,Prionailurus bengalensis,leopard cat,XM_043555596.1,XP_043411531.1,,model,,default-seq
+122704445,MGA,MAX dimerization protein MGA,Cervus elaphus,red deer,XM_043919152.1,XP_043775087.1,,model,,default-seq
+122740736,MGA,MAX dimerization protein MGA,Dromiciops gliroides,monito del monte,XM_043983355.1,XP_043839290.1,,model,,default-seq
+122892968,MGA,MAX dimerization protein MGA,Neogale vison,American mink,XM_044229698.1,XP_044085633.1,,model,,default-seq
+123237903,MGA,MAX dimerization protein MGA,Gracilinanus agilis,Agile Gracile Mouse Opossum,XM_044665114.1,XP_044521049.1,,model,,default-seq
+123581934,MGA,MAX dimerization protein MGA,Leopardus geoffroyi,Geoffroy's cat,XM_045448080.1,XP_045304036.1,,model,,default-seq
+123628793,MGA,MAX dimerization protein MGA,Lemur catta,Ring-tailed lemur,XM_045538785.1,XP_045394741.1,,model,,default-seq
+123775704,MGA,MAX dimerization protein MGA,Ursus americanus,American black bear,XM_045771165.1,XP_045627121.1,,model,,default-seq
+123807970,MGA,MAX dimerization protein MGA,Phyllostomus hastatus,greater spear-nosed bat,XM_045822087.1,XP_045678043.1,,model,,default-seq
+123861312,MGA,MAX dimerization protein MGA,Mirounga angustirostris,Northern elephant seal,XM_045900298.2,XP_045756254.1,,model,,default-seq
+123943183,MGA,MAX dimerization protein MGA,Meles meles,Eurasian badger,XM_046007124.1,XP_045863080.1,,model,,default-seq
+124104112,Mga,MAX dimerization protein MGA,Marmota monax,woodchuck,XM_046460760.2,XP_046316716.1,,model,,default-seq
+124234903,MGA,MAX dimerization protein MGA,Equus quagga,,XM_046652484.1,XP_046508440.1,,model,,default-seq
+124508683,MGA,MAX dimerization protein MGA,Lynx rufus,bobcat,XM_047075265.1,XP_046931221.1,,model,,default-seq
+124974573,Mga,MAX dimerization protein MGA,Sciurus carolinensis,gray squirrel,XM_047537744.1,XP_047393700.1,,model,,default-seq
+125104286,MGA,MAX dimerization protein MGA,Lutra lutra,Eurasian river otter,XM_047736810.1,XP_047592766.1,,model,,default-seq
+125119523,MGA,MAX dimerization protein MGA,Phacochoerus africanus,Common warthog,XM_047766621.1,XP_047622577.1,,model,,default-seq
+125168785,MGA,MAX dimerization protein MGA,Prionailurus viverrinus,fishing cat,XM_047864122.1,XP_047720078.1,,model,,default-seq
+125340630,Mga,MAX dimerization protein MGA,Perognathus longimembris pacificus,Pacific pocket mouse,XM_048332357.1,XP_048188314.1,,model,,default-seq
+125416773,Mga,MAX dimerization protein MGA,Myodes glareolus,Bank vole,XM_048459928.1,XP_048315885.1,,model,,default-seq
+125909893,MGA,MAX dimerization protein MGA,Panthera uncia,snow leopard,XM_049613406.1,XP_049469363.1,,model,,default-seq
+126020634,MGA,MAX dimerization protein MGA,Suncus etruscus,white-toothed pygmy shrew,XM_049782134.1,XP_049638091.1,,model,,default-seq
+126084817,MGA,MAX dimerization protein MGA,Elephas maximus indicus,,XM_049899692.1,XP_049755649.1,,model,,default-seq
+126494889,Mga,MAX dimerization protein MGA,Microtus fortis,reed vole,XM_050132382.1,XP_049988339.1,,model,,default-seq
+126959778,MGA,MAX dimerization protein MGA,Macaca thibetana thibetana,,XM_050799312.1,XP_050655269.1,,model,,default-seq
+127188053,Mga,MAX dimerization protein MGA,Acomys russatus,golden spiny mouse,XM_051144421.1,XP_051000378.1,,model,,default-seq
+127221604,Mga,MAX dimerization protein MGA,Phodopus roborovskii,desert hamster,XM_051183652.1,XP_051039609.1,,model,,default-seq
+127549268,MGA,MAX dimerization protein MGA,Antechinus flavipes,yellow-footed antechinus,XM_051977123.1,XP_051833083.1,,model,,default-seq
+127685771,Mga,MAX dimerization protein MGA,Apodemus sylvaticus,European woodmouse,XM_052183290.1,XP_052039250.1,,model,,default-seq
+128054856,MGA,MAX dimerization protein MGA,Budorcas taxicolor,takin,XM_052647402.1,XP_052503362.1,,model,,default-seq
+128100493,Mga,MAX dimerization protein MGA,Peromyscus californicus insignis,,XM_052722687.1,XP_052578647.1,,model,,default-seq
+128587419,MGA,MAX dimerization protein MGA,Nycticebus coucang,slow loris,XM_053593491.1,XP_053449466.1,,model,,default-seq
+129014410,MGA,MAX dimerization protein MGA,Pongo pygmaeus,Bornean orangutan,XM_054451786.1,XP_054307761.1,,model,,default-seq
+129064335,MGA,MAX dimerization protein MGA,Pteronotus parnellii mesoamericanus,,XM_054565559.1,XP_054421534.1,,model,,default-seq
+129482679,MGA,MAX dimerization protein MGA,Symphalangus syndactylus,siamang,XM_055278811.1,XP_055134786.1,,model,,default-seq
+129504153,MGA,MAX dimerization protein MGA,Nyctereutes procyonoides,raccoon dog,XM_055316678.1,XP_055172653.1,,model,,default-seq
+129562637,MGA,MAX dimerization protein MGA,Moschus berezovskii,Chinese forest musk deer,XM_055435984.1,XP_055291959.1,,model,,default-seq
+129621257,MGA,MAX dimerization protein MGA,Bubalus carabanensis,carabao,XM_055537439.1,XP_055393414.1,,model,,default-seq
+129666010,Mga,MAX dimerization protein MGA,Psammomys obesus,fat sand rat,XM_055593063.1,XP_055449038.1,,model,,default-seq
+130042092,MGA,MAX dimerization protein MGA,Sorex fumeus,smoky shrew,XM_056134472.1,XP_055990447.1,,model,,default-seq
+130845102,MGA,MAX dimerization protein MGA,Hippopotamus amphibius kiboko,,XM_057721764.1,XP_057577747.1,,model,,default-seq
+130880956,Mga,MAX dimerization protein MGA,Chionomys nivalis,European snow vole,XM_057780153.1,XP_057636136.1,,model,,default-seq
+131405983,MGA,MAX dimerization protein MGA,Diceros bicornis minor,,XM_058541292.1,XP_058397275.1,,model,,default-seq
+131516702,MGA,MAX dimerization protein MGA,Neofelis nebulosa,Clouded leopard,XM_058738101.1,XP_058594084.1,,model,,default-seq
+131753098,MGA,MAX dimerization protein MGA,Kogia breviceps,pygmy sperm whale,XM_059057965.1,XP_058913948.1,,model,,default-seq
+131836149,MGA,MAX dimerization protein MGA,Mustela lutreola,European mink,XM_059181220.1,XP_059037203.1,,model,,default-seq
+131909515,Mga,MAX dimerization protein MGA,Peromyscus eremicus,cactus mouse,XM_059261175.1,XP_059117158.1,,model,,default-seq
+131999656,MGA,MAX dimerization protein MGA,Mustela nigripes,black-footed ferret,XM_059372572.1,XP_059228555.1,,model,,default-seq
+132238690,MGA,MAX dimerization protein MGA,Myotis daubentonii,Daubenton's bat,XM_059704626.1,XP_059560609.1,,model,,default-seq
+132359473,MGA,MAX dimerization protein MGA,Balaenoptera ricei,Rice's whale,XM_059913540.1,XP_059769523.1,,model,,default-seq
+132420541,MGA,MAX dimerization protein MGA,Delphinus delphis,saddleback dolphin,XM_060005039.1,XP_059861022.1,,model,,default-seq
+132488461,MGA,MAX dimerization protein MGA,Mesoplodon densirostris,Blainville's beaked whale,XM_060096646.1,XP_059952629.1,,model,,default-seq
+132519741,MGA,MAX dimerization protein MGA,Lagenorhynchus albirostris,white-beaked dolphin,XM_060147921.1,XP_060003904.1,,model,,default-seq
+132669233,MGA,MAX dimerization protein MGA,Panthera onca,jaguar,XM_060618860.1,XP_060474843.1,,model,,default-seq
+133066427,MGA,MAX dimerization protein MGA,Dama dama,fallow deer,XM_061157493.1,XP_061013476.1,,model,,default-seq
+133084204,MGA,MAX dimerization protein MGA,Eubalaena glacialis,North Atlantic right whale,XM_061180454.1,XP_061036437.1,,model,,default-seq
+133256092,MGA,MAX dimerization protein MGA,Bos javanicus,banteng,XM_061430833.1,XP_061286817.1,,model,,default-seq

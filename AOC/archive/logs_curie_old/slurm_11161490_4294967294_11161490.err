@@ -1,0 +1,18 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Provided resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954
+Select jobs to execute...
+
+[Wed Mar 20 20:52:18 2024]
+rule get_codons:
+    output: /athena/melnicklab/users/scratch/agl4001/AOC/results/GnathostomataBCL6/GnathostomataBCL6
+    jobid: 0
+    reason: Forced execution
+    resources: mem_mb=1000, mem_mib=954, disk_mb=1000, disk_mib=954, tmpdir=/tmp
+
+Not cleaning up /athena/melnicklab/users/scratch/agl4001/AOC/.snakemake/scripts/tmpsnalhwjk.codons.py
+[Wed Mar 20 20:54:17 2024]
+Finished job 0.
+1 of 1 steps (100%) done

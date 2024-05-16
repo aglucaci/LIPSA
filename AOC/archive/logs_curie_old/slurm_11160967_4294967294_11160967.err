@@ -1,0 +1,2 @@
+Waiting at most 300 seconds for missing files.
+slurmstepd: error: *** JOB 11160967 ON node138 CANCELLED AT 2024-03-19T12:42:36 ***
