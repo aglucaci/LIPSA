@@ -1,0 +1,112 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                      count
+---------------------  -------
+MEME                         1
+PRIME                        1
+all                          1
+cln                          1
+iqtree                       1
+remove_duplicates_msa        1
+strike_ambigs_msa            1
+total                        7
+
+Select jobs to execute...
+
+[Thu May 16 15:26:15 2024]
+rule cln:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.fa
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa
+    jobid: 3
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Thu May 16 15:26:16 2024]
+Finished job 3.
+1 of 7 steps (14%) done
+Select jobs to execute...
+
+[Thu May 16 15:26:16 2024]
+rule strike_ambigs_msa:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa
+    jobid: 4
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa; Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Thu May 16 15:26:17 2024]
+Finished job 4.
+2 of 7 steps (29%) done
+Select jobs to execute...
+
+[Thu May 16 15:26:17 2024]
+rule remove_duplicates_msa:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa
+    jobid: 5
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa; Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Thu May 16 15:26:17 2024]
+Finished job 5.
+3 of 7 steps (43%) done
+Select jobs to execute...
+
+[Thu May 16 15:26:17 2024]
+rule iqtree:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    jobid: 6
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile; Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Thu May 16 15:26:54 2024]
+Finished job 6.
+4 of 7 steps (57%) done
+Select jobs to execute...
+
+[Thu May 16 15:26:54 2024]
+rule PRIME:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json
+    jobid: 7
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json; Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+
+[Thu May 16 15:26:54 2024]
+rule MEME:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json
+    jobid: 8
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json; Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Thu May 16 15:53:57 2024]
+Finished job 8.
+5 of 7 steps (71%) done
+[Fri May 17 00:34:58 2024]
+Finished job 7.
+6 of 7 steps (86%) done
+Select jobs to execute...
+
+[Fri May 17 00:34:58 2024]
+localrule all:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.aa.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json
+    jobid: 0
+    reason: Input files updated by another job: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Fri May 17 00:34:58 2024]
+Finished job 0.
+7 of 7 steps (100%) done
+Complete log: .snakemake/log/2024-05-16T152614.835729.snakemake.log

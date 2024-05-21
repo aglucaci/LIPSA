@@ -1,0 +1,36 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job      count
+-----  -------
+MEME         1
+PRIME        1
+all          1
+total        3
+
+Select jobs to execute...
+
+[Tue May 21 08:56:10 2024]
+rule PRIME:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json
+    jobid: 7
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.PRIME.json
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+
+[Tue May 21 08:56:10 2024]
+rule MEME:
+    input: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa, /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.treefile
+    output: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json
+    jobid: 8
+    reason: Missing output files: /Volumes/Expansion/MelnickLab/LIPSA-github/results/PrimateMGA/PrimateMGA.RD.SA.codons.cln.fa.MEME.json
+    wildcards: GENE=PrimateMGA
+    resources: tmpdir=/var/folders/wr/4_qy02zs0nd4kq627dc6dwyr0000gq/T
+
+[Tue May 21 09:22:43 2024]
+Finished job 8.
+1 of 3 steps (33%) done
