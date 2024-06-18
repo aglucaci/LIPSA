@@ -23,10 +23,17 @@ from Bio.SeqRecord import SeqRecord
 
 HUMAN_ID = "NM_001400225_1_Homo_sapiens_MAX_dimerization_protein_MGA_MGA_transcript_variant_3_mRNA"
 
+"""
 FASTA = os.path.join("..", 
                      "results", 
                      "PrimateMGA", 
                      "PrimateMGA.RD.SA.codons.cln.fa")
+"""
+
+FASTA = os.path.join("..", 
+                     "results", 
+                     "MammalianMGA", 
+                     "MammalianMGA.RD.SA.codons.cln.fa")
 
 def process_sites(input_file):                                
     fasta_sequence = SeqIO.parse(open(input_file),'fasta')
@@ -77,4 +84,4 @@ df = pd.DataFrame.from_dict(output_dict)
 df.index += 1
 
 
-df.to_csv("PrimateMGA-AlignmentMap.csv", index=False)
+df.to_csv("MammalianMGA-AlignmentMap.csv", index=False)

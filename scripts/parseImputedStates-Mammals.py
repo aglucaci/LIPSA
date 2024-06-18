@@ -50,6 +50,7 @@ count = 1
 for k in sorted(imputedStates["0"].keys()):
     #print(k)
     siteData = imputedStates["0"].get(k, np.nan)
+    
     if type(siteData) != dict: continue
 
     siteData = siteData.get(HumanID, np.nan)
@@ -61,13 +62,13 @@ for k in sorted(imputedStates["0"].keys()):
     if len(list(siteData["observed"].keys())) > 0:
         observedCodon = list(siteData["observed"].keys())[0]
     
-    observedSupport = siteData["support"]
+    Support = siteData["support"]
     
     for imputedCodon in siteData["imputed"].keys():
         dfDict[count] = {"HumanSite": 0, 
                          "AlignmentSite": k,
                          "ObservedCodon": observedCodon,
-                         "ObservedSupport": observedSupport,
+                         "Support": Support,
                          "ImputedCodon": imputedCodon,
                          "ImputedSupport": siteData["imputed"][imputedCodon]
                         }
@@ -77,7 +78,7 @@ for k in sorted(imputedStates["0"].keys()):
     
 df = pd.DataFrame.from_dict(dfDict, orient='index')
 
-df_AlnMap = pd.read_csv("PrimateMGA-AlignmentMap.csv")
+df_AlnMap = pd.read_csv("MammalianMGA-AlignmentMap.csv") # CHANGE THIS!
 
 for index, row in df.iterrows():
     AlnSite = row["AlignmentSite"]

@@ -9,14 +9,15 @@ Created on Tue May 21 13:05:49 2024
 import altair as alt
 import pandas as pd
 
-df = pd.read_csv("PrimateMGA-MEME-ImputedStates.csv")
-                 
+#df = pd.read_csv("PrimateMGA-MEME-ImputedStates.csv")
+df = pd.read_csv("MammalianMGA-MEME-ImputedStates.csv")
+tag = "Mammalian"               
       
 source = df
 
 source = source.astype({"HumanSite": int, "ObservedSupport": float, "ImputedCodon": str})
 
-chart = alt.Chart(source, title="Primate-MGA Evolutionary State Imputation").mark_point().encode(
+chart = alt.Chart(source, title=tag+"-MGA Evolutionary State Imputation").mark_point().encode(
     x=alt.X('HumanSite'),
     y=alt.Y('ImputedCodon:N'),
     color=alt.Color('ImputedSupport:Q').scale(scheme='greenblue'),
@@ -38,7 +39,7 @@ chart = alt.Chart(source, title="Primate-MGA Evolutionary State Imputation").mar
     domain=False
 )
     
-chart2 = alt.Chart(source, title="Primate-MGA Evolutionary State Imputation").mark_point().encode(
+chart2 = alt.Chart(source, title=tag+"-MGA Evolutionary State Imputation").mark_point().encode(
     x=alt.X('HumanSite'),
     y=alt.Y('ObservedCodon'),
     color=alt.Color('Observedupport:Q').scale(scheme='greenblue'),
@@ -58,4 +59,4 @@ chart2 = alt.Chart(source, title="Primate-MGA Evolutionary State Imputation").ma
     domain=False
 )
 
-chart.save('chart.html')
+chart.save(tag+'_chart.html')
